@@ -1,0 +1,6382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ave\n"
+"POT-Creation-Date: 2018-12-17 12:36+0200\n"
+"PO-Revision-Date: 2019-04-29 17:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: harry <admin@suite13.de>\n"
+"Language-Team: Deutsch\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: de-DE\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: 404.php:61
+msgid "Looks like you are lost."
+msgstr "Sieht so aus, als hätten Sie sich verlaufen."
+
+#: 404.php:62
+msgid "We can’t seem to find the page you’re looking for."
+msgstr "Wir können die gesuchte Seite nicht finden."
+
+#: 404.php:69
+msgid "Go Home!"
+msgstr "Go Home!"
+
+#: comments.php:33 woocommerce/single-product-reviews.php:82
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:35 woocommerce/single-product-reviews.php:89
+msgid "Email"
+msgstr "E-Mail"
+
+#: comments.php:37
+msgid "Website"
+msgstr "Webseite"
+
+#: comments.php:43
+msgid "Leave a comment"
+msgstr "Einen Kommentar hinterlassen"
+
+#: comments.php:48
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:51 woocommerce/single-product-reviews.php:92
+msgid "Submit"
+msgstr "Absenden"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: liquid/admin/liquid-admin-dashboard.php:19
+msgid "Liquid Dashboard"
+msgstr "Liquid Dashboard"
+
+#: liquid/admin/liquid-admin-dashboard.php:20
+msgid "Liquid"
+msgstr "Liquid"
+
+#: liquid/admin/liquid-admin-import.php:19
+msgid "Liquid Import Demos"
+msgstr "Liquid Import Demos"
+
+#: liquid/admin/liquid-admin-import.php:20
+msgid "Import Demos"
+msgstr "Demos importieren"
+
+#: liquid/admin/liquid-admin-init.php:83
+msgid "Choose an image/svg icon"
+msgstr "Wählen Sie ein Bild/svg-Symbol aus."
+
+#: liquid/admin/liquid-admin-init.php:84
+msgid "Select"
+msgstr "Auswählen"
+
+#: liquid/admin/liquid-admin-init.php:101
+msgid "<span class=\"dashicons dashicons-info\"></span> Reset"
+msgstr "<span class=\"dashicons dashicons-info\"></span> Zurücksetzen"
+
+#: liquid/admin/liquid-admin-init.php:102
+msgid ""
+"Remove posts, pages, media and any other content on your current site, We "
+"strongly recommend to reset before importing ( even if this is a fresh site )"
+" to avoid any overlap or conflict with your current content.<br/><strong>"
+"Note:</strong> Don't use the reset option if you are trying to import some "
+"parts only ( For example if you are going to import theme options only then "
+"you may continue without reset )"
+msgstr ""
+"Entfernen Sie Beiträge, Seiten, Medien und andere Inhalte auf Ihrer "
+"aktuellen Website. Wir empfehlen dringend, vor dem Import zurückzusetzen "
+"(auch wenn es sich um eine neue Website handelt), um Überschneidungen oder "
+"Konflikte mit Ihrem aktuellen Inhalt zu vermeiden.<br/><strong>Hinweis:"
+"</strong> Verwenden Sie nicht die Reset-Option, wenn Sie versuchen, nur "
+"einige Teile zu importieren (z.B. wenn Sie nur Themenoptionen importieren "
+"möchten, können Sie ohne Zurücksetzen fortfahren)."
+
+#: liquid/admin/liquid-admin-init.php:103
+msgid "Reset Then Import"
+msgstr "Zurücksetzen und dann importieren"
+
+#: liquid/admin/liquid-admin-init.php:104
+msgid "Keep Importing Without Resetting"
+msgstr "Importierung ohne Zurücksetzen fortsetzen"
+
+#: liquid/admin/liquid-admin-init.php:105
+msgid "I understand"
+msgstr "Ich verstehe"
+
+#: liquid/admin/liquid-admin-init.php:106
+msgid "<span class=\"dashicons dashicons-warning\"></span> Warning"
+msgstr "<span class=\"dashicons dashicons-warning\"></span> Warnung"
+
+#: liquid/admin/liquid-admin-init.php:107
+msgid ""
+"Since you selected to reset before importing please be aware this action "
+"cannot be reversed ( Any removed content cannot be restored )"
+msgstr ""
+"Da Sie vor dem Import auf Zurücksetzen gesetzt haben, beachten Sie bitte, "
+"dass diese Aktion nicht rückgängig gemacht werden kann (Alle entfernten "
+"Inhalte können nicht wiederhergestellt werden)."
+
+#: liquid/admin/liquid-admin-init.php:241
+msgid "Header Modules"
+msgstr "Kopfzeilen-Module"
+
+#: liquid/admin/liquid-admin-init.php:295 liquid/admin/views/liquid-tabs.php:16
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: liquid/admin/liquid-admin-license.php:18
+msgid "Liquid License"
+msgstr "Liquid-Lizenz"
+
+#: liquid/admin/liquid-admin-license.php:19
+msgid "License"
+msgstr "Lizenz"
+
+#: liquid/admin/liquid-admin-plugins.php:19
+msgid "Install Liquid Plugins"
+msgstr "Liquid Plugins installieren"
+
+#: liquid/admin/liquid-admin-plugins.php:20 
+#: liquid/admin/views/liquid-plugins.php:22 
+#: liquid/admin/views/liquid-tabs.php:21 
+#: liquid/libs/class-tgm-plugin-activation.php:317
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: liquid/admin/updater/liquid-register-admin.php:101 
+#: liquid/admin/views/liquid-demos.php:32 
+#: liquid/admin/views/liquid-plugins.php:38
+#, php-format
+msgid "The %s theme needs to be registered. %sRegister Now%s"
+msgstr "Das %s-Thema muss registriert werden. %sRegistrieren Sie sich jetzt%s"
+
+#: liquid/admin/updater/liquid-register-admin.php:107
+#, php-format
+msgid "Purchase code is invalid. Need a license? %sPurchase Now%s"
+msgstr ""
+"Der Bestellcode ist ungültig. Benötigen Sie eine Lizenz? %sJetzt kaufen%s"
+
+#: liquid/admin/updater/liquid-register-admin.php:123
+msgid "Register Ave"
+msgstr "Ave registrieren"
+
+#: liquid/admin/updater/liquid-register-admin.php:154
+msgid "Enter your purchase code"
+msgstr "Geben Sie Ihren Bestellschlüssel ein"
+
+#: liquid/admin/updater/liquid-register-admin.php:155
+msgid "Register your copy"
+msgstr "Registrieren Sie Ihre Ausgabe"
+
+#: liquid/admin/updater/liquid-updater-class.php:73
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>"
+"."
+msgstr ""
+"<strong>%1$s %2$s</strong> ist verfügbar. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Sehen Sie sich an, was es Neues gibt.</a> "
+"oder <a href=\"%5$s\"%6$s>jetzt aktualisieren</a>."
+
+#: liquid/admin/views/liquid-dashboard.php:9
+msgid "Welcome to Ave!"
+msgstr "Willkommen bei Ave!"
+
+#: liquid/admin/views/liquid-dashboard.php:10
+msgid "Total design freedom for everyone."
+msgstr "Völlige Designfreiheit für alle."
+
+#: liquid/admin/views/liquid-demos.php:9
+msgid "Import a Demo"
+msgstr "Eine Demo importieren"
+
+#: liquid/admin/views/liquid-demos.php:10 
+#: liquid/admin/views/liquid-plugins.php:23
+msgid "Choose a pre-built website for starting a quick design process."
+msgstr ""
+"Wählen Sie eine vorgefertigte Website, um einen schnellen Gestaltungsvorgang "
+"zu starten."
+
+#: liquid/admin/views/liquid-demos.php:13 
+#: liquid/admin/views/liquid-demos.php:101 
+#: liquid/admin/views/liquid-plugins.php:26
+msgid "Important:"
+msgstr "Wichtig:"
+
+#: liquid/admin/views/liquid-demos.php:13 
+#: liquid/admin/views/liquid-demos.php:101 
+#: liquid/admin/views/liquid-demos.php:109 
+#: liquid/admin/views/liquid-plugins.php:26
+msgid "Make sure to activate required plugins prior to import a demo."
+msgstr ""
+"Achten Sie darauf, dass Sie die erforderlichen Plugins aktivieren, bevor Sie "
+"eine Demo importieren."
+
+#: liquid/admin/views/liquid-demos.php:46 
+#: liquid/admin/views/liquid-demos.php:179 
+#: liquid/admin/views/liquid-tabs.php:26
+msgid "Import Demo"
+msgstr "Demo importieren"
+
+#: liquid/admin/views/liquid-demos.php:49
+msgid "Preview"
+msgstr "Vorschau"
+
+#: liquid/admin/views/liquid-demos.php:65
+msgid "Importing..."
+msgstr "Importieren....."
+
+#: liquid/admin/views/liquid-demos.php:66
+msgid "Working"
+msgstr "Arbeitet"
+
+#: liquid/admin/views/liquid-demos.php:69
+msgid "0%"
+msgstr "0%"
+
+#: liquid/admin/views/liquid-demos.php:119
+msgid "All Content"
+msgstr "Alle Inhalte"
+
+#: liquid/admin/views/liquid-demos.php:127 
+#: theme/theme-options/liquid-page-maintenance.php:108
+msgid "Page Content"
+msgstr "Seiteninhalt"
+
+#: liquid/admin/views/liquid-demos.php:135
+msgid "Media Attachments"
+msgstr "Medien-Anhänge"
+
+#: liquid/admin/views/liquid-demos.php:143 
+#: theme/metaboxes/liquid-sidebars.php:8 
+#: theme/theme-options/liquid-sidebars.php:8
+msgid "Sidebars"
+msgstr "Seitenleisten"
+
+#: liquid/admin/views/liquid-demos.php:151 
+#: liquid/liquid-theme-options-init.php:62 
+#: liquid/liquid-theme-options-init.php:63
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: liquid/admin/views/liquid-demos.php:159
+msgid "Home Page"
+msgstr "Startseite"
+
+#: liquid/admin/views/liquid-demos.php:171
+msgid ""
+"This process will overwrite your current settings, are you sure you want to "
+"proceed?"
+msgstr ""
+"Dieser Prozess überschreibt Ihre aktuellen Einstellungen. Sind Sie sicher, "
+"dass Sie fortfahren wollen?"
+
+#: liquid/admin/views/liquid-features.php:3
+msgid "Unlock Premium Features"
+msgstr "Premium-Funktionen freischalten"
+
+#: liquid/admin/views/liquid-features.php:7 
+#: liquid/admin/views/liquid-features.php:17 
+#: liquid/admin/views/liquid-features.php:27
+msgid "Check"
+msgstr "Prüfen"
+
+#: liquid/admin/views/liquid-features.php:10
+msgid "Enable Auto Updates"
+msgstr "Automatische Updates aktivieren"
+
+#: liquid/admin/views/liquid-features.php:11
+msgid "Smart Dashboard keeps your site up-to-date. Free for lifetime."
+msgstr ""
+"Smart Dashboard hält Ihre Website auf dem neuesten Stand. Kostenlos und auf "
+"Lebenszeit."
+
+#: liquid/admin/views/liquid-features.php:20
+msgid "Exclusive and Premium Plugins"
+msgstr "Exklusiv mit Premium-Plugins"
+
+#: liquid/admin/views/liquid-features.php:21
+msgid "Get access to premium and exclusive plugins for free."
+msgstr ""
+"Erhalten Sie kostenlos Zugang zu Premiumfunktionen und exklusiven Plugins."
+
+#: liquid/admin/views/liquid-features.php:30
+msgid "Premium Support"
+msgstr "Premium-Support"
+
+#: liquid/admin/views/liquid-features.php:31
+msgid "Get access to top-notch support."
+msgstr "Erhalten Sie Zugang zu erstklassigem Support."
+
+#: liquid/admin/views/liquid-plugins.php:58
+msgid "Active:"
+msgstr "Aktiv:"
+
+#: liquid/admin/views/liquid-registration.php:17
+msgid "Can’t find your purchase code?"
+msgstr "Sie können Ihren Bestellcode nicht finden?"
+
+#: liquid/admin/views/liquid-tabs.php:32
+msgid "Documentations"
+msgstr "Dokumentationen"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:158
+msgid "Browse:"
+msgstr "Durchsuchen:"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:159
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Übersichtspfad"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:160
+msgid "Home"
+msgstr "Home"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:161
+msgid "404 Not Found"
+msgstr "404 Nicht gefunden"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:162
+msgid "Archives"
+msgstr "Archive"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:163 
+#: liquid/structure/posts.php:301
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Suchergebnisse für &#8220;%s&#8221;"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:164
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:165 
+#: liquid/structure/posts.php:312
+#, php-format
+msgid "Minute %s"
+msgstr "Minute %s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:166
+#, php-format
+msgid "Week %s"
+msgstr "Woche %s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:513 
+#: liquid/structure/posts.php:309
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:525 
+#: liquid/structure/posts.php:312
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:537 
+#: liquid/structure/posts.php:315
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:548 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:571 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:591 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:611 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:868 
+#: liquid/structure/posts.php:321 liquid/structure/posts.php:327
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "J"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:549 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:592 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:871
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:550 
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:874
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:572 
+#: liquid/structure/posts.php:321
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:141 
+#: theme/theme-options/liquid-page-maintenance.php:120
+msgid "Image"
+msgstr "Bild"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:270
+msgid "Custom Image/svg Icon"
+msgstr "Benutzerdefiniertes Bild/svg-Symbol"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Change menu item image/svg icon"
+msgstr "Menüpunkt Bild / svg Symbol ändern"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Set menu item image/svg icon"
+msgstr "Menüpunkt Bild/svg Icon festlegen"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:274
+msgid "Set image/svg icon"
+msgstr "Bild/svg Icon festlegen"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:275 
+#: woocommerce/cart/cart.php:59 woocommerce/cart/cart.php:137
+msgid "Remove"
+msgstr "Entfernen"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:56
+msgid "Select Mega Menu"
+msgstr "Mega Menü auswählen"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:58 
+#: theme/metaboxes/liquid-page.php:62
+msgid "None"
+msgstr "Nichts"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:72
+msgid "Make this item menu heading?"
+msgstr "Diesen Element zum Menüpunkt machen?"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:74 
+#: theme/metaboxes/liquid-header-options.php:48 
+#: theme/metaboxes/liquid-header-options.php:62 
+#: theme/metaboxes/liquid-header-options.php:123 
+#: theme/metaboxes/liquid-header-options.php:204 
+#: theme/metaboxes/liquid-megamenu-options.php:18 
+#: theme/theme-options/liquid-blog.php:74 
+#: theme/theme-options/liquid-blog.php:101 
+#: theme/theme-options/liquid-blog.php:124 
+#: theme/theme-options/liquid-blog.php:200 
+#: theme/theme-options/liquid-blog.php:227 
+#: theme/theme-options/liquid-blog.php:250 
+#: theme/theme-options/liquid-blog.php:323 
+#: theme/theme-options/liquid-blog.php:350 
+#: theme/theme-options/liquid-blog.php:373 
+#: theme/theme-options/liquid-blog.php:446 
+#: theme/theme-options/liquid-blog.php:473 
+#: theme/theme-options/liquid-blog.php:496
+msgid "No"
+msgstr "Nein"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:75 
+#: theme/metaboxes/liquid-header-options.php:49 
+#: theme/metaboxes/liquid-header-options.php:63 
+#: theme/metaboxes/liquid-header-options.php:124 
+#: theme/metaboxes/liquid-header-options.php:205 
+#: theme/metaboxes/liquid-megamenu-options.php:19 
+#: theme/theme-options/liquid-blog.php:73 
+#: theme/theme-options/liquid-blog.php:100 
+#: theme/theme-options/liquid-blog.php:123 
+#: theme/theme-options/liquid-blog.php:199 
+#: theme/theme-options/liquid-blog.php:226 
+#: theme/theme-options/liquid-blog.php:249 
+#: theme/theme-options/liquid-blog.php:322 
+#: theme/theme-options/liquid-blog.php:349 
+#: theme/theme-options/liquid-blog.php:372 
+#: theme/theme-options/liquid-blog.php:445 
+#: theme/theme-options/liquid-blog.php:472 
+#: theme/theme-options/liquid-blog.php:495
+msgid "Yes"
+msgstr "Ja"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:64
+msgid "Add Dropcap"
+msgstr "Intitalie hinzufügen"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:70
+msgid "Text Transform"
+msgstr "Texttransformation"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:73
+msgid "Uppercase"
+msgstr "Großbuchstaben"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:78
+msgid "Lowercase"
+msgstr "Kleinbuchstaben"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:83
+msgid "Capitalize"
+msgstr "Großschreibung"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:90
+msgid "Reset List"
+msgstr "Liste zurücksetzen"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:96
+msgid "Inline List"
+msgstr "Inline-Liste"
+
+#: liquid/libs/class-tgm-plugin-activation.php:316
+msgid "Install Required Plugins"
+msgstr "Erforderliche Plugins installieren"
+
+#: liquid/libs/class-tgm-plugin-activation.php:319
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin: %s wird installiert"
+
+#: liquid/libs/class-tgm-plugin-activation.php:321
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualisierung des Plugins: %s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:322
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas ist mit der Plugin-API schief gelaufen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:325
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme benötigt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme benötigt die folgenden Plugins: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Das folgende Plugin muss auf die neueste Version aktualisiert werden, um "
+"eine maximale Kompatibilität mit diesem Thema zu gewährleisten: %1$s."
+msgstr[1] ""
+"Die folgenden Plugins müssen auf die neueste Version aktualisiert werden, um "
+"eine maximale Kompatibilität mit diesem Thema zu gewährleisten: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es gibt ein Update für: %1$s."
+msgstr[1] "Es gibt Updates für die folgenden Plugins: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende benötigte Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit inaktiv: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist derzeit inaktiv: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:360
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginnen Sie mit der Installation des Plugins"
+msgstr[1] "Beginnen Sie mit der Installation der Plugins"
+
+#: liquid/libs/class-tgm-plugin-activation.php:365
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Aktualisierung des Plugins starten"
+msgstr[1] "Aktualisierung der Plugins starten"
+
+#: liquid/libs/class-tgm-plugin-activation.php:370
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Aktivierung des Plugins starten"
+msgstr[1] "Aktivierung der Plugins starten"
+
+#: liquid/libs/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Installationsassistent erforderlicher Plugins"
+
+#: liquid/libs/class-tgm-plugin-activation.php:375 
+#: liquid/libs/class-tgm-plugin-activation.php:828 
+#: liquid/libs/class-tgm-plugin-activation.php:2533 
+#: liquid/libs/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: liquid/libs/class-tgm-plugin-activation.php:376 
+#: liquid/libs/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: liquid/libs/class-tgm-plugin-activation.php:377 
+#: liquid/libs/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#: liquid/libs/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Maßnahmen ergriffen. Das Plugin %1$s war bereits aktiv."
+
+#: liquid/libs/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nicht aktiviert. Für dieses Thema wird eine höhere Version von %s "
+"benötigt. Bitte aktualisieren Sie das Plugin."
+
+#: liquid/libs/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr "Diese Mitteilung ablehnen"
+
+#: liquid/libs/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Es gibt ein oder mehrere erforderliche oder empfohlene Plugins zur "
+"Installation, Aktualisierung oder Aktivierung."
+
+#: liquid/libs/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Bitte wenden Sie sich an den Administrator dieser Website, um Hilfe zu "
+"erhalten."
+
+#: liquid/libs/class-tgm-plugin-activation.php:503
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Dieses Plugin muss aktualisiert werden, um mit Ihrem Design kompatibel zu "
+"sein."
+
+#: liquid/libs/class-tgm-plugin-activation.php:504
+msgid "Update Required"
+msgstr "Aktualisierung erforderlich"
+
+#: liquid/libs/class-tgm-plugin-activation.php:621
+msgid "Set the parent_slug config variable instead."
+msgstr "Setzen Sie stattdessen die Konfigurationsvariable parent_slug."
+
+#: liquid/libs/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Das Remote-Plugin-Paket enthält keinen Ordner mit dem gewünschten Slug und "
+"die Umbenennung funktionierte nicht."
+
+#: liquid/libs/class-tgm-plugin-activation.php:935 
+#: liquid/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Bitte wenden Sie sich an den Plugin-Anbieter und bitten Sie ihn, sein Plugin "
+"gemäß den WordPress-Richtlinien zu verpacken."
+
+#: liquid/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Das Remote-Plugin-Paket besteht aus mehr als einer Datei, aber die Dateien "
+"sind nicht in einem Ordner verpackt."
+
+#: liquid/libs/class-tgm-plugin-activation.php:1122 
+#: liquid/libs/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#: liquid/libs/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Erforderlich"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Speicherort"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Vorkonfektioniert"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktiv"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Erforderliche Aktualisierung nicht verfügbar"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Erfordert Aktualisierung"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update empfohlen"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Zur Installierung von <span class=\"count\">(%s)</span>"
+msgstr[1] "Zur Installierung von <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update verfügbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates verfügbar <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Zur Aktivierung von <span class=\"count\">(%s)</span>"
+msgstr[1] "Zur Aktivierung von <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Die erforderliche Mindest-Version:"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+"Es müssen keine Plugins installiert, aktualisiert oder aktiviert werden."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Quelle"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Typ"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Installieren Sie %2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisierung %2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-Meldung des Plugin-Autors:"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installieren"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Aktualisierung"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Es wurden keine Plugins für die Installation ausgewählt. Keine Maßnahmen "
+"ergriffen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Es wurden keine Plugins ausgewählt, die aktualisiert werden sollen. Keine "
+"Maßnahmen ergriffen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Zur Zeit sind keine Plugins verfügbar, die installiert werden können."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+"Es sind keine Plugins verfügbar, die zu diesem Zeitpunkt aktualisiert werden "
+"können."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zur Aktivierung ausgewählt. Keine Maßnahmen "
+"ergriffen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Es sind keine Plugins verfügbar, die zur Zeit aktiviert werden können."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Die Aktivierung des Plugins ist fehlgeschlagen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisierung des Plugins %1$s (%2$d/%3$d)"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Bei der Installation von %1$s ist ein Fehler aufgetreten: <strong>"
+"%2$s</strong>."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess beginnt. Dieser Vorgang kann bei "
+"einigen Hosts eine Weile dauern, also haben Sie bitte Geduld."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s wurde erfolgreich installiert und aktiviert."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509 
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509 
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind abgeschlossen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation und Aktivierung des Plugins %1$s (%2$d/%3$d)"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsprozess beginnt. Dieser Vorgang kann bei einigen Webhostern "
+"eine Weile dauern, also haben Sie bitte Geduld."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s wurde erfolgreich installiert."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#: liquid/libs/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wird installiert"
+
+#: liquid/liquid-base.php:57
+#, php-format
+msgid ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>No such file \"%2$s\" "
+"exists."
+msgstr ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>Eine solche Datei \"%2$s\" "
+"existiert nicht."
+
+#: liquid/liquid-base.php:57
+msgid "Load Extension"
+msgstr "Erweiterung laden"
+
+#: liquid/liquid-helpers.php:109
+#, php-format
+msgid "<code>%s</code> does not exist."
+msgstr "<code>%s</code> existiert nicht."
+
+#: liquid/liquid-helpers.php:143
+msgctxt "Liquid plugin installation page."
+msgid "Install"
+msgstr "Installieren"
+
+#: liquid/liquid-helpers.php:161
+msgctxt "Liquid plugin installation page."
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: liquid/liquid-helpers.php:178
+msgctxt "Liquid plugin installation page."
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: liquid/liquid-meta-boxes-init.php:70
+#, php-format
+msgid "%s Options"
+msgstr "%s Optionen"
+
+#: liquid/structure/comments.php:71
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, j, F Y g:i a"
+
+#: liquid/structure/footer.php:81
+msgid "Return to top of page"
+msgstr "Zurück zum Seitenanfang"
+
+#: liquid/structure/header.php:116
+msgid "Skip to primary navigation"
+msgstr "Zur primären Navigation springen"
+
+#: liquid/structure/header.php:119
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: liquid/structure/header.php:123
+msgid "Skip links"
+msgstr "Links überspringen"
+
+#: liquid/structure/markup.php:69
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s"
+msgstr "%s"
+
+#: liquid/structure/markup.php:111
+msgid "Previous"
+msgstr "Vorherige"
+
+#: liquid/structure/markup.php:111
+msgid "Next"
+msgstr "Weiter"
+
+#: liquid/structure/posts.php:146
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: liquid/structure/posts.php:251
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#: liquid/structure/posts.php:318
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j, F Y"
+
+#: liquid/structure/posts.php:321
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr "Woche %1$s von %2$s"
+
+#: liquid/vendors/woocommerce/functions.php:32
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Startseite"
+
+#: liquid/vendors/woocommerce/functions.php:167
+msgid "Payment"
+msgstr "Bezahlung"
+
+#: liquid/vendors/woocommerce/functions.php:360
+msgid "Default Order"
+msgstr "Standard-Reihenfolge"
+
+#: liquid/vendors/woocommerce/functions.php:361
+msgid "Popularity"
+msgstr "Popularität"
+
+#: liquid/vendors/woocommerce/functions.php:362
+msgid "Average rating"
+msgstr "Durchschnittliche Bewertung"
+
+#: liquid/vendors/woocommerce/functions.php:363
+msgid "Newness"
+msgstr "Neuheit"
+
+#: liquid/vendors/woocommerce/functions.php:364
+msgid "Lowest Price"
+msgstr "Niedrigster Preis"
+
+#: liquid/vendors/woocommerce/functions.php:365
+msgid "Highest Price"
+msgstr "Höchstpreis"
+
+#: liquid/vendors/woocommerce/functions.php:494
+msgid "Header Note"
+msgstr "Kopfzeilen-Notiz"
+
+#: liquid/vendors/woocommerce/functions.php:513
+msgid "Notice"
+msgstr "Hinweis"
+
+#: liquid/vendors/woocommerce/functions.php:515
+msgid "Add header notice in yellow box"
+msgstr "Kopfbereich-Hinweis in gelbem Kästchen hinzufügen"
+
+#: liquid/vendors/woocommerce/metaboxes.php:23
+msgid "Custom label"
+msgstr "Benutzerdefinierte Beschriftung"
+
+#: liquid/vendors/woocommerce/metaboxes.php:25
+msgid "Input a custom label for the product"
+msgstr "Geben Sie eine benutzerdefinierte Bezeichnung für das Produkt ein."
+
+#: liquid/vendors/woocommerce/metaboxes.php:55 
+#: liquid/vendors/woocommerce/metaboxes.php:86
+msgid "Background Color"
+msgstr "Hintergrund-Farbe"
+
+#: liquid/vendors/woocommerce/metaboxes.php:58 
+#: liquid/vendors/woocommerce/metaboxes.php:88
+msgid "Select a background for product category label"
+msgstr ""
+"Wählen Sie einen Hintergrund für die Bezeichnung der Produktkategorie aus."
+
+#: liquid/vendors/woocommerce/options.php:9
+msgid "Products"
+msgstr "Produkte"
+
+#: liquid/vendors/woocommerce/options.php:16
+msgid "Activate Global Sidebar For Products"
+msgstr "Globale Seitenleiste für Produkte aktivieren"
+
+#: liquid/vendors/woocommerce/options.php:17
+msgid ""
+"Turn on if you want to use the same sidebars on all product posts. This "
+"option overrides the product options."
+msgstr ""
+"Aktivieren Sie diese Option, wenn Sie die gleichen Seitenleisten für alle "
+"Produktbeiträge verwenden möchten. Diese Option überschreibt die "
+"Produktoptionen."
+
+#: liquid/vendors/woocommerce/options.php:19 
+#: theme/metaboxes/liquid-footer-options.php:26 
+#: theme/metaboxes/liquid-footer.php:26 theme/metaboxes/liquid-header.php:26 
+#: theme/metaboxes/liquid-page.php:51 theme/metaboxes/liquid-page.php:78 
+#: theme/metaboxes/liquid-page.php:92 theme/metaboxes/liquid-page.php:122 
+#: theme/metaboxes/liquid-portfolio-general.php:40 
+#: theme/metaboxes/liquid-portfolio-meta.php:26 
+#: theme/metaboxes/liquid-portfolio-meta.php:38 
+#: theme/metaboxes/liquid-portfolio-meta.php:90 
+#: theme/metaboxes/liquid-post-format.php:39 
+#: theme/metaboxes/liquid-post.php:75 theme/metaboxes/liquid-post.php:92 
+#: theme/metaboxes/liquid-post.php:128 theme/metaboxes/liquid-post.php:140 
+#: theme/metaboxes/liquid-post.php:152 theme/metaboxes/liquid-post.php:164 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:25 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:45 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:134 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:146 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:280 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:315 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:370 
+#: theme/metaboxes/liquid-title-wrapper.php:24 
+#: theme/metaboxes/liquid-title-wrapper.php:46 
+#: theme/metaboxes/liquid-title-wrapper.php:88 
+#: theme/metaboxes/liquid-title-wrapper.php:198 
+#: theme/metaboxes/liquid-title-wrapper.php:214 
+#: theme/metaboxes/liquid-title-wrapper.php:240 
+#: theme/metaboxes/liquid-title-wrapper.php:255 
+#: theme/theme-options/liquid-blog.php:22 
+#: theme/theme-options/liquid-blog.php:145 
+#: theme/theme-options/liquid-blog.php:271 
+#: theme/theme-options/liquid-blog.php:394 
+#: theme/theme-options/liquid-blog.php:528 
+#: theme/theme-options/liquid-blog.php:549 
+#: theme/theme-options/liquid-blog.php:560 
+#: theme/theme-options/liquid-blog.php:571 
+#: theme/theme-options/liquid-blog.php:582 
+#: theme/theme-options/liquid-extras.php:23 
+#: theme/theme-options/liquid-extras.php:34 
+#: theme/theme-options/liquid-extras.php:45 
+#: theme/theme-options/liquid-extras.php:56 
+#: theme/theme-options/liquid-extras.php:67 
+#: theme/theme-options/liquid-header-modules.php:17 
+#: theme/theme-options/liquid-header-modules.php:66 
+#: theme/theme-options/liquid-header-modules.php:114 
+#: theme/theme-options/liquid-header-title-wrapper.php:24 
+#: theme/theme-options/liquid-header-title-wrapper.php:57 
+#: theme/theme-options/liquid-header-title-wrapper.php:132 
+#: theme/theme-options/liquid-header-title-wrapper.php:143 
+#: theme/theme-options/liquid-header-title-wrapper.php:163 
+#: theme/theme-options/liquid-header-title-wrapper.php:172 
+#: theme/theme-options/liquid-page-404.php:16 
+#: theme/theme-options/liquid-page-404.php:48 
+#: theme/theme-options/liquid-page-maintenance.php:40 
+#: theme/theme-options/liquid-page-maintenance.php:53 
+#: theme/theme-options/liquid-page-search.php:28 
+#: theme/theme-options/liquid-portfolio.php:22 
+#: theme/theme-options/liquid-portfolio.php:151 
+#: theme/theme-options/liquid-portfolio.php:163 
+#: theme/theme-options/liquid-portfolio.php:174 
+#: theme/theme-options/liquid-promotions.php:24 
+#: theme/theme-options/liquid-sidebars.php:39 
+#: theme/theme-options/liquid-sidebars.php:77 
+#: theme/theme-options/liquid-sidebars.php:142 
+#: theme/theme-options/liquid-woocommerce.php:14 
+#: theme/theme-options/liquid-woocommerce.php:53
+msgid "On"
+msgstr "Ein"
+
+#: liquid/vendors/woocommerce/options.php:20 
+#: theme/metaboxes/liquid-footer-options.php:27 
+#: theme/metaboxes/liquid-footer.php:28 theme/metaboxes/liquid-header.php:28 
+#: theme/metaboxes/liquid-page.php:52 theme/metaboxes/liquid-page.php:79 
+#: theme/metaboxes/liquid-page.php:93 theme/metaboxes/liquid-page.php:123 
+#: theme/metaboxes/liquid-portfolio-general.php:42 
+#: theme/metaboxes/liquid-portfolio-meta.php:28 
+#: theme/metaboxes/liquid-portfolio-meta.php:40 
+#: theme/metaboxes/liquid-portfolio-meta.php:92 
+#: theme/metaboxes/liquid-post-format.php:40 
+#: theme/metaboxes/liquid-post.php:77 theme/metaboxes/liquid-post.php:93 
+#: theme/metaboxes/liquid-post.php:130 theme/metaboxes/liquid-post.php:142 
+#: theme/metaboxes/liquid-post.php:154 theme/metaboxes/liquid-post.php:166 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:27 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:46 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:136 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:148 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:281 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:317 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:372 
+#: theme/metaboxes/liquid-title-wrapper.php:26 
+#: theme/metaboxes/liquid-title-wrapper.php:48 
+#: theme/metaboxes/liquid-title-wrapper.php:90 
+#: theme/metaboxes/liquid-title-wrapper.php:200 
+#: theme/metaboxes/liquid-title-wrapper.php:216 
+#: theme/metaboxes/liquid-title-wrapper.php:242 
+#: theme/metaboxes/liquid-title-wrapper.php:257 
+#: theme/theme-options/liquid-blog.php:23 
+#: theme/theme-options/liquid-blog.php:146 
+#: theme/theme-options/liquid-blog.php:272 
+#: theme/theme-options/liquid-blog.php:395 
+#: theme/theme-options/liquid-blog.php:529 
+#: theme/theme-options/liquid-blog.php:550 
+#: theme/theme-options/liquid-blog.php:561 
+#: theme/theme-options/liquid-blog.php:572 
+#: theme/theme-options/liquid-blog.php:583 
+#: theme/theme-options/liquid-extras.php:24 
+#: theme/theme-options/liquid-extras.php:35 
+#: theme/theme-options/liquid-extras.php:46 
+#: theme/theme-options/liquid-extras.php:57 
+#: theme/theme-options/liquid-extras.php:68 
+#: theme/theme-options/liquid-header-modules.php:18 
+#: theme/theme-options/liquid-header-modules.php:67 
+#: theme/theme-options/liquid-header-modules.php:115 
+#: theme/theme-options/liquid-header-title-wrapper.php:25 
+#: theme/theme-options/liquid-header-title-wrapper.php:58 
+#: theme/theme-options/liquid-header-title-wrapper.php:133 
+#: theme/theme-options/liquid-header-title-wrapper.php:144 
+#: theme/theme-options/liquid-header-title-wrapper.php:164 
+#: theme/theme-options/liquid-header-title-wrapper.php:173 
+#: theme/theme-options/liquid-page-404.php:17 
+#: theme/theme-options/liquid-page-404.php:49 
+#: theme/theme-options/liquid-page-maintenance.php:41 
+#: theme/theme-options/liquid-page-maintenance.php:54 
+#: theme/theme-options/liquid-page-search.php:29 
+#: theme/theme-options/liquid-portfolio.php:23 
+#: theme/theme-options/liquid-portfolio.php:152 
+#: theme/theme-options/liquid-portfolio.php:164 
+#: theme/theme-options/liquid-portfolio.php:175 
+#: theme/theme-options/liquid-promotions.php:25 
+#: theme/theme-options/liquid-sidebars.php:40 
+#: theme/theme-options/liquid-sidebars.php:78 
+#: theme/theme-options/liquid-sidebars.php:143 
+#: theme/theme-options/liquid-woocommerce.php:15 
+#: theme/theme-options/liquid-woocommerce.php:54
+msgid "Off"
+msgstr "Aus"
+
+#: liquid/vendors/woocommerce/options.php:27
+msgid "Global Products Sidebar"
+msgstr "Globale Produkte Seitenleiste"
+
+#: liquid/vendors/woocommerce/options.php:28
+msgid "Select sidebar that will display on all product posts."
+msgstr ""
+"Wählen Sie die Seitenleiste, die in allen Produktbeiträgen angezeigt wird."
+
+#: liquid/vendors/woocommerce/options.php:34
+msgid "Global Products Sidebar Position"
+msgstr "Globale Produkte Seitenleistenposition"
+
+#: liquid/vendors/woocommerce/options.php:35
+msgid "Controls the position of the sidebar for all product posts."
+msgstr "Regelt die Position der Seitenleiste für alle Produktbeiträge."
+
+#: liquid/vendors/woocommerce/options.php:37 
+#: liquid/vendors/woocommerce/options.php:63 
+#: theme/metaboxes/liquid-header-options.php:157 
+#: theme/metaboxes/liquid-header-options.php:166 
+#: theme/metaboxes/liquid-sidebars.php:26 
+#: theme/metaboxes/liquid-title-wrapper.php:160 
+#: theme/theme-options/liquid-header-mobile-nav.php:23 
+#: theme/theme-options/liquid-header-mobile-nav.php:32 
+#: theme/theme-options/liquid-header-title-wrapper.php:109 
+#: theme/theme-options/liquid-portfolio.php:65 
+#: theme/theme-options/liquid-sidebars.php:57 
+#: theme/theme-options/liquid-sidebars.php:95 
+#: theme/theme-options/liquid-sidebars.php:122 
+#: theme/theme-options/liquid-sidebars.php:160 
+#: theme/theme-options/liquid-sidebars.php:187 
+#: theme/theme-options/liquid-sidebars.php:214
+msgid "Left"
+msgstr "Links"
+
+#: liquid/vendors/woocommerce/options.php:38 
+#: liquid/vendors/woocommerce/options.php:64 
+#: theme/metaboxes/liquid-header-options.php:156 
+#: theme/metaboxes/liquid-header-options.php:165 
+#: theme/metaboxes/liquid-sidebars.php:28 
+#: theme/metaboxes/liquid-title-wrapper.php:162 
+#: theme/theme-options/liquid-header-mobile-nav.php:22 
+#: theme/theme-options/liquid-header-mobile-nav.php:31 
+#: theme/theme-options/liquid-header-title-wrapper.php:111 
+#: theme/theme-options/liquid-portfolio.php:67 
+#: theme/theme-options/liquid-sidebars.php:58 
+#: theme/theme-options/liquid-sidebars.php:96 
+#: theme/theme-options/liquid-sidebars.php:123 
+#: theme/theme-options/liquid-sidebars.php:161 
+#: theme/theme-options/liquid-sidebars.php:188 
+#: theme/theme-options/liquid-sidebars.php:215
+msgid "Right"
+msgstr "Rechts"
+
+#: liquid/vendors/woocommerce/options.php:47
+msgid "Product Archive"
+msgstr "Produktarchiv"
+
+#: liquid/vendors/woocommerce/options.php:53
+msgid "Product Archive Sidebar"
+msgstr "Produktarchiv Seitenleiste"
+
+#: liquid/vendors/woocommerce/options.php:54
+msgid "Select sidebar 1 that will display on the product archive pages."
+msgstr ""
+"Wählen Sie die Seitenleiste 1, die auf den Seiten des Produktarchivs "
+"angezeigt wird."
+
+#: liquid/vendors/woocommerce/options.php:60
+msgid "Global Products Archive Sidebar Position"
+msgstr "Globale Produktarchive Seitenleistenposition"
+
+#: liquid/vendors/woocommerce/options.php:61
+msgid "Controls the position of the sidebar for all product archives."
+msgstr "Steuert die Position der Seitenleiste für alle Produktarchive."
+
+#: liquid/vendors/woocommerce/template-tags.php:30
+msgid "Grid view"
+msgstr "Raster-Ansicht"
+
+#: liquid/vendors/woocommerce/template-tags.php:31
+msgid "List view"
+msgstr "Listenansicht"
+
+#: search.php:26 templates/author-layout.php:22 templates/blog-layout.php:22 
+#: templates/category-layout.php:22 templates/portfolio-layout.php:22 
+#: templates/tag-layout.php:22 theme/author-blog.php:230 
+#: theme/category-blog.php:232 theme/liquid-blog.php:224 
+#: theme/liquid-portfolio.php:98 theme/tag-blog.php:231
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: search.php:27 templates/author-layout.php:23 templates/blog-layout.php:23 
+#: templates/category-layout.php:23 templates/portfolio-layout.php:23 
+#: templates/tag-layout.php:23 theme/author-blog.php:231 
+#: theme/category-blog.php:233 theme/liquid-blog.php:225 
+#: theme/liquid-portfolio.php:99 theme/tag-blog.php:232
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: search.php:32 templates/author-layout.php:28 templates/blog-layout.php:28 
+#: templates/category-layout.php:28 templates/portfolio-layout.php:28 
+#: templates/tag-layout.php:28 theme/author-blog.php:235 
+#: theme/category-blog.php:237 theme/liquid-blog.php:229 
+#: theme/liquid-portfolio.php:102 theme/liquid-portfolio.php:121 
+#: theme/tag-blog.php:236
+msgid "Page navigation"
+msgstr "Seitennavigation"
+
+#: templates/blog/content.php:12
+msgid "Read More"
+msgstr "Mehr erfahren"
+
+#: templates/blog/single/cover-spaced.php:38 
+#: templates/blog/single/cover.php:37 templates/blog/single/default.php:28 
+#: templates/blog/single/slider.php:44 templates/content/content.php:32 
+#: theme/liquid-template-tags.php:610 theme/liquid-template-tags.php:636 
+#: theme/liquid-template-tags.php:655
+#, php-format
+msgid "Continue reading %s"
+msgstr "Lesen Sie weiter %s"
+
+#: templates/blog/single/cover-spaced.php:43 
+#: templates/blog/single/cover.php:42 templates/blog/single/default.php:33 
+#: templates/blog/single/slider.php:49 templates/content/content.php:37 
+#: templates/content/liquid-portfolio.php:21 templates/content/page.php:17
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: templates/blog/single/cover-spaced.php:47 
+#: templates/blog/single/cover.php:46 templates/blog/single/default.php:37 
+#: templates/blog/single/slider.php:53 templates/content/content.php:41 
+#: templates/content/liquid-portfolio.php:25 templates/content/page.php:21 
+#: theme/metaboxes/liquid-page.php:16 
+#: theme/theme-options/liquid-sidebars.php:29
+msgid "Page"
+msgstr "Seite"
+
+#: templates/blog/single/cover-spaced.php:55 
+#: templates/blog/single/cover.php:53 templates/blog/single/default.php:44 
+#: templates/blog/single/slider.php:61
+msgctxt "Used between list items, there is a space"
+msgid " "
+msgstr " "
+
+#: templates/blog/single/cover-spaced.php:62 
+#: templates/blog/single/cover.php:57 templates/blog/single/default.php:48 
+#: templates/blog/single/slider.php:65
+msgid "Share On"
+msgstr "Teilen auf"
+
+#: templates/blog/single/navigation.php:16
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: templates/blog/single/navigation.php:27 
+#: templates/blog/single/navigation.php:28
+msgid "Previous Article"
+msgstr "Vorheriger Artikel"
+
+#: templates/blog/single/navigation.php:43 
+#: templates/blog/single/navigation.php:44
+msgid "Next Article"
+msgstr "Nächster Artikel"
+
+#: templates/blog/single/part-meta.php:4
+msgid "Author:"
+msgstr "Autor:"
+
+#: templates/blog/single/part-meta.php:9
+msgid "Published on:"
+msgstr "Veröffentlicht am:"
+
+#: templates/blog/single/part-meta.php:24
+msgid "Published in:"
+msgstr "Veröffentlicht in:"
+
+#: templates/blog/tmpl-candy.php:51 templates/blog/tmpl-classic-full.php:45 
+#: templates/blog/tmpl-classic-meta.php:37 
+#: templates/blog/tmpl-featured-fullwidth.php:28 
+#: templates/blog/tmpl-grid.php:38 templates/blog/tmpl-masonry.php:21 
+#: templates/blog/tmpl-split.php:32 templates/blog/tmpl-timeline.php:31 
+#: templates/content/content.php:89
+msgid "Continue Reading"
+msgstr "Weiterlesen"
+
+#: templates/blog/tmpl-classic-2.php:30 templates/blog/tmpl-classic.php:29 
+#: templates/blog/tmpl-featured.php:37
+msgid "Read more"
+msgstr "Mehr erfahren"
+
+#: templates/blog/tmpl-classic-full.php:32 
+#: templates/blog/tmpl-featured-fullwidth.php:19 
+#: templates/blog/tmpl-grid.php:26 templates/blog/tmpl-rounded.php:24 
+#: templates/entry-meta.php:2
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "vor %s"
+
+#: templates/blog/tmpl-classic-full.php:33 
+#: templates/blog/tmpl-featured-fullwidth.php:20 
+#: templates/blog/tmpl-grid.php:27 templates/entry-meta.php:3
+msgid "in"
+msgstr "in"
+
+#: templates/comment/comment.php:5
+msgid "Post comment"
+msgstr "Beitragskommentar"
+
+#: templates/comment/comment.php:8
+msgid "says"
+msgstr "sagt"
+
+#: templates/comment/comment.php:12 templates/comment/ping.php:7
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: templates/comment/comment.php:25
+msgid "Your comment is awaiting moderation."
+msgstr "Deine Bemerkung wartet auf Moderation."
+
+#: templates/comment/nav.php:5
+msgid "Comments Navigation"
+msgstr "Kommentar-Navigation"
+
+#: templates/comment/nav.php:8
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: templates/comment/nav.php:12
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: templates/comment/ping.php:9
+msgid "Permalink"
+msgstr "Permalink"
+
+#: templates/content/content.php:49
+#, php-format
+msgid "Posted in: %s"
+msgstr "Veröffentlicht in: %s"
+
+#: templates/content/content.php:50 templates/entry-meta.php:5
+#, php-format
+msgid "Tagged: %s"
+msgstr "Gekennzeichnet: %s"
+
+#: templates/content/error.php:13
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: templates/content/error.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Sind Sie bereit, Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">"
+"Lassen Sie uns hier anfangen</a>."
+
+#: templates/content/error.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid, aber nichts passte zu Ihren Suchbegriffen. Bitte versuchen "
+"Sie es noch einmal mit ein paar anderen Keywords."
+
+#: templates/content/error.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sieht so aus, als könnten wir nicht finden, wonach Sie suchen. Vielleicht "
+"kann die Suche helfen."
+
+#: templates/content/liquid-portfolio.php:32
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/entry-meta.php:4
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: templates/footer/default.php:14
+msgid "Ave Theme. All rights reserved."
+msgstr "Ave Theme. Alle Rechte vorbehalten."
+
+#: templates/header/header-search.php:15
+msgctxt "placeholder"
+msgid "Start searching"
+msgstr "Suche starten"
+
+#: templates/header/header-title-bar.php:22 
+#: theme/liquid-vc-templates-panel-editor.php:73 
+#: theme/theme-options/liquid-blog.php:7
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/header/header-title-bar.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: templates/header/header-title-bar.php:59
+msgid "Archive"
+msgstr "Archiv"
+
+#: templates/portfolio/single/gallery-slider.php:38
+msgid "Share on"
+msgstr "Teilen auf"
+
+#: templates/portfolio/single/navigation.php:35 
+#: templates/portfolio/single/navigation.php:36
+msgid "Previous Work"
+msgstr "Frühere Arbeiten"
+
+#: templates/portfolio/single/navigation.php:50 
+#: templates/portfolio/single/navigation.php:51
+msgid "Next Work"
+msgstr "Nächste Arbeiten"
+
+#: templates/portfolio/tmpl-carousel.php:27
+msgid "Discover More"
+msgstr "Erfahren Sie mehr"
+
+#: theme/liquid-demo-config.php:9
+msgid "Original"
+msgstr "Original"
+
+#: theme/liquid-demo-config.php:17
+msgid "Agency"
+msgstr "Agentur"
+
+#: theme/liquid-demo-config.php:25
+msgid "Architecture"
+msgstr "Architektur"
+
+#: theme/liquid-demo-config.php:33
+msgid "Blockchain"
+msgstr "Blockchain"
+
+#: theme/liquid-demo-config.php:41
+msgid "Blog Grid"
+msgstr "Blog-Raster"
+
+#: theme/liquid-demo-config.php:49
+msgid "Blogger"
+msgstr "Blogger"
+
+#: theme/liquid-demo-config.php:57
+msgid "Blog Masonry"
+msgstr "Blog Masonry"
+
+#: theme/liquid-demo-config.php:65
+msgid "Business"
+msgstr "Business"
+
+#: theme/liquid-demo-config.php:73
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: theme/liquid-demo-config.php:81
+msgid "Construction"
+msgstr "Konstruktion"
+
+#: theme/liquid-demo-config.php:89
+msgid "Creative"
+msgstr "Kreativ"
+
+#: theme/liquid-demo-config.php:97
+msgid "Crypto Currency"
+msgstr "Kryptowährung"
+
+#: theme/liquid-demo-config.php:105
+msgid "Digital Creative"
+msgstr "Digital Kreativ"
+
+#: theme/liquid-demo-config.php:113
+msgid "Digital Agency"
+msgstr "Digitale Agentur"
+
+#: theme/liquid-demo-config.php:121
+msgid "Freelancer"
+msgstr "Freiberufler"
+
+#: theme/liquid-demo-config.php:129
+msgid "Gym"
+msgstr "Gym"
+
+#: theme/liquid-demo-config.php:137
+msgid "Landing"
+msgstr "Landing"
+
+#: theme/liquid-demo-config.php:145
+msgid "Hotel"
+msgstr "Hotel"
+
+#: theme/liquid-demo-config.php:153
+msgid "Magazine"
+msgstr "Zeitschrift"
+
+#: theme/liquid-demo-config.php:161
+msgid "Medical"
+msgstr "Medizinisch"
+
+#: theme/liquid-demo-config.php:169
+msgid "Personal"
+msgstr "Persönlich"
+
+#: theme/liquid-demo-config.php:177
+msgid "Minimal Magazine"
+msgstr "Minimales Magazin"
+
+#: theme/liquid-demo-config.php:185
+msgid "Portfolio Dynamic"
+msgstr "Portfoliodynamik"
+
+#: theme/liquid-demo-config.php:193
+msgid "Avantgarde"
+msgstr "Avantgarde"
+
+#: theme/liquid-demo-config.php:201
+msgid "Portfolio Grid"
+msgstr "Portfolioraster"
+
+#: theme/liquid-demo-config.php:209
+msgid "Portfolio Masonry"
+msgstr "Portfolio Masonry"
+
+#: theme/liquid-demo-config.php:217
+msgid "Portfolio Modern"
+msgstr "Portfolio Modern"
+
+#: theme/liquid-demo-config.php:225 
+#: theme/liquid-vc-templates-panel-editor.php:85 
+#: theme/theme-options/liquid-portfolio.php:7
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: theme/liquid-demo-config.php:233
+msgid "Mobile"
+msgstr "Mobil"
+
+#: theme/liquid-demo-config.php:241
+msgid "Shop"
+msgstr "Shop"
+
+#: theme/liquid-demo-config.php:249
+msgid "Travel"
+msgstr "Reisen"
+
+#: theme/liquid-demo-config.php:257
+msgid "Portrait"
+msgstr "Portrait"
+
+#: theme/liquid-demo-config.php:265
+msgid "Photographer"
+msgstr "Fotograf"
+
+#: theme/liquid-demo-config.php:273
+msgid "Voguish"
+msgstr "Voguish"
+
+#: theme/liquid-portfolio.php:125
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: theme/liquid-register-plugins.php:24
+msgid "Ave Core"
+msgstr "Ave Hauptkern"
+
+#: theme/liquid-register-plugins.php:30 theme/liquid-register-plugins.php:40
+msgid "Liquid Themes"
+msgstr "Liquid-Desings"
+
+#: theme/liquid-register-plugins.php:31
+msgid ""
+"Intelligent and Powerful Elements Plugin, exclusively for Ave WordPress "
+"Theme."
+msgstr ""
+"Intelligentes und leistungsstarkes Elements Plugin, exklusiv für Ave "
+"WordPress Theme."
+
+#: theme/liquid-register-plugins.php:34
+msgid "Ave Portfolio"
+msgstr "Ave Portfolio"
+
+#: theme/liquid-register-plugins.php:41
+msgid ""
+"Modern and Diversified Portfolio Plugin, exclusively Ave WordPress Theme."
+msgstr ""
+"Modernes und vielfältiges Portfolio-Plugin, exklusiv Ave WordPress Theme."
+
+#: theme/liquid-register-plugins.php:44
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: theme/liquid-register-plugins.php:50
+msgid "Wpbakery"
+msgstr "Wpbakery"
+
+#: theme/liquid-register-plugins.php:51
+msgid "A premium plugin bundled with the Ave theme"
+msgstr "Ein Premium-Plugin im Paket mit dem Ave-Design"
+
+#: theme/liquid-register-plugins.php:54
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: theme/liquid-register-plugins.php:58
+msgid "Team Redux"
+msgstr "Team Redux"
+
+#: theme/liquid-register-plugins.php:59
+msgid ""
+"Redux is a simple, truly extensible and fully responsive options framework "
+"for WordPress themes and plugins."
+msgstr ""
+"Redux ist ein einfaches, wirklich erweiterbares und vollständig "
+"reaktionsfähiges Optionsframework für WordPress-Themen und Plugins."
+
+#: theme/liquid-register-plugins.php:62
+msgid "Contact Form 7"
+msgstr "Kontaktformular 7"
+
+#: theme/liquid-register-plugins.php:66
+msgid "Takayuki Miyoshi"
+msgstr "Takayuki Miyoshi"
+
+#: theme/liquid-register-plugins.php:67
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+"Das Kontaktformular 7 kann mehrere Kontaktformulare verwalten, und Sie "
+"können das Formular und den Inhalt der E-Mail flexibel mit einem einfachen "
+"Markup anpassen."
+
+#: theme/liquid-setup.php:83
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: theme/liquid-setup.php:84
+msgid "Secondary Menu"
+msgstr "Sekundäres Menü"
+
+#: theme/liquid-setup.php:91 theme/metaboxes/liquid-sidebars.php:17
+msgid "Main Sidebar"
+msgstr "Hauptseitenleiste"
+
+#: theme/liquid-setup.php:93
+msgid "Main widget area to display in sidebar"
+msgstr "Hauptbereich des Widgets zur Anzeige in der Seitenleiste"
+
+#: theme/liquid-template-tags.php:199
+msgid "Toggle navigation"
+msgstr "Umschalten der Navigation"
+
+#: theme/liquid-template-tags.php:451 
+#: theme/metaboxes/liquid-portfolio-meta.php:87
+msgid "Date"
+msgstr "Datum"
+
+#: theme/liquid-template-tags.php:479
+#, php-format
+msgid ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">"
+"%s</span></span>"
+msgstr ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">"
+"%s</span></span>"
+
+#: theme/liquid-template-tags.php:682
+#, php-format
+msgid "Posts by %s"
+msgstr "Beiträge von %s"
+
+#: theme/liquid-vc-templates-panel-editor.php:51 
+#: theme/theme-options/liquid-extras.php:53
+msgid "Ave Collection"
+msgstr "Ave Kollektion"
+
+#: theme/liquid-vc-templates-panel-editor.php:70
+msgid "All"
+msgstr "Alle"
+
+#: theme/liquid-vc-templates-panel-editor.php:71
+msgid "Accordions"
+msgstr "Akkordeons"
+
+#: theme/liquid-vc-templates-panel-editor.php:72
+msgid "Banners"
+msgstr "Anzeigen"
+
+#: theme/liquid-vc-templates-panel-editor.php:74 
+#: theme/metaboxes/liquid-portfolio-general.php:59
+msgid "Carousel"
+msgstr "Carousel"
+
+#: theme/liquid-vc-templates-panel-editor.php:75
+msgid "Contacts"
+msgstr "Kontakte"
+
+#: theme/liquid-vc-templates-panel-editor.php:76
+msgid "Counter"
+msgstr "Zähler"
+
+#: theme/liquid-vc-templates-panel-editor.php:77
+msgid "Fancybox"
+msgstr "Fancybox"
+
+#: theme/liquid-vc-templates-panel-editor.php:78
+msgid "Fancytext"
+msgstr "Fancytext"
+
+#: theme/liquid-vc-templates-panel-editor.php:79
+msgid "Footers"
+msgstr "Fußzeilen"
+
+#: theme/liquid-vc-templates-panel-editor.php:80
+msgid "Headers"
+msgstr "Kopfzeilen"
+
+#: theme/liquid-vc-templates-panel-editor.php:81
+msgid "Icons"
+msgstr "Icons"
+
+#: theme/liquid-vc-templates-panel-editor.php:82
+msgid "Media"
+msgstr "Medien"
+
+#: theme/liquid-vc-templates-panel-editor.php:83 
+#: theme/theme-options/liquid-extras.php:13
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+#: theme/liquid-vc-templates-panel-editor.php:84
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: theme/liquid-vc-templates-panel-editor.php:86
+msgid "Pricing"
+msgstr "Preisgestaltung"
+
+#: theme/liquid-vc-templates-panel-editor.php:87
+msgid "Process"
+msgstr "Vorgang"
+
+#: theme/liquid-vc-templates-panel-editor.php:88
+msgid "Tabs"
+msgstr "Registerkarten"
+
+#: theme/liquid-vc-templates-panel-editor.php:89
+msgid "Team"
+msgstr "Team"
+
+#: theme/liquid-vc-templates-panel-editor.php:90
+msgid "Testimonials"
+msgstr "Kundenmeinungen"
+
+#: theme/liquid-vc-templates-panel-editor.php:498
+msgid "No title"
+msgstr "Kein Titel"
+
+#: theme/liquid-vc-templates.php:23
+msgid "Accordion 01"
+msgstr "Akkordeon 01"
+
+#: theme/liquid-vc-templates.php:35
+msgid "Accordion 02"
+msgstr "Akkordeon 02"
+
+#: theme/liquid-vc-templates.php:48
+msgid "Accordion 03"
+msgstr "Akkordeon 03"
+
+#: theme/liquid-vc-templates.php:61
+msgid "Accordion 04"
+msgstr "Akkordeon 04"
+
+#: theme/liquid-vc-templates.php:74
+msgid "Accordion 05"
+msgstr "Akkordeon 05"
+
+#: theme/liquid-vc-templates.php:88
+msgid "Banner 01"
+msgstr "Anzeige 01"
+
+#: theme/liquid-vc-templates.php:100
+msgid "Banner 02"
+msgstr "Anzeige 0w"
+
+#: theme/liquid-vc-templates.php:113
+msgid "Banner 03"
+msgstr "Anzeige 03"
+
+#: theme/liquid-vc-templates.php:126
+msgid "Banner 04"
+msgstr "Anzeige 04"
+
+#: theme/liquid-vc-templates.php:139
+msgid "Banner 05"
+msgstr "Anzeige 05"
+
+#: theme/liquid-vc-templates.php:152
+msgid "Banner 06"
+msgstr "Anzeige 06"
+
+#: theme/liquid-vc-templates.php:165
+msgid "Banner 07"
+msgstr "Anzeige 07"
+
+#: theme/liquid-vc-templates.php:178
+msgid "Banner 08"
+msgstr "Anzeige 08"
+
+#: theme/liquid-vc-templates.php:191
+msgid "Banner 09"
+msgstr "Anzeige 08"
+
+#: theme/liquid-vc-templates.php:204
+msgid "Banner 10"
+msgstr "Anzeige 10"
+
+#: theme/liquid-vc-templates.php:217
+msgid "Banner 11"
+msgstr "Anzeige 11"
+
+#: theme/liquid-vc-templates.php:229
+msgid "Banner 12"
+msgstr "Anzeige 12"
+
+#: theme/liquid-vc-templates.php:241
+msgid "Banner 13"
+msgstr "Anzeige 13"
+
+#: theme/liquid-vc-templates.php:253
+msgid "Banner 14"
+msgstr "Anzeige 14"
+
+#: theme/liquid-vc-templates.php:265
+msgid "Banner 15"
+msgstr "Anzeige 15"
+
+#: theme/liquid-vc-templates.php:277
+msgid "Banner 16"
+msgstr "Anzeige 16"
+
+#: theme/liquid-vc-templates.php:290
+msgid "Banner 17"
+msgstr "Anzeige 17"
+
+#: theme/liquid-vc-templates.php:302
+msgid "Banner 18"
+msgstr "Anzeige 18"
+
+#: theme/liquid-vc-templates.php:314
+msgid "Banner 19"
+msgstr "Banner 19"
+
+#: theme/liquid-vc-templates.php:326
+msgid "Banner 20"
+msgstr "Anzeige 20"
+
+#: theme/liquid-vc-templates.php:341
+msgid "Banner 21"
+msgstr "Anzeige 21"
+
+#: theme/liquid-vc-templates.php:353
+msgid "Banner 22"
+msgstr "Anzeige 22"
+
+#: theme/liquid-vc-templates.php:365
+msgid "Banner 23"
+msgstr "Anzeige 23"
+
+#: theme/liquid-vc-templates.php:377
+msgid "Banner 24"
+msgstr "Anzeige 24"
+
+#: theme/liquid-vc-templates.php:390
+msgid "Banner 25"
+msgstr "Anzeige 25"
+
+#: theme/liquid-vc-templates.php:402
+msgid "Banner 26"
+msgstr "Anzeige 26"
+
+#: theme/liquid-vc-templates.php:414
+msgid "Banner 27"
+msgstr "Anzeige 27"
+
+#: theme/liquid-vc-templates.php:426
+msgid "Banner 28"
+msgstr "Anzeige 28"
+
+#: theme/liquid-vc-templates.php:439
+msgid "Banner 29"
+msgstr "Anzeige 29"
+
+#: theme/liquid-vc-templates.php:451
+msgid "Banner 30"
+msgstr "Anzeige 30"
+
+#: theme/liquid-vc-templates.php:463
+msgid "Banner 31"
+msgstr "Anzeige 31"
+
+#: theme/liquid-vc-templates.php:475
+msgid "Banner 32"
+msgstr "Anzeige 32"
+
+#: theme/liquid-vc-templates.php:487
+msgid "Banner 33"
+msgstr "Anzeige 33"
+
+#: theme/liquid-vc-templates.php:499
+msgid "Banner 34"
+msgstr "Anzeige 34"
+
+#: theme/liquid-vc-templates.php:511
+msgid "Banner 35"
+msgstr "Anzeige 35"
+
+#: theme/liquid-vc-templates.php:524
+msgid "Banner 36"
+msgstr "Anzeige 36"
+
+#: theme/liquid-vc-templates.php:538
+msgid "Banner 37"
+msgstr "Anzeige 37"
+
+#: theme/liquid-vc-templates.php:551
+msgid "Banner 38"
+msgstr "Anzeige 38"
+
+#: theme/liquid-vc-templates.php:563
+msgid "Banner 39"
+msgstr "Anzeige 39"
+
+#: theme/liquid-vc-templates.php:575
+msgid "Banner 40"
+msgstr "Anzeige 40"
+
+#: theme/liquid-vc-templates.php:587
+msgid "Banner 41"
+msgstr "Anzeige 41"
+
+#: theme/liquid-vc-templates.php:599
+msgid "Banner 42"
+msgstr "Anzeige 42"
+
+#: theme/liquid-vc-templates.php:611
+msgid "Banner 43"
+msgstr "Anzeige 43"
+
+#: theme/liquid-vc-templates.php:623
+msgid "Banner 44"
+msgstr "Anzeige 44"
+
+#: theme/liquid-vc-templates.php:635
+msgid "Banner 45"
+msgstr "Anzeige 45"
+
+#: theme/liquid-vc-templates.php:648
+msgid "Banner 46"
+msgstr "Anzeige 46"
+
+#: theme/liquid-vc-templates.php:661
+msgid "Banner 47"
+msgstr "Anzeige 47"
+
+#: theme/liquid-vc-templates.php:673
+msgid "Banner 48"
+msgstr "Anzeige 48"
+
+#: theme/liquid-vc-templates.php:685
+msgid "Banner 49"
+msgstr "Anzeige 49"
+
+#: theme/liquid-vc-templates.php:697
+msgid "Banner 50"
+msgstr "Anzeige 50"
+
+#: theme/liquid-vc-templates.php:709
+msgid "Banner 51"
+msgstr "Anzeige 51"
+
+#: theme/liquid-vc-templates.php:721
+msgid "Banner 52"
+msgstr "Anzeige 52"
+
+#: theme/liquid-vc-templates.php:735
+msgid "Blog 01"
+msgstr "Blog 01"
+
+#: theme/liquid-vc-templates.php:747
+msgid "Blog 02"
+msgstr "Blog 02"
+
+#: theme/liquid-vc-templates.php:759
+msgid "Blog 03"
+msgstr "Blog 03"
+
+#: theme/liquid-vc-templates.php:771
+msgid "Blog 04"
+msgstr "Blog 04"
+
+#: theme/liquid-vc-templates.php:783
+msgid "Blog 05"
+msgstr "Blog 05"
+
+#: theme/liquid-vc-templates.php:795
+msgid "Blog 06"
+msgstr "Blog 06"
+
+#: theme/liquid-vc-templates.php:807
+msgid "Blog 07"
+msgstr "Blog 07"
+
+#: theme/liquid-vc-templates.php:819
+msgid "Blog 08"
+msgstr "Blog 08"
+
+#: theme/liquid-vc-templates.php:831
+msgid "Blog 09"
+msgstr "Blog 09"
+
+#: theme/liquid-vc-templates.php:843
+msgid "Blog 10"
+msgstr "Blog 10"
+
+#: theme/liquid-vc-templates.php:855
+msgid "Blog 11"
+msgstr "Blog 11"
+
+#: theme/liquid-vc-templates.php:867
+msgid "Blog 12"
+msgstr "Blog 12"
+
+#: theme/liquid-vc-templates.php:880
+msgid "Carousel 01"
+msgstr "Carousel 01"
+
+#: theme/liquid-vc-templates.php:892
+msgid "Carousel 02"
+msgstr "Carousel 02"
+
+#: theme/liquid-vc-templates.php:904
+msgid "Carousel 03"
+msgstr "Carousel 03"
+
+#: theme/liquid-vc-templates.php:916
+msgid "Carousel 04"
+msgstr "Carousel 04"
+
+#: theme/liquid-vc-templates.php:928
+msgid "Carousel 05"
+msgstr "Carousel 05"
+
+#: theme/liquid-vc-templates.php:941
+msgid "Contact 01"
+msgstr "Kontakt 01"
+
+#: theme/liquid-vc-templates.php:953
+msgid "Contact 02"
+msgstr "Kontakt 02"
+
+#: theme/liquid-vc-templates.php:965
+msgid "Contact 03"
+msgstr "Kontakt 03"
+
+#: theme/liquid-vc-templates.php:977
+msgid "Contact 04"
+msgstr "Kontakt 04"
+
+#: theme/liquid-vc-templates.php:989
+msgid "Contact 05"
+msgstr "Kontakt 05"
+
+#: theme/liquid-vc-templates.php:1001
+msgid "Contact 06"
+msgstr "Kontakt 06"
+
+#: theme/liquid-vc-templates.php:1014
+msgid "Counter 01"
+msgstr "Zähler 01"
+
+#: theme/liquid-vc-templates.php:1026
+msgid "Counter 02"
+msgstr "Zähler 02"
+
+#: theme/liquid-vc-templates.php:1038
+msgid "Counter 03"
+msgstr "Zähler 03"
+
+#: theme/liquid-vc-templates.php:1050
+msgid "Counter 04"
+msgstr "Zähler 04"
+
+#: theme/liquid-vc-templates.php:1062
+msgid "Counter 05"
+msgstr "Zähler 05"
+
+#: theme/liquid-vc-templates.php:1074
+msgid "Counter 06"
+msgstr "Zähler 06"
+
+#: theme/liquid-vc-templates.php:1086
+msgid "Counter 07"
+msgstr "Zähler 07"
+
+#: theme/liquid-vc-templates.php:1099
+msgid "Fancy Box 01"
+msgstr "Fancy Box 01"
+
+#: theme/liquid-vc-templates.php:1111
+msgid "Fancy Box 02"
+msgstr "Fancy Box 02"
+
+#: theme/liquid-vc-templates.php:1123
+msgid "Fancy Box 03"
+msgstr "Fancy Box 03"
+
+#: theme/liquid-vc-templates.php:1135
+msgid "Fancy Box 04"
+msgstr "Fancy Box 04"
+
+#: theme/liquid-vc-templates.php:1148
+msgid "Fancy Box 05"
+msgstr "Fancy Box 05"
+
+#: theme/liquid-vc-templates.php:1160
+msgid "Fancy Box 06"
+msgstr "Fancy Box 06"
+
+#: theme/liquid-vc-templates.php:1172
+msgid "Fancy Box 07"
+msgstr "Fancy Box 07"
+
+#: theme/liquid-vc-templates.php:1185
+msgid "Fancy Box 08"
+msgstr "Fancy Box 08"
+
+#: theme/liquid-vc-templates.php:1197
+msgid "Fancy Box 09"
+msgstr "Fancy Box 09"
+
+#: theme/liquid-vc-templates.php:1209
+msgid "Fancy Box 10"
+msgstr "Fancy Box 10"
+
+#: theme/liquid-vc-templates.php:1221
+msgid "Fancy Box 11"
+msgstr "Fancy Box 11"
+
+#: theme/liquid-vc-templates.php:1233
+msgid "Fancy Box 12"
+msgstr "Fancy Box 12"
+
+#: theme/liquid-vc-templates.php:1245
+msgid "Fancy Box 13"
+msgstr "Fancy Box 13"
+
+#: theme/liquid-vc-templates.php:1257
+msgid "Fancy Box 14"
+msgstr "Fancy Box 14"
+
+#: theme/liquid-vc-templates.php:1269
+msgid "Fancy Box 15"
+msgstr "Fancy Box 15"
+
+#: theme/liquid-vc-templates.php:1281
+msgid "Fancy Box 16"
+msgstr "Fancy Box 16"
+
+#: theme/liquid-vc-templates.php:1294
+msgid "Fancy Text 01"
+msgstr "Fancy Text 01"
+
+#: theme/liquid-vc-templates.php:1306
+msgid "Fancy Text 02"
+msgstr "Fancy Text 02"
+
+#: theme/liquid-vc-templates.php:1318
+msgid "Fancy Text 03"
+msgstr "Fancy Text 03"
+
+#: theme/liquid-vc-templates.php:1330
+msgid "Fancy Text 04"
+msgstr "Fancy Text 04"
+
+#: theme/liquid-vc-templates.php:1342
+msgid "Fancy Text 05"
+msgstr "Fancy Text 05"
+
+#: theme/liquid-vc-templates.php:1354
+msgid "Fancy Text 06"
+msgstr "Fancy Text 06"
+
+#: theme/liquid-vc-templates.php:1366
+msgid "Fancy Text 07"
+msgstr "Fancy Text 07"
+
+#: theme/liquid-vc-templates.php:1380
+msgid "Footer 01"
+msgstr "Fußzeile 01"
+
+#: theme/liquid-vc-templates.php:1392
+msgid "Footer 02"
+msgstr "Fußzeile 02"
+
+#: theme/liquid-vc-templates.php:1404
+msgid "Footer 03"
+msgstr "Fußzeile 03"
+
+#: theme/liquid-vc-templates.php:1422
+msgid "Footer 04"
+msgstr "Fußzeile 04"
+
+#: theme/liquid-vc-templates.php:1434
+msgid "Footer 05"
+msgstr "Fußzeile 05"
+
+#: theme/liquid-vc-templates.php:1446
+msgid "Footer 06"
+msgstr "Fußzeile 06"
+
+#: theme/liquid-vc-templates.php:1458
+msgid "Footer 07"
+msgstr "Fußzeile 07"
+
+#: theme/liquid-vc-templates.php:1473
+msgid "Footer 08"
+msgstr "Fußzeile 08"
+
+#: theme/liquid-vc-templates.php:1485
+msgid "Footer 09"
+msgstr "Fußzeile 09"
+
+#: theme/liquid-vc-templates.php:1497
+msgid "Footer 10"
+msgstr "Fußzeile 10"
+
+#: theme/liquid-vc-templates.php:1509
+msgid "Footer 11"
+msgstr "Fußzeile 11"
+
+#: theme/liquid-vc-templates.php:1521
+msgid "Footer 12"
+msgstr "Fußzeile 12"
+
+#: theme/liquid-vc-templates.php:1536
+msgid "Footer 13"
+msgstr "Fußzeile 13"
+
+#: theme/liquid-vc-templates.php:1548
+msgid "Footer 14"
+msgstr "Fußzeile 14"
+
+#: theme/liquid-vc-templates.php:1560
+msgid "Footer 15"
+msgstr "Fußzeile 15"
+
+#: theme/liquid-vc-templates.php:1577
+msgid "Footer 16"
+msgstr "Fußzeile 16"
+
+#: theme/liquid-vc-templates.php:1594
+msgid "Footer 17"
+msgstr "Fußzeile 17"
+
+#: theme/liquid-vc-templates.php:1606
+msgid "Footer 18"
+msgstr "Fußzeile 18"
+
+#: theme/liquid-vc-templates.php:1620
+msgid "Header 01"
+msgstr "Kopfzeile 01"
+
+#: theme/liquid-vc-templates.php:1632
+msgid "Header 02"
+msgstr "Kopfzeile 02"
+
+#: theme/liquid-vc-templates.php:1644
+msgid "Header 03"
+msgstr "Kopfzeile 03"
+
+#: theme/liquid-vc-templates.php:1656
+msgid "Header 04"
+msgstr "Kopfzeile 04"
+
+#: theme/liquid-vc-templates.php:1668
+msgid "Header 05"
+msgstr "Kopfzeile 05"
+
+#: theme/liquid-vc-templates.php:1680
+msgid "Header 06"
+msgstr "Kopfzeile 06"
+
+#: theme/liquid-vc-templates.php:1695
+msgid "Header 07"
+msgstr "Kopfzeile 07"
+
+#: theme/liquid-vc-templates.php:1707
+msgid "Header 08"
+msgstr "Kopfzeile 08"
+
+#: theme/liquid-vc-templates.php:1719
+msgid "Header 09"
+msgstr "Kopfzeile 09"
+
+#: theme/liquid-vc-templates.php:1731
+msgid "Header 10"
+msgstr "Kopfzeile 10"
+
+#: theme/liquid-vc-templates.php:1743
+msgid "Header 11"
+msgstr "Kopfzeile 11"
+
+#: theme/liquid-vc-templates.php:1755
+msgid "Header 12"
+msgstr "Kopfzeile 12"
+
+#: theme/liquid-vc-templates.php:1767
+msgid "Header 13"
+msgstr "Kopfzeile 13"
+
+#: theme/liquid-vc-templates.php:1779
+msgid "Header 14"
+msgstr "Kopfzeile 14"
+
+#: theme/liquid-vc-templates.php:1791
+msgid "Header 15"
+msgstr "Kopfzeile 15"
+
+#: theme/liquid-vc-templates.php:1807
+msgid "Header 16"
+msgstr "Kopfzeile 16"
+
+#: theme/liquid-vc-templates.php:1819
+msgid "Header 17"
+msgstr "Kopfzeile 17"
+
+#: theme/liquid-vc-templates.php:1831
+msgid "Header 18"
+msgstr "Kopfzeile 18"
+
+#: theme/liquid-vc-templates.php:1843
+msgid "Header 19"
+msgstr "Kopfzeile 19"
+
+#: theme/liquid-vc-templates.php:1855
+msgid "Header 20"
+msgstr "Kopfzeile 20"
+
+#: theme/liquid-vc-templates.php:1867
+msgid "Header 21"
+msgstr "Kopfzeile 21"
+
+#: theme/liquid-vc-templates.php:1883
+msgid "Header 22"
+msgstr "Kopfzeile 22"
+
+#: theme/liquid-vc-templates.php:1896
+msgid "Icon 01"
+msgstr "Icon 01"
+
+#: theme/liquid-vc-templates.php:1911
+msgid "Icon 02"
+msgstr "Icon 02"
+
+#: theme/liquid-vc-templates.php:1923
+msgid "Icon 03"
+msgstr "Piktogramm 03"
+
+#: theme/liquid-vc-templates.php:1935
+msgid "Icon 04"
+msgstr "Icon 04"
+
+#: theme/liquid-vc-templates.php:1947
+msgid "Icon 05"
+msgstr "Icon 05"
+
+#: theme/liquid-vc-templates.php:1960
+msgid "Icon 06"
+msgstr "Icon 06"
+
+#: theme/liquid-vc-templates.php:1972
+msgid "Icon 07"
+msgstr "Icon 07"
+
+#: theme/liquid-vc-templates.php:1984
+msgid "Icon 08"
+msgstr "Piktogramm 07"
+
+#: theme/liquid-vc-templates.php:1996
+msgid "Icon 09"
+msgstr "Icon 09"
+
+#: theme/liquid-vc-templates.php:2008
+msgid "Icon 10"
+msgstr "Icon 10"
+
+#: theme/liquid-vc-templates.php:2020
+msgid "Icon 11"
+msgstr "Icon 11"
+
+#: theme/liquid-vc-templates.php:2032
+msgid "Icon 12"
+msgstr "Icon 12"
+
+#: theme/liquid-vc-templates.php:2044
+msgid "Icon 13"
+msgstr "Icon 13"
+
+#: theme/liquid-vc-templates.php:2056
+msgid "Icon 14"
+msgstr "Icon 14"
+
+#: theme/liquid-vc-templates.php:2074
+msgid "Icon 15"
+msgstr "Icon 15"
+
+#: theme/liquid-vc-templates.php:2092
+msgid "Icon 16"
+msgstr "Icon 16"
+
+#: theme/liquid-vc-templates.php:2120
+msgid "Icon 17"
+msgstr "Icon 17"
+
+#: theme/liquid-vc-templates.php:2132
+msgid "Icon 18"
+msgstr "Icon 18"
+
+#: theme/liquid-vc-templates.php:2144
+msgid "Icon 19"
+msgstr "Icon 19"
+
+#: theme/liquid-vc-templates.php:2156
+msgid "Icon 20"
+msgstr "Icon 20"
+
+#: theme/liquid-vc-templates.php:2168
+msgid "Icon 21"
+msgstr "Icon 21"
+
+#: theme/liquid-vc-templates.php:2186
+msgid "Icon 22"
+msgstr "Icon 22"
+
+#: theme/liquid-vc-templates.php:2198
+msgid "Icon 23"
+msgstr "Icon 23"
+
+#: theme/liquid-vc-templates.php:2210
+msgid "Icon 24"
+msgstr "Icon 24"
+
+#: theme/liquid-vc-templates.php:2223
+msgid "Media 01"
+msgstr "Medien 01"
+
+#: theme/liquid-vc-templates.php:2235
+msgid "Media 02"
+msgstr "Medien 02"
+
+#: theme/liquid-vc-templates.php:2247
+msgid "Media 03"
+msgstr "Medien03"
+
+#: theme/liquid-vc-templates.php:2259
+msgid "Media 04"
+msgstr "Medien 04"
+
+#: theme/liquid-vc-templates.php:2271
+msgid "Media 05"
+msgstr "Medien 05"
+
+#: theme/liquid-vc-templates.php:2284
+msgid "Misc 01"
+msgstr "Sonstiges 01"
+
+#: theme/liquid-vc-templates.php:2299
+msgid "Misc 02"
+msgstr "Sonstiges 02"
+
+#: theme/liquid-vc-templates.php:2311
+msgid "Misc 03"
+msgstr "Sonstiges 03"
+
+#: theme/liquid-vc-templates.php:2323
+msgid "Misc 04"
+msgstr "Sonstiges 04"
+
+#: theme/liquid-vc-templates.php:2335
+msgid "Misc 05"
+msgstr "Sonstiges 05"
+
+#: theme/liquid-vc-templates.php:2347
+msgid "Misc 06"
+msgstr "Sonstiges 06"
+
+#: theme/liquid-vc-templates.php:2359
+msgid "Misc 07"
+msgstr "Sonstiges 07"
+
+#: theme/liquid-vc-templates.php:2371
+msgid "Misc 08"
+msgstr "Sonstiges 08"
+
+#: theme/liquid-vc-templates.php:2383
+msgid "Misc 09"
+msgstr "Sonstiges 09"
+
+#: theme/liquid-vc-templates.php:2395
+msgid "Misc 10"
+msgstr "Sonstiges 10"
+
+#: theme/liquid-vc-templates.php:2408
+msgid "Newsletter 01"
+msgstr "Newsletter 01"
+
+#: theme/liquid-vc-templates.php:2420
+msgid "Newsletter 02"
+msgstr "Newsletter 02"
+
+#: theme/liquid-vc-templates.php:2432
+msgid "Newsletter 03"
+msgstr "Newsletter 03"
+
+#: theme/liquid-vc-templates.php:2444
+msgid "Newsletter 04"
+msgstr "Newsletter 04"
+
+#: theme/liquid-vc-templates.php:2457
+msgid "Portfolio 01"
+msgstr "Portfolio 01"
+
+#: theme/liquid-vc-templates.php:2469
+msgid "Portfolio 02"
+msgstr "Portfolio 02"
+
+#: theme/liquid-vc-templates.php:2481
+msgid "Portfolio 03"
+msgstr "Portfolio 03"
+
+#: theme/liquid-vc-templates.php:2495
+msgid "Portfolio 04"
+msgstr "Portfolio 04"
+
+#: theme/liquid-vc-templates.php:2507
+msgid "Portfolio 05"
+msgstr "Portfolio 05"
+
+#: theme/liquid-vc-templates.php:2519
+msgid "Portfolio 06"
+msgstr "Portfolio 06"
+
+#: theme/liquid-vc-templates.php:2532
+msgid "Pricing 01"
+msgstr "Preisgestaltung 01"
+
+#: theme/liquid-vc-templates.php:2565
+msgid "Pricing 02"
+msgstr "Preisgestaltung 02"
+
+#: theme/liquid-vc-templates.php:2598
+msgid "Pricing 03"
+msgstr "Preisgestaltung 03"
+
+#: theme/liquid-vc-templates.php:2632
+msgid "Process 01"
+msgstr "Vorgang 01"
+
+#: theme/liquid-vc-templates.php:2644
+msgid "Process 02"
+msgstr "Vorgang 02"
+
+#: theme/liquid-vc-templates.php:2656
+msgid "Process 03"
+msgstr "Vorgang 03"
+
+#: theme/liquid-vc-templates.php:2668
+msgid "Process 04"
+msgstr "Vorgang 04"
+
+#: theme/liquid-vc-templates.php:2681
+msgid "Tabs 01"
+msgstr "Registerkarte 01"
+
+#: theme/liquid-vc-templates.php:2693
+msgid "Tabs 02"
+msgstr "Registerkarte 02"
+
+#: theme/liquid-vc-templates.php:2705
+msgid "Tabs 03"
+msgstr "Registerkarte 03"
+
+#: theme/liquid-vc-templates.php:2798
+msgid "Team 01"
+msgstr "Team 01"
+
+#: theme/liquid-vc-templates.php:2810
+msgid "Team 02"
+msgstr "Team 02"
+
+#: theme/liquid-vc-templates.php:2823
+msgid "Team 03"
+msgstr "Team 03"
+
+#: theme/liquid-vc-templates.php:2836
+msgid "Team 04"
+msgstr "Team 04"
+
+#: theme/liquid-vc-templates.php:2849
+msgid "Team 05"
+msgstr "Team 05"
+
+#: theme/liquid-vc-templates.php:2862
+msgid "Team 06"
+msgstr "Team 06"
+
+#: theme/liquid-vc-templates.php:2875
+msgid "Clients 01"
+msgstr "Klienten 01"
+
+#: theme/liquid-vc-templates.php:2887
+msgid "Clients 02"
+msgstr "Klienten 02"
+
+#: theme/liquid-vc-templates.php:2899
+msgid "Testimonials 01"
+msgstr "Kundenmeinungen 01"
+
+#: theme/liquid-vc-templates.php:2911
+msgid "Testimonials 02"
+msgstr "Kundenmeinungen 02"
+
+#: theme/liquid-vc-templates.php:2927
+msgid "Testimonials 03"
+msgstr "Kundenmeinungen 03"
+
+#: theme/liquid-vc-templates.php:2947
+msgid "Testimonials 04"
+msgstr "Kundenmeinungen 04"
+
+#: theme/liquid-vc-templates.php:2959
+msgid "Testimonials 05"
+msgstr "Kundenmeinungen 05"
+
+#: theme/liquid-vc-templates.php:2972
+msgid "Testimonials 06"
+msgstr "Kundenmeinungen 06"
+
+#: theme/liquid-vc-templates.php:2984
+msgid "Testimonials 07"
+msgstr "Kundenmeinungen 07"
+
+#: theme/liquid-vc-templates.php:2996
+msgid "Testimonials 08"
+msgstr "Kundenmeinungen 08"
+
+#: theme/liquid-vc-templates.php:3014
+msgid "Testimonials 09"
+msgstr "Kundenmeinungen 09"
+
+#: theme/liquid-vc-templates.php:3026
+msgid "Testimonials 10"
+msgstr "Kundenmeinungen 10"
+
+#: theme/liquid-vc-templates.php:3038
+msgid "Testimonials 11"
+msgstr "Kundenmeinungen 11"
+
+#: theme/liquid-vc-templates.php:3050
+msgid "Testimonials 12"
+msgstr "Kundenmeinungen 12"
+
+#: theme/liquid-vc-templates.php:3062
+msgid "Testimonials 13"
+msgstr "Kundenmeinungen 13"
+
+#: theme/liquid-vc-templates.php:3074
+msgid "Testimonials 14"
+msgstr "Kundenmeinungen 15"
+
+#: theme/metaboxes/liquid-content.php:16 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:98 
+#: theme/theme-options/liquid-page-404.php:38
+msgid "Content"
+msgstr "Inhalt"
+
+#: theme/metaboxes/liquid-content.php:17
+msgid "Change the content section configuration."
+msgstr "Ändern Sie die Konfiguration des Inhaltsbereichs."
+
+#: theme/metaboxes/liquid-content.php:23
+msgid "Content Padding"
+msgstr "Inhalts-Padding"
+
+#: theme/metaboxes/liquid-content.php:24
+msgid "Select desired padding for the content"
+msgstr "Wählen Sie die gewünschte Padding für den Inhalt aus."
+
+#: theme/metaboxes/liquid-content.php:26 theme/metaboxes/liquid-footer.php:27 
+#: theme/metaboxes/liquid-header-options.php:25 
+#: theme/metaboxes/liquid-header.php:27 
+#: theme/metaboxes/liquid-portfolio-general.php:41 
+#: theme/metaboxes/liquid-portfolio-general.php:58 
+#: theme/metaboxes/liquid-portfolio-general.php:68 
+#: theme/metaboxes/liquid-portfolio-meta.php:27 
+#: theme/metaboxes/liquid-portfolio-meta.php:39 
+#: theme/metaboxes/liquid-portfolio-meta.php:91 
+#: theme/metaboxes/liquid-post.php:25 theme/metaboxes/liquid-post.php:76 
+#: theme/metaboxes/liquid-post.php:129 theme/metaboxes/liquid-post.php:141 
+#: theme/metaboxes/liquid-post.php:153 theme/metaboxes/liquid-post.php:165 
+#: theme/metaboxes/liquid-post.php:215 theme/metaboxes/liquid-post.php:241 
+#: theme/metaboxes/liquid-sidebars.php:27 
+#: theme/metaboxes/liquid-sliders.php:63 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:26 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:68 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:119 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:135 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:147 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:259 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:316 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:371 
+#: theme/metaboxes/liquid-title-wrapper.php:25 
+#: theme/metaboxes/liquid-title-wrapper.php:47 
+#: theme/metaboxes/liquid-title-wrapper.php:89 
+#: theme/metaboxes/liquid-title-wrapper.php:199 
+#: theme/metaboxes/liquid-title-wrapper.php:215 
+#: theme/metaboxes/liquid-title-wrapper.php:241 
+#: theme/metaboxes/liquid-title-wrapper.php:256 
+#: theme/theme-options/liquid-blog.php:515 
+#: theme/theme-options/liquid-layout.php:18 
+#: theme/theme-options/liquid-portfolio.php:64 
+#: theme/theme-options/liquid-portfolio.php:83
+msgid "Default"
+msgstr "Standard"
+
+#: theme/metaboxes/liquid-content.php:27
+msgid "No padding"
+msgstr "Kein Padding"
+
+#: theme/metaboxes/liquid-content.php:28
+msgid "Only padding top"
+msgstr "Nur Padding oben"
+
+#: theme/metaboxes/liquid-content.php:29
+msgid "Only padding bottom"
+msgstr "Nur Padding unten"
+
+#: theme/metaboxes/liquid-footer-options.php:16
+msgid "Design Options"
+msgstr "Design-Optionen"
+
+#: theme/metaboxes/liquid-footer-options.php:23
+msgid "Sticky Footer"
+msgstr "Sticky Fußzeile"
+
+#: theme/metaboxes/liquid-footer-options.php:24
+msgid "If on, this footer will be sticky"
+msgstr "Wenn eingeschaltet, wird diese Fußzeile haftend sein."
+
+#: theme/metaboxes/liquid-footer-options.php:35
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: theme/metaboxes/liquid-footer-options.php:40
+msgid "Link Color"
+msgstr "Link-Farbe"
+
+#: theme/metaboxes/liquid-footer-options.php:46 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:246 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:290 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:302 
+#: theme/theme-options/liquid-page-maintenance.php:129 
+#: theme/theme-options/liquid-page-maintenance.php:141 
+#: theme/theme-options/liquid-page-maintenance.php:153
+msgid "Background"
+msgstr "Hintergrund"
+
+#: theme/metaboxes/liquid-footer-options.php:52
+msgid "Color/Gradient Background"
+msgstr "Farbe/Farbverlauf-Hintergrund"
+
+#: theme/metaboxes/liquid-footer-options.php:58
+msgid "Padding"
+msgstr "Padding"
+
+#: theme/metaboxes/liquid-footer.php:16 theme/metaboxes/liquid-footer.php:23 
+#: theme/theme-options/liquid-extras.php:42 
+#: theme/theme-options/liquid-footer.php:7 
+#: theme/theme-options/liquid-footer.php:13
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: theme/metaboxes/liquid-footer.php:24 
+#: theme/theme-options/liquid-preheader.php:16
+msgid "If on, this layout part will be displayed."
+msgstr "Wenn eingeschaltet, wird dieser Layoutbereich angezeigt."
+
+#: theme/metaboxes/liquid-footer.php:35
+msgid "Footer Style"
+msgstr "Fußzeilen-Stil"
+
+#: theme/metaboxes/liquid-footer.php:36
+msgid ""
+"Choose the footer style amongst you created, selecting a footer will "
+"overwrite the theme options."
+msgstr ""
+"Wählen Sie den Stil der Fußzeile unter den von Ihnen bereits Erstellten, die "
+"Auswahl einer Fußzeile überschreibt die Design-Optionen."
+
+#: theme/metaboxes/liquid-header-options.php:16
+msgid "Header Design Options"
+msgstr "Gestaltungsoptionen der Kopfzeile"
+
+#: theme/metaboxes/liquid-header-options.php:23 
+#: theme/metaboxes/liquid-header-options.php:144 
+#: theme/metaboxes/liquid-post.php:23 theme/theme-options/liquid-blog.php:170 
+#: theme/theme-options/liquid-blog.php:293
+msgid "Style"
+msgstr "Stil"
+
+#: theme/metaboxes/liquid-header-options.php:26
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: theme/metaboxes/liquid-header-options.php:27
+msgid "Side 1"
+msgstr "Seite 1"
+
+#: theme/metaboxes/liquid-header-options.php:28
+msgid "Side 2"
+msgstr "Seite 2"
+
+#: theme/metaboxes/liquid-header-options.php:35
+msgid "Navigation Background"
+msgstr "Navigationshintergrund"
+
+#: theme/metaboxes/liquid-header-options.php:45
+msgid "Enable Megamenu Reaction?"
+msgstr "Megamenu-Reaktion aktivieren?"
+
+#: theme/metaboxes/liquid-header-options.php:46
+msgid ""
+"Enable if you want to add backround animation to header when hover the "
+"megamenu item"
+msgstr ""
+"Aktivieren Sie diese Option, wenn Sie dem Header eine Hintergrundanimation "
+"hinzufügen möchten, wenn Sie mit der Maus über das Megamenu-Element fahren."
+
+#: theme/metaboxes/liquid-header-options.php:60
+msgid "Enable Sticky Header?"
+msgstr "Sticky Header aktivieren?"
+
+#: theme/metaboxes/liquid-header-options.php:74
+msgid "Sticky Header Position"
+msgstr "Sticky Kopfzeilenposition"
+
+#: theme/metaboxes/liquid-header-options.php:76
+msgid "Default - Bottom of the header"
+msgstr "Standard - Unterseite der Kopfleiste"
+
+#: theme/metaboxes/liquid-header-options.php:77
+msgid "After first section"
+msgstr "Nach dem ersten Abschnitt"
+
+#: theme/metaboxes/liquid-header-options.php:89
+msgid "Sticky Header Background"
+msgstr "Sticky Kopfzeilenhintergrund"
+
+#: theme/metaboxes/liquid-header-options.php:100
+msgid "Sticky Header Color"
+msgstr "Sticky Kopfzeilenfarbe"
+
+#: theme/metaboxes/liquid-header-options.php:111
+msgid "Sticky Header Hover Color"
+msgstr "Sticky Kopfzeile-Hover-Farbe"
+
+#: theme/metaboxes/liquid-header-options.php:121
+msgid "Overlay?"
+msgstr "Überlagerung?"
+
+#: theme/metaboxes/liquid-header-options.php:137 
+#: theme/theme-options/liquid-header-mobile-nav.php:3
+msgid "Mobile Navigation"
+msgstr "Mobile Navigation"
+
+#: theme/metaboxes/liquid-header-options.php:146 
+#: theme/metaboxes/liquid-post.php:176 theme/theme-options/liquid-blog.php:46 
+#: theme/theme-options/liquid-blog.php:172 
+#: theme/theme-options/liquid-blog.php:295 
+#: theme/theme-options/liquid-blog.php:418 
+#: theme/theme-options/liquid-header-mobile-nav.php:12
+msgid "Classic"
+msgstr "Klassisch"
+
+#: theme/metaboxes/liquid-header-options.php:147 
+#: theme/theme-options/liquid-header-mobile-nav.php:13
+msgid "Minimal"
+msgstr "Minimal"
+
+#: theme/metaboxes/liquid-header-options.php:148 
+#: theme/theme-options/liquid-header-mobile-nav.php:14
+msgid "Modern"
+msgstr "Modern"
+
+#: theme/metaboxes/liquid-header-options.php:154
+msgid "Trigger Alignment"
+msgstr "Triggerausrichtung"
+
+#: theme/metaboxes/liquid-header-options.php:163
+msgid "Navigation Alignment"
+msgstr "Navigations-Ausrichtung"
+
+#: theme/metaboxes/liquid-header-options.php:177
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: theme/metaboxes/liquid-header-options.php:179 
+#: theme/metaboxes/liquid-header-options.php:195 
+#: theme/theme-options/liquid-header-mobile-nav.php:45 
+#: theme/theme-options/liquid-header-mobile-nav.php:61
+msgid "Gray"
+msgstr "Grau"
+
+#: theme/metaboxes/liquid-header-options.php:180 
+#: theme/metaboxes/liquid-header-options.php:194 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:69 
+#: theme/metaboxes/liquid-title-wrapper.php:146 
+#: theme/theme-options/liquid-header-mobile-nav.php:46 
+#: theme/theme-options/liquid-header-mobile-nav.php:60 
+#: theme/theme-options/liquid-header-title-wrapper.php:100
+msgid "Light"
+msgstr "Hell"
+
+#: theme/metaboxes/liquid-header-options.php:181 
+#: theme/metaboxes/liquid-header-options.php:196 
+#: theme/metaboxes/liquid-title-wrapper.php:147 
+#: theme/theme-options/liquid-header-mobile-nav.php:47 
+#: theme/theme-options/liquid-header-mobile-nav.php:62 
+#: theme/theme-options/liquid-header-title-wrapper.php:101
+msgid "Dark"
+msgstr "Dunkel"
+
+#: theme/metaboxes/liquid-header-options.php:192
+msgid "Header Color Scheme"
+msgstr "Farbschema der Kopfzeile"
+
+#: theme/metaboxes/liquid-header-options.php:202
+msgid "Show secondary bar of the header"
+msgstr "Zeige sekundäre Leiste der Kopfzeile"
+
+#: theme/metaboxes/liquid-header.php:17 theme/metaboxes/liquid-header.php:24 
+#: theme/metaboxes/liquid-portfolio-general.php:37 
+#: theme/theme-options/liquid-extras.php:20 
+#: theme/theme-options/liquid-header-layout.php:13 
+#: theme/theme-options/liquid-header.php:7
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: theme/metaboxes/liquid-header.php:35
+msgid "Header Style"
+msgstr "Stil der Kopfzeile"
+
+#: theme/metaboxes/liquid-header.php:36
+msgid ""
+"Choose the header style amongst your headers, this option will overwrite the "
+"default header."
+msgstr ""
+"Wählen Sie den Stil für Ihre Kopfzeile. Diese Option überschreibt die "
+"Standard-Kopfzeile."
+
+#: theme/metaboxes/liquid-megamenu-options.php:9
+msgid "MegaMenu Design Options"
+msgstr "MegaMenu Design Optionen"
+
+#: theme/metaboxes/liquid-megamenu-options.php:15
+msgid "MegaMenu Fullwidth?"
+msgstr "MegaMenu volle Breite?"
+
+#: theme/metaboxes/liquid-megamenu-options.php:16
+msgid ""
+"Stretch the background of megamenu. To make the content fullwidth please "
+"update row options from the contents."
+msgstr ""
+"Dehnen Sie den Hintergrund von Megamenu. Um den Inhalt in voller Breite "
+"darzustellen, aktualisieren Sie bitte die Zeilenoptionen aus dem Inhalt."
+
+#: theme/metaboxes/liquid-page.php:23 theme/theme-options/liquid-layout.php:15
+msgid "Page Color Scheme"
+msgstr "Farbschema der Seite"
+
+#: theme/metaboxes/liquid-page.php:24
+msgid "Select a color scheme for the page"
+msgstr "Wählen Sie ein Farbschema für die Seite aus"
+
+#: theme/metaboxes/liquid-page.php:26 theme/theme-options/liquid-layout.php:20
+msgid "Dark - (light background and dark content)"
+msgstr "Dunkel - (heller Hintergrund und dunkler Inhalt)"
+
+#: theme/metaboxes/liquid-page.php:27 theme/theme-options/liquid-layout.php:19
+msgid "Light - (dark background and light content)"
+msgstr "Hell - (dunkler Hintergrund und heller Inhalt)"
+
+#: theme/metaboxes/liquid-page.php:36 theme/theme-options/liquid-layout.php:29
+msgid "Content Background"
+msgstr "Inhaltshintergrund"
+
+#: theme/metaboxes/liquid-page.php:42 theme/theme-options/liquid-layout.php:35
+msgid "Content Background Gradient"
+msgstr "Inhaltshintergrund Farbverlauf"
+
+#: theme/metaboxes/liquid-page.php:43 
+#: theme/metaboxes/liquid-title-wrapper.php:186 
+#: theme/theme-options/liquid-header-title-wrapper.php:125 
+#: theme/theme-options/liquid-layout.php:36
+msgid "Overwrites the background image, unless has transparency."
+msgstr "Überschreibt das Hintergrundbild, außer es ist transparent."
+
+#: theme/metaboxes/liquid-page.php:48
+msgid "Enable Page Blocks?"
+msgstr "Seitenblöcke aktivieren?"
+
+#: theme/metaboxes/liquid-page.php:49
+msgid "Will enable page stack"
+msgstr "Aktiviert den Seitenstapel"
+
+#: theme/metaboxes/liquid-page.php:59
+msgid "Page Blocks Effect"
+msgstr "Page Blocks Effekt"
+
+#: theme/metaboxes/liquid-page.php:60
+msgid "Select an effect for the section transition"
+msgstr "Wählen Sie einen Effekt für den Abschnittsübergang aus."
+
+#: theme/metaboxes/liquid-page.php:63
+msgid "fadeScale"
+msgstr "Ausblend-Skalierung"
+
+#: theme/metaboxes/liquid-page.php:64
+msgid "slideOver"
+msgstr "slideOver"
+
+#: theme/metaboxes/liquid-page.php:75
+msgid "Page Blocks Navigation?"
+msgstr "Seitenblock Navigation?"
+
+#: theme/metaboxes/liquid-page.php:76
+msgid "Will enable page blocks navigation"
+msgstr "Aktiviert die Navigation in Seitenblöcken"
+
+#: theme/metaboxes/liquid-page.php:90
+msgid "Page Blocks Previous/Next buttons?"
+msgstr "Seitenblock Vorherige/Nächste Schaltflächen?"
+
+#: theme/metaboxes/liquid-page.php:104
+msgid "Buttons Style"
+msgstr "Schaltflächen Stil"
+
+#: theme/metaboxes/liquid-page.php:105
+msgid "Select style for the buttons"
+msgstr "Stil für die Schaltflächen auswählen"
+
+#: theme/metaboxes/liquid-page.php:107 
+#: theme/metaboxes/liquid-portfolio-meta.php:50 
+#: theme/theme-options/liquid-portfolio.php:197
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: theme/metaboxes/liquid-page.php:108 
+#: theme/metaboxes/liquid-portfolio-meta.php:51 
+#: theme/theme-options/liquid-portfolio.php:198
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: theme/metaboxes/liquid-page.php:120
+msgid "Page Blocks Numbers?"
+msgstr "Seitenblock Zahlen?"
+
+#: theme/metaboxes/liquid-portfolio-general.php:17
+msgid "Portfolio Description"
+msgstr "Portfoliobeschreibung"
+
+#: theme/metaboxes/liquid-portfolio-general.php:30
+msgid "Portfolio General"
+msgstr "Portfolio Allgemein"
+
+#: theme/metaboxes/liquid-portfolio-general.php:38
+msgid "Display the header"
+msgstr "Anzeigen des Kopfbereichs"
+
+#: theme/metaboxes/liquid-portfolio-general.php:49
+msgid "Subtitle"
+msgstr "Untertitel"
+
+#: theme/metaboxes/liquid-portfolio-general.php:50
+msgid "Manage the subtitle of portfolio listing"
+msgstr "Verwaltung des Untertitels der Portfolio-Auflistung"
+
+#: theme/metaboxes/liquid-portfolio-general.php:55 
+#: theme/theme-options/liquid-portfolio.php:39
+msgid "Portfolio Style"
+msgstr "Portfolio-Stil"
+
+#: theme/metaboxes/liquid-portfolio-general.php:66
+msgid "Defines the width of the featured image on the portfolio listing page"
+msgstr ""
+"Definiert die Breite des angezeigten Bildes auf der Portfolio-Listenseite."
+
+#: theme/metaboxes/liquid-portfolio-general.php:69
+msgid "Auto - width determined by thumbnail width"
+msgstr "Automatische Breite bestimmt durch die Breite der Miniaturansicht"
+
+#: theme/metaboxes/liquid-portfolio-general.php:70 
+#: theme/metaboxes/liquid-post.php:216
+msgid "2 columns - 1/6"
+msgstr "2 Spalten - 1/6"
+
+#: theme/metaboxes/liquid-portfolio-general.php:71 
+#: theme/metaboxes/liquid-post.php:217
+msgid "3 columns - 1/4"
+msgstr "3 Spalten - 1/4"
+
+#: theme/metaboxes/liquid-portfolio-general.php:72 
+#: theme/metaboxes/liquid-post.php:218
+msgid "4 columns - 1/3"
+msgstr "4 Spalten - 1/3"
+
+#: theme/metaboxes/liquid-portfolio-general.php:73 
+#: theme/metaboxes/liquid-post.php:219
+msgid "5 columns - 5/12"
+msgstr "5 Spalten - 5/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:74 
+#: theme/metaboxes/liquid-post.php:220
+msgid "6 columns - 1/2"
+msgstr "6 Spalten - 1/2"
+
+#: theme/metaboxes/liquid-portfolio-general.php:75 
+#: theme/metaboxes/liquid-post.php:221
+msgid "7 columns - 7/12"
+msgstr "7 Spalten - 7/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:76 
+#: theme/metaboxes/liquid-post.php:222
+msgid "8 columns - 2/3"
+msgstr "8 Spalten - 2/3/3"
+
+#: theme/metaboxes/liquid-portfolio-general.php:77 
+#: theme/metaboxes/liquid-post.php:223
+msgid "9 columns - 3/4"
+msgstr "9 Säulen - 3/4"
+
+#: theme/metaboxes/liquid-portfolio-general.php:78 
+#: theme/metaboxes/liquid-post.php:224
+msgid "10 columns - 5/6"
+msgstr "10 Spalten - 5/6"
+
+#: theme/metaboxes/liquid-portfolio-general.php:79 
+#: theme/metaboxes/liquid-post.php:225
+msgid "11 columns - 11/12"
+msgstr "11 Spalten - 11/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:80 
+#: theme/metaboxes/liquid-post.php:226
+msgid "12 columns - 12/12"
+msgstr "12 Spalten - 12/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:86
+msgid "Thumb Dimension"
+msgstr "Thumb-Abmessung"
+
+#: theme/metaboxes/liquid-portfolio-general.php:87
+msgid "Choose a dimension for your portfolio thumb"
+msgstr "Wählen Sie eine Dimension für Ihren Portfoliodaumen aus"
+
+#: theme/metaboxes/liquid-portfolio-general.php:90
+msgid "Default - (370 x 300)"
+msgstr "Standard - (370 x 300)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:91
+msgid "Square - (295 x 295)"
+msgstr "Viereckig - (295 x 295 x 295)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:92
+msgid "Big Square - (600 x 600)"
+msgstr "Großes Quadrat - (600 x 600)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:93
+msgid "Portrait - (350 x 500)"
+msgstr "Portrait - (350 x 500)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:94
+msgid "Wide - (600 x 295)"
+msgstr "Breit - (600 x 295)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:96
+msgid "Packery Wide - (570 x 370)"
+msgstr "Packery Breit - (570 x 370)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:97
+msgid "Packery Portrait - (270 x 370)"
+msgstr "Packery Portrait - (270 x 370)"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:16
+msgid "Portfolio Meta"
+msgstr "Portfolio Meta"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:23 
+#: theme/metaboxes/liquid-post.php:125
+msgid "Social Sharing Box"
+msgstr "Social Sharing Box"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:24
+msgid "Turn on to display the social sharing box on single portfolio posts."
+msgstr ""
+"Aktivieren Sie diese Option, um die Social Sharing Box für einzelne "
+"Portfolioeinträge anzuzeigen."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:35 
+#: theme/metaboxes/liquid-post.php:161
+msgid "Related Projects"
+msgstr "Verwandte Projekte"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:36
+msgid "Turn on to display related projects on single portfolio posts."
+msgstr ""
+"Aktivieren Sie diese Option, um verwandte Projekte auf einzelnen "
+"Portfolioeinträgen anzuzeigen."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:47 
+#: theme/theme-options/liquid-portfolio.php:171
+msgid "Related Works"
+msgstr "Verwandte Arbeiten"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:48 
+#: theme/theme-options/liquid-portfolio.php:172
+msgid "Switch on to display related works on single portfolio pages."
+msgstr ""
+"Schalten Sie ein, um verwandte Werke auf einzelnen Portfolio-Seiten "
+"anzuzeigen."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:63 
+#: theme/theme-options/liquid-portfolio.php:183
+msgid "Related Works Title"
+msgstr "Titel verwandter Arbeiten"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:74 
+#: theme/theme-options/liquid-portfolio.php:211
+msgid "Number of Related Works"
+msgstr "Anzahl der zugehörigen Werke"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:75 
+#: theme/theme-options/liquid-portfolio.php:212
+msgid "Manages the number of works that display on related works section."
+msgstr ""
+"Verwaltet die Anzahl der Arbeiten, die im entsprechenden Arbeitsbereich "
+"angezeigt werden."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:88
+msgid "Swtich on to show the date on your portfolio item."
+msgstr ""
+"Schalten Sie das Gerät ein, um das Datum in Ihrem Portfolioeintrag "
+"anzuzeigen."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:99
+msgid "Label of Date"
+msgstr "Bezeichnung des Datums"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:100
+msgid "Translate or change the \"date\" text. Leave empty for no change."
+msgstr ""
+"Übersetzen oder ändern Sie den Text \"Datum\". Lassen Sie das Feld leer, "
+"ohne es zu ändern."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:111
+msgid "Date of Work"
+msgstr "Arbeitsdatum"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:112
+msgid "Overwrites the portfolio post publish date."
+msgstr "Überschreibt das Datum der Portfolio-Beitragsveröffentlichung."
+
+#: theme/metaboxes/liquid-portfolio-meta.php:123
+msgid "External URL"
+msgstr "Externe URL"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:128
+msgid "Label of Button"
+msgstr "Beschriftung der Schaltfläche"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:129
+msgid "Launch"
+msgstr "Start"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:134
+msgid "Attributes"
+msgstr "Eigenschaften"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:135
+msgid ""
+"Add custom portfolio attributes. Divide by | label with value ( Label | "
+"Value )"
+msgstr ""
+"Fügen Sie benutzerdefinierte Portfolio-Attribute hinzu. Teilen durch | label "
+"with value ( Label | Value )"
+
+#: theme/metaboxes/liquid-post-format.php:9
+msgid "Audio"
+msgstr "Audio"
+
+#: theme/metaboxes/liquid-post-format.php:18
+msgid "Audio URL"
+msgstr "Audio URL"
+
+#: theme/metaboxes/liquid-post-format.php:19
+msgid "Audio file URL in format: mp3, ogg, wav."
+msgstr "URL der Audiodatei im Format: mp3, ogg, wav."
+
+#: theme/metaboxes/liquid-post-format.php:27
+msgid "Gallery"
+msgstr "Galerie"
+
+#: theme/metaboxes/liquid-post-format.php:36
+msgid "Lightbox?"
+msgstr "Lightbox?"
+
+#: theme/metaboxes/liquid-post-format.php:37
+msgid "Enable lightbox for gallery images"
+msgstr "Leuchtkasten für Galeriebilder aktivieren"
+
+#: theme/metaboxes/liquid-post-format.php:48
+msgid "Gallery Slider"
+msgstr "Galerie-Slider"
+
+#: theme/metaboxes/liquid-post-format.php:49
+msgid "Upload images or add from media library."
+msgstr "Hochladen oder hinzufügen von Bildern aus der Medienbibliothek."
+
+#: theme/metaboxes/liquid-post-format.php:51 
+#: theme/theme-options/liquid-extras.php:125 
+#: theme/theme-options/liquid-page-404.php:24 
+#: theme/theme-options/liquid-page-maintenance.php:171
+msgid "Title"
+msgstr "Titel"
+
+#: theme/metaboxes/liquid-post-format.php:65
+msgid "Link"
+msgstr "Link"
+
+#: theme/metaboxes/liquid-post-format.php:74 
+#: theme/theme-options/liquid-header-modules.php:54 
+#: theme/theme-options/liquid-header-modules.php:102
+msgid "URL"
+msgstr "URL"
+
+#: theme/metaboxes/liquid-post-format.php:82
+msgid "Quote"
+msgstr "Zitat"
+
+#: theme/metaboxes/liquid-post-format.php:90
+msgid "Cite"
+msgstr "Zitieren"
+
+#: theme/metaboxes/liquid-post-format.php:98
+msgid "Video"
+msgstr "Video"
+
+#: theme/metaboxes/liquid-post-format.php:107
+msgid "Video URL"
+msgstr "Video URL"
+
+#: theme/metaboxes/liquid-post-format.php:108
+msgid "YouTube or Vimeo video URL"
+msgstr "YouTube oder Vimeo Video-URL"
+
+#: theme/metaboxes/liquid-post-format.php:114
+msgid "Video Upload"
+msgstr "Video-Upload"
+
+#: theme/metaboxes/liquid-post-format.php:115
+msgid "Upload video file"
+msgstr "Videodatei hochladen"
+
+#: theme/metaboxes/liquid-post-format.php:121
+msgid "Embadded video"
+msgstr "Eingebettetes Video"
+
+#: theme/metaboxes/liquid-post-format.php:122
+msgid "Use this option when the video does not come from YouTube or Vimeo"
+msgstr ""
+"Verwenden Sie diese Option, wenn das Video nicht von YouTube oder Vimeo "
+"kommt."
+
+#: theme/metaboxes/liquid-post.php:16
+msgid "Post Options"
+msgstr "Beitragsoptionen"
+
+#: theme/metaboxes/liquid-post.php:26 theme/metaboxes/liquid-post.php:177 
+#: theme/theme-options/liquid-blog.php:516
+msgid "Cover"
+msgstr "Cover"
+
+#: theme/metaboxes/liquid-post.php:27 theme/theme-options/liquid-blog.php:517
+msgid "Cover Spaced"
+msgstr "Cover Abstandshalter"
+
+#: theme/metaboxes/liquid-post.php:28 theme/theme-options/liquid-blog.php:518
+msgid "Cover Slider"
+msgstr "Cover Slider"
+
+#: theme/metaboxes/liquid-post.php:35
+msgid "Extra Text"
+msgstr "Extra Text"
+
+#: theme/metaboxes/liquid-post.php:36
+msgid "Text will display near meta section"
+msgstr "Der Text wird in der Nähe des Meta-Abschnitts angezeigt."
+
+#: theme/metaboxes/liquid-post.php:46
+msgid "Add images for Cover slider"
+msgstr "Bilder hinzufügen für den Cover-Slider"
+
+#: theme/metaboxes/liquid-post.php:61
+msgid "Cover Image"
+msgstr "Cover Image"
+
+#: theme/metaboxes/liquid-post.php:62
+msgid "Will override the featured image in single post"
+msgstr "Überschreibt das angezeigte Bild in einem einzelnen Beitrag."
+
+#: theme/metaboxes/liquid-post.php:72
+msgid "Enable Parallax"
+msgstr "Parallax aktivieren"
+
+#: theme/metaboxes/liquid-post.php:73
+msgid "Turn on parallax effect on post cover image"
+msgstr "Parallaxeffekt auf dem Titelbild des Eintrags einschalten"
+
+#: theme/metaboxes/liquid-post.php:89
+msgid "Show Play Button"
+msgstr "Wiedergabetaste anzeigen"
+
+#: theme/metaboxes/liquid-post.php:90
+msgid "Turn on to show Play Button on the post cover image"
+msgstr ""
+"Einschalten, um die Play-Taste auf dem Titelbild des Eintrags anzuzeigen."
+
+#: theme/metaboxes/liquid-post.php:105
+msgid "Play Button Url"
+msgstr "Wiedergabetaste URL"
+
+#: theme/metaboxes/liquid-post.php:115
+msgid "Play Button Label"
+msgstr "Wiedergabetastenbeschriftung"
+
+#: theme/metaboxes/liquid-post.php:126
+msgid "Turn on to display the social sharing box on single posts."
+msgstr ""
+"Aktivieren Sie diese Option, um die Social Sharing Box für einzelne "
+"Einiträge anzuzeigen."
+
+#: theme/metaboxes/liquid-post.php:137
+msgid "Author Info Box"
+msgstr "Autoren-Info-Box"
+
+#: theme/metaboxes/liquid-post.php:138
+msgid "Turn on to display the author info box below posts."
+msgstr ""
+"Aktivieren Sie diese Option, um das Autoren-Info-Feld unterhalb der Einträge "
+"anzuzeigen."
+
+#: theme/metaboxes/liquid-post.php:149
+msgid "Previous/Next Pagination"
+msgstr "Vorherige/Nächste Seitennummerierung"
+
+#: theme/metaboxes/liquid-post.php:150
+msgid "Turn on to display the previous/next post pagination for single posts."
+msgstr ""
+"Aktivieren Sie diese Option, um die vorherige/nächste Beitrags-"
+"Seitenaufteilung für einzelne Einträge anzuzeigen."
+
+#: theme/metaboxes/liquid-post.php:162
+msgid "Turn on to display related posts/projects on single posts."
+msgstr ""
+"Aktivieren Sie diese Option, um verwandte Beiträge/Projekte für einzelne "
+"Einträge anzuzeigen."
+
+#: theme/metaboxes/liquid-post.php:173
+msgid "Related posts section style"
+msgstr "Abschnittsstil verwandter Beiträge "
+
+#: theme/metaboxes/liquid-post.php:174
+msgid ""
+"Select desired style for the related posts section to display on single post"
+msgstr ""
+"Wählen Sie den gewünschten Stil für den Bereich der zugehörigen Beiträge aus,"
+" der bei einem einzelnen Beitrag angezeigt werden soll."
+
+#: theme/metaboxes/liquid-post.php:188
+msgid "Related posts section title"
+msgstr "Abschnittstitel verwandter Beiträge"
+
+#: theme/metaboxes/liquid-post.php:198
+msgid "Number of Related Projects"
+msgstr "Anzahl der zugehörigen Projekte"
+
+#: theme/metaboxes/liquid-post.php:199
+msgid "Controls the number of posts that display under related posts section."
+msgstr ""
+"Steuert die Anzahl der Beiträge, die im Abschnitt Verwandte Beiträge "
+"angezeigt werden."
+
+#: theme/metaboxes/liquid-post.php:213
+msgid ""
+"Select desired width for the blog item on portfolio listing page, only for "
+"carousel and carousel filterable styles"
+msgstr ""
+"Wählen Sie die gewünschte Breite für den Blogartikel auf der "
+"Portfoliolistenseite, nur für Karussell und filterbare Karusselltypen."
+
+#: theme/metaboxes/liquid-post.php:232
+msgid "Label Before Title."
+msgstr "Beschriftung vor dem Titel."
+
+#: theme/metaboxes/liquid-post.php:233
+msgid "Will apply only for Featured Fullwidth style in Blog Listing Shortcode"
+msgstr "Gilt nur für den Vollbreiten-Stil im Blog Listing Shortcode"
+
+#: theme/metaboxes/liquid-post.php:238
+msgid "Make this post featured or instagram?"
+msgstr "Diesen Beitrag mit Features oder Instagram erstellen?"
+
+#: theme/metaboxes/liquid-post.php:239
+msgid "Will apply only for Metro style in Blog Listing Shortcode"
+msgstr "Gilt nur für den Metro-Stil im Blog Listing Shortcode."
+
+#: theme/metaboxes/liquid-post.php:242 theme/theme-options/liquid-blog.php:48 
+#: theme/theme-options/liquid-blog.php:174 
+#: theme/theme-options/liquid-blog.php:297 
+#: theme/theme-options/liquid-blog.php:420
+msgid "Featured"
+msgstr "Ausgewählt"
+
+#: theme/metaboxes/liquid-post.php:243
+msgid "Instagram"
+msgstr "Instagram"
+
+#: theme/metaboxes/liquid-post.php:249 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:340
+msgid "Overlay Color"
+msgstr "Überlagerungsfarbe"
+
+#: theme/metaboxes/liquid-post.php:250
+msgid ""
+"Will apply only to instagram posts of the Metro style of the Blog listing"
+msgstr "Gilt nur für Instagramm-Beiträge im Metro-Stil des Blog-Listings."
+
+#: theme/metaboxes/liquid-sidebars.php:15
+msgid "Select Sidebar"
+msgstr "Seitenleiste auswählen"
+
+#: theme/metaboxes/liquid-sidebars.php:16
+msgid ""
+"Select sidebar that will display on this page. Choose \"No Sidebar\" for "
+"full width."
+msgstr ""
+"Wählen Sie die Seitenleiste aus, die auf dieser Seite angezeigt wird. Wählen "
+"Sie \"Keine Seitenleiste\" für die volle Breite."
+
+#: theme/metaboxes/liquid-sidebars.php:17
+msgid "No Sidebar"
+msgstr "Keine Seitenleiste"
+
+#: theme/metaboxes/liquid-sidebars.php:23
+msgid "Sidebar Position"
+msgstr "Position der Seitenleiste"
+
+#: theme/metaboxes/liquid-sidebars.php:24
+msgid ""
+"Select the sidebar position. If sidebar 2 is selected, it will display on "
+"the opposite side. "
+msgstr ""
+"Wählen Sie die Position der Seitenleiste aus. Wenn die Seitenleiste 2 "
+"ausgewählt ist, wird sie auf der gegenüberliegenden Seite angezeigt. "
+
+#: theme/metaboxes/liquid-sliders.php:8
+msgid "Sliders"
+msgstr "Slider"
+
+#: theme/metaboxes/liquid-sliders.php:15
+msgid "Slider Type"
+msgstr "Slider-Typ"
+
+#: theme/metaboxes/liquid-sliders.php:16
+msgid "Select the type of slider that displays."
+msgstr "Wählen Sie den Typ des Schiebereglers, der angezeigt wird."
+
+#: theme/metaboxes/liquid-sliders.php:18
+msgid "No Slider"
+msgstr "Kein Slider"
+
+#: theme/metaboxes/liquid-sliders.php:19
+msgid "liquid Slider"
+msgstr "Liquid-Slider"
+
+#: theme/metaboxes/liquid-sliders.php:20
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: theme/metaboxes/liquid-sliders.php:28
+msgid "Select liquid Slider"
+msgstr "Liquid Slider auswählen"
+
+#: theme/metaboxes/liquid-sliders.php:29 theme/metaboxes/liquid-sliders.php:45
+msgid "Select the unique name of the slider."
+msgstr "Wählen Sie den eindeutigen Namen des Sliders aus."
+
+#: theme/metaboxes/liquid-sliders.php:31 theme/metaboxes/liquid-sliders.php:47
+msgid "Select a slider"
+msgstr "Wählen Sie einen Slider aus"
+
+#: theme/metaboxes/liquid-sliders.php:44
+msgid "Select Revolution Slider"
+msgstr "Revolution Slider auswählen"
+
+#: theme/metaboxes/liquid-sliders.php:60
+msgid "Slider Position"
+msgstr "Slider-Position"
+
+#: theme/metaboxes/liquid-sliders.php:61
+msgid "Select if the slider shows below or above the header."
+msgstr ""
+"Wählen Sie, ob der Schieberegler unter oder über der Kopfzeile angezeigt "
+"wird."
+
+#: theme/metaboxes/liquid-sliders.php:64
+msgid "Below"
+msgstr "Nachfolgend"
+
+#: theme/metaboxes/liquid-sliders.php:65
+msgid "Above"
+msgstr "Oben"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:16 
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:23 
+#: theme/metaboxes/liquid-title-wrapper.php:16 
+#: theme/metaboxes/liquid-title-wrapper.php:22
+msgid "Title Wrapper"
+msgstr "Titelverpackung"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:35
+msgid "Custom Title"
+msgstr "Benutzerdefinierter Titel"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:36
+msgid "If empty, will display default page/post title"
+msgstr "Wenn leer, wird der Standardseiten-/Beitrags-Titel angezeigt."
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:42
+msgid "No heading"
+msgstr "Keine Überschrift"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:43
+msgid "Hide the default/custom page/post title in titlebar"
+msgstr ""
+"Verbergen Sie den Standard-/Benutzerseiten-/Beitragstitel in der Titelleiste."
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:53 
+#: theme/metaboxes/liquid-title-wrapper.php:59
+msgid "Title Bar Heading Typography"
+msgstr "Titelleiste Überschrift Typografie"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:54 
+#: theme/metaboxes/liquid-title-wrapper.php:60
+msgid "These settings control the typography for the titlebar heading"
+msgstr ""
+"Diese Einstellungen steuern die Typographie für die Überschrift der "
+"Titelleiste."
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:66
+msgid "Heading font Weight"
+msgstr "Überschriften-Schriftart Gewicht"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:70
+msgid "Normal"
+msgstr "Normal"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:71
+msgid "Medium"
+msgstr "Mittel"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:72
+msgid "Semibold"
+msgstr "Semibold"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:73
+msgid "Bold"
+msgstr "Fett gedruckt"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:80 
+#: theme/metaboxes/liquid-title-wrapper.php:76
+msgid "Sub-Heading"
+msgstr "Teilüberschrift"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:85 
+#: theme/metaboxes/liquid-title-wrapper.php:101
+msgid "Title Bar Subheading Typography"
+msgstr "Untertitel der Titelzeile"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:86 
+#: theme/metaboxes/liquid-title-wrapper.php:102
+msgid "These settings control the typography for the titlebar subheading"
+msgstr ""
+"Diese Einstellungen steuern die Typografie für die Teilüberschrift der "
+"Titelleiste."
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:105
+msgid "Content style"
+msgstr "Inhaltsstil"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:117
+msgid "Title Bar content Vertical align"
+msgstr "Inhalt der Titelleiste vertikale Ausrichtung"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:120 
+#: theme/theme-options/liquid-portfolio.php:84
+msgid "Top"
+msgstr "Oben"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:121 
+#: theme/theme-options/liquid-portfolio.php:86
+msgid "Bottom"
+msgstr "Unten"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:132
+msgid "Enable Portfolio Navigation"
+msgstr "Portfolio-Navigation aktivieren"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:144 
+#: theme/metaboxes/liquid-title-wrapper.php:238
+msgid "Enable Breadcrumbs"
+msgstr "Breadcrumbs aktivieren"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:156
+msgid "Breadcrumb style"
+msgstr "Übersichtspfad-Stil"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:172
+msgid "Title size"
+msgstr "Titelgröße"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:189
+msgid "Title bar height"
+msgstr "Höhe der Titelleiste"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:211 
+#: theme/metaboxes/liquid-title-wrapper.php:144 
+#: theme/theme-options/liquid-header-title-wrapper.php:98
+msgid "Color scheme"
+msgstr "Farbschema"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:222 
+#: theme/metaboxes/liquid-title-wrapper.php:158 
+#: theme/theme-options/liquid-header-title-wrapper.php:107
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:234 
+#: theme/theme-options/liquid-page-maintenance.php:116
+msgid "Background Type"
+msgstr "Hintergrund-Typ"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:257
+msgid "Background Attachment"
+msgstr "Hintergrund-Anhang"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:260
+msgid "Fixed"
+msgstr "Behoben"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:261
+msgid "Inherit"
+msgstr "Vererben"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:273 
+#: theme/metaboxes/liquid-title-wrapper.php:196
+msgid "Enable Parallax?"
+msgstr "Parallax aktivieren?"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:313 
+#: theme/metaboxes/liquid-title-wrapper.php:212
+msgid "Enable Overlay"
+msgstr "Überlagerung aktivieren"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:325
+msgid "Overlay Type"
+msgstr "Überlagerungstyp"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:351
+msgid "Overlay Gradient"
+msgstr "Überlagerungsfarbverlauf"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:362 
+#: theme/metaboxes/liquid-title-wrapper.php:292 
+#: theme/theme-options/liquid-header-title-wrapper.php:203
+msgid "Extra classes"
+msgstr "Extraklassen"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:368 
+#: theme/metaboxes/liquid-title-wrapper.php:253
+msgid "Enable Scroll Button"
+msgstr "Scroll-Taste aktivieren"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:380 
+#: theme/metaboxes/liquid-title-wrapper.php:270 
+#: theme/theme-options/liquid-header-title-wrapper.php:181
+msgid "Scroll Button Color"
+msgstr "Farbe der Bildlauftaste"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:381 
+#: theme/metaboxes/liquid-title-wrapper.php:271
+msgid "Pick a color for scroll button"
+msgstr "Wählen Sie eine Farbe für die Bildlauftaste aus"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:392 
+#: theme/metaboxes/liquid-title-wrapper.php:281 
+#: theme/theme-options/liquid-header-title-wrapper.php:192
+msgid "Anchor ID"
+msgstr "Anker-ID"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:393 
+#: theme/metaboxes/liquid-title-wrapper.php:282
+msgid "Input anchor ID of the section for scroll button"
+msgstr "Eingabe der Anker-ID des Abschnitts für die Scroll-Taste"
+
+#: theme/metaboxes/liquid-title-wrapper.php:33
+msgid "Custom Heading"
+msgstr "Benutzerdefinierte Überschrift"
+
+#: theme/metaboxes/liquid-title-wrapper.php:34
+msgid "Custom heading will override the default page/post title"
+msgstr ""
+"Die benutzerdefinierte Überschrift überschreibt die Standardseite bzw. den "
+"Beitragstitel"
+
+#: theme/metaboxes/liquid-title-wrapper.php:44 
+#: theme/metaboxes/liquid-title-wrapper.php:86
+msgid "Enable Title bar Typography"
+msgstr "Titelleiste Typografie aktivieren"
+
+#: theme/metaboxes/liquid-title-wrapper.php:118 
+#: theme/theme-options/liquid-header-title-wrapper.php:82
+msgid "Padding Top"
+msgstr "Padding oben"
+
+#: theme/metaboxes/liquid-title-wrapper.php:119
+msgid "Controls the top padding of the titlebar"
+msgstr "Steuert das obere Padding der Titelleiste"
+
+#: theme/metaboxes/liquid-title-wrapper.php:131 
+#: theme/theme-options/liquid-header-title-wrapper.php:90
+msgid "Padding Bottom"
+msgstr "Padding unten"
+
+#: theme/metaboxes/liquid-title-wrapper.php:132
+msgid "Controls the bottom padding of the titlebar"
+msgstr "Steuert das untere Padding der Titelleiste"
+
+#: theme/metaboxes/liquid-title-wrapper.php:161 
+#: theme/theme-options/liquid-header-title-wrapper.php:110 
+#: theme/theme-options/liquid-portfolio.php:66
+msgid "Center"
+msgstr "Mitte"
+
+#: theme/metaboxes/liquid-title-wrapper.php:173 
+#: theme/theme-options/liquid-header-title-wrapper.php:117
+msgid "Background Image"
+msgstr "Hintergrund-Bild"
+
+#: theme/metaboxes/liquid-title-wrapper.php:185 
+#: theme/theme-options/liquid-header-title-wrapper.php:124
+msgid "Background Gradient"
+msgstr "Hintergrund-Farbverlauf"
+
+#: theme/metaboxes/liquid-title-wrapper.php:202 
+#: theme/theme-options/liquid-header-title-wrapper.php:135
+msgid "The background should have an image"
+msgstr "Der Hintergrund sollte ein Bild haben."
+
+#: theme/metaboxes/liquid-title-wrapper.php:228 
+#: theme/theme-options/liquid-header-title-wrapper.php:151
+msgid "Overlay Background"
+msgstr "Überlagerungshintergrund"
+
+#: theme/theme-options/liquid-advanced.php:7
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+#: theme/theme-options/liquid-advanced.php:13
+msgid "Code Fields"
+msgstr "Quelltext-Felder"
+
+#: theme/theme-options/liquid-advanced.php:19
+msgid "Tracking Code"
+msgstr "Tracking-Code"
+
+#: theme/theme-options/liquid-advanced.php:20
+msgid ""
+"Paste your tracking code here. This will be added into the header template "
+"of your theme. Place code inside &lt;script&gt; tags."
+msgstr ""
+"Fügen Sie hier Ihren Tracking-Code ein. Dieser wird in die Vorlage der "
+"Kopfzeile Ihres Themes eingefügt. Platzieren Sie den Code in &lt;script&gt; "
+"tags."
+
+#: theme/theme-options/liquid-advanced.php:29
+msgid "Space before &lt;/head&gt;"
+msgstr "Bereich vor &lt;/head&gt;"
+
+#: theme/theme-options/liquid-advanced.php:30
+msgid ""
+"Only accepts javascript code wrapped with &lt;script&gt; tags and HTML "
+"markup that is valid inside the &lt;/head&gt; tag."
+msgstr ""
+"Akzeptiert nur Javascript-Code, der mit &lt;script&gt; Tags und HTML-Markup "
+"umhüllt ist, das innerhalb des &lt;/head&gt; Tags gültig ist."
+
+#: theme/theme-options/liquid-advanced.php:39
+msgid "Space before &lt;/body&gt;"
+msgstr "Bereich vor &lt;/body&gt;"
+
+#: theme/theme-options/liquid-advanced.php:40
+msgid ""
+"Only accepts javascript code, wrapped with &lt;script&gt; tags and valid "
+"HTML markup inside the &lt;/body&gt; tag."
+msgstr ""
+"Akzeptiert nur Javascript-Code, umhüllt mit &lt;script&gt; Tags und gültigem "
+"HTML-Markup innerhalb des &lt;/body&gt; Tags."
+
+#: theme/theme-options/liquid-advanced.php:50
+msgid "Dynamic CSS"
+msgstr "Dynamisches CSS"
+
+#: theme/theme-options/liquid-advanced.php:57
+msgid "CSS Compiler"
+msgstr "CSS Compiler"
+
+#: theme/theme-options/liquid-advanced.php:58
+msgid ""
+"By default all the CSS files are combined. Disabling the CSS compiler will "
+"load non-combined CSS files. This will have an impact on the performance of "
+"your site."
+msgstr ""
+"Standardmäßig werden alle CSS-Dateien zusammengefasst. Das Deaktivieren des "
+"CSS-Compilers lädt nicht kombinierte CSS-Dateien. Dies hat Auswirkungen auf "
+"die Leistung Ihrer Website."
+
+#: theme/theme-options/liquid-advanced.php:65
+msgid "Database Cache for Dynamic CSS"
+msgstr "Datenbank-Cache für dynamisches CSS"
+
+#: theme/theme-options/liquid-advanced.php:66
+msgid "Turn on to enable caching the dynamic CSS in your database."
+msgstr ""
+"Aktivieren Sie diese Option, um das Caching des dynamischen CSS in Ihrer "
+"Datenbank zu aktivieren."
+
+#: theme/theme-options/liquid-advanced.php:73
+msgid "Cache Server IP"
+msgstr "Cache Server IP"
+
+#: theme/theme-options/liquid-advanced.php:74
+msgid ""
+"For unique cases where you are using cloud flare and a cache server, ex: "
+"varnish cache. Enter your cache server IP to clear the theme options dynamic "
+"CSS cache. Consult with your server admin for help."
+msgstr ""
+"Für individuelle Fälle, in denen Sie Cloud Flare und einen Cache-Server "
+"verwenden, z.B.: Varnish-Cache. Geben Sie Ihre Cacheserver-IP ein, um die "
+"dynamischen CSS-Caches der Themenoptionen zu löschen. Um Hilfe zu erhalten, "
+"wenden Sie sich an Ihren Serveradministrator."
+
+#: theme/theme-options/liquid-apikeys.php:7
+msgid "API Keys"
+msgstr "API-Schlüssel"
+
+#: theme/theme-options/liquid-apikeys.php:13
+msgid "Google Maps API Key"
+msgstr "Google Maps API Key"
+
+#: theme/theme-options/liquid-apikeys.php:15
+msgid ""
+"Follow the steps in <a target=\"_blank\" href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key#key\">the Google docs</a> to "
+"get the API key. This key applies to the google map element."
+msgstr ""
+"Folgen Sie den Schritten in <a target=\"_blank\" href=\"https://developers."
+"google.com/maps/documentation/javascript/get-api-key#key\">den Google-"
+"Dokumenten</a>, um den API-Schlüssel zu erhalten. Dieser Schlüssel gilt für "
+"das Google Map-Element."
+
+#: theme/theme-options/liquid-apikeys.php:20
+msgid "Mailchimp API Key"
+msgstr "Mailchimp API Key"
+
+#: theme/theme-options/liquid-apikeys.php:22
+msgid ""
+"Follow the steps <a href=\"https://mailchimp.com/help/about-api-keys/\">"
+"MailChimp</a> to get the API key. This key applies to the newsletter element."
+msgstr ""
+"Folgen Sie den Schritten <a href=\"https://mailchimp.com/help/about-api-"
+"keys/\">MailChimp</a>, um den API-Schlüssel zu erhalten. Dieser Schlüssel "
+"gilt für das Newsletter-Element."
+
+#: theme/theme-options/liquid-apikeys.php:27
+msgid "Instagram Access Token"
+msgstr "Instagram Access Token"
+
+#: theme/theme-options/liquid-apikeys.php:29
+msgid ""
+"Follow the link <a target=\"_blank\" href=\"https://instagram."
+"com/oauth/authorize/?"
+"client_id=2340bf75213b4c729e6d234077c1d09f&scope=basic&response_type=code&redirect_uri=http"
+"://api.liquid-themes.com/instagram/instagram-auth.php\">to generate the "
+"access token and user ID.</a>"
+msgstr ""
+"Folgen Sie dem Link <a target=\"_blank\" href=\"https://instagram."
+"com/oauth/authorize/?"
+"client_id=2340bf75213b4c729e6d234077c1d09f&scope=basic&response_type=code&redirect_uri=http"
+"://api.liquid-themes.com/instagram/instagram-auth.php\">zur Generierung des "
+"Zugriffstokens und der Benutzer-ID.</a>"
+
+#: theme/theme-options/liquid-blog.php:12
+msgid "General Blog"
+msgstr "Allgemeiner Blog"
+
+#: theme/theme-options/liquid-blog.php:19
+msgid "Blog Page Title Bar"
+msgstr "Titelzeile der Blogseite"
+
+#: theme/theme-options/liquid-blog.php:20
+msgid ""
+"Display the page title bar for the assigned blog page in settings > reading "
+"or the blog archive pages. Note: This option will not control the blog "
+"element."
+msgstr ""
+"Zeigen Sie die Seiten-Titelleiste für die zugewiesene Blogseite unter "
+"Einstellungen > Lesen oder den Blog-Archivseiten an. Hinweis: Diese Option "
+"steuert das Blog-Element nicht."
+
+#: theme/theme-options/liquid-blog.php:31
+msgid "Blog Page Title"
+msgstr "Titel der Blogseite"
+
+#: theme/theme-options/liquid-blog.php:32
+msgid ""
+"Manages the title text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+"Verwaltet den Titeltext, der in der Titelleiste der Seite angezeigt wird, "
+"nur, wenn Ihre Titelseite den letzten Beitrag in \"Einstellungen > "
+"Einlesen\" anzeigt."
+
+#: theme/theme-options/liquid-blog.php:38
+msgid "Blog Page Subtitle"
+msgstr "Blogseite Untertitel"
+
+#: theme/theme-options/liquid-blog.php:39
+msgid ""
+"Manage the subtitle text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+"Verwalten Sie den Text des Untertitels, der in der Titelleiste der Seite "
+"angezeigt wird, nur, wenn die Titelseite Ihren letzten Beitrag unter "
+"\"Einstellungen > Lesen\" anzeigt."
+
+#: theme/theme-options/liquid-blog.php:44 
+#: theme/theme-options/liquid-blog.php:416
+msgid "Post Style"
+msgstr "Beitragsstil"
+
+#: theme/theme-options/liquid-blog.php:47 
+#: theme/theme-options/liquid-blog.php:173 
+#: theme/theme-options/liquid-blog.php:296 
+#: theme/theme-options/liquid-blog.php:419
+msgid "Classic Bold"
+msgstr "Klassisch fett gedruckt"
+
+#: theme/theme-options/liquid-blog.php:49 
+#: theme/theme-options/liquid-blog.php:175 
+#: theme/theme-options/liquid-blog.php:298 
+#: theme/theme-options/liquid-blog.php:421
+msgid "Featured Minimal"
+msgstr "Ausgewählt Minimal"
+
+#: theme/theme-options/liquid-blog.php:50 
+#: theme/theme-options/liquid-blog.php:176 
+#: theme/theme-options/liquid-blog.php:299 
+#: theme/theme-options/liquid-blog.php:422
+msgid "Rounded"
+msgstr "Abgerundet"
+
+#: theme/theme-options/liquid-blog.php:51 
+#: theme/theme-options/liquid-blog.php:177 
+#: theme/theme-options/liquid-blog.php:300 
+#: theme/theme-options/liquid-blog.php:423
+msgid "Classic Meta"
+msgstr "Klassisch Meta"
+
+#: theme/theme-options/liquid-blog.php:52 
+#: theme/theme-options/liquid-blog.php:178 
+#: theme/theme-options/liquid-blog.php:301 
+#: theme/theme-options/liquid-blog.php:424
+msgid "Classic 2"
+msgstr "Klassisch 2"
+
+#: theme/theme-options/liquid-blog.php:53 
+#: theme/theme-options/liquid-blog.php:179 
+#: theme/theme-options/liquid-blog.php:302 
+#: theme/theme-options/liquid-blog.php:425
+msgid "Text date"
+msgstr "Textdatum"
+
+#: theme/theme-options/liquid-blog.php:54 
+#: theme/theme-options/liquid-blog.php:180 
+#: theme/theme-options/liquid-blog.php:303 
+#: theme/theme-options/liquid-blog.php:426 
+#: theme/theme-options/liquid-portfolio.php:41
+msgid "Metro"
+msgstr "Metro"
+
+#: theme/theme-options/liquid-blog.php:55 
+#: theme/theme-options/liquid-blog.php:181 
+#: theme/theme-options/liquid-blog.php:304 
+#: theme/theme-options/liquid-blog.php:427
+msgid "Minimal Grey"
+msgstr "Minimal Grau"
+
+#: theme/theme-options/liquid-blog.php:56 
+#: theme/theme-options/liquid-blog.php:182 
+#: theme/theme-options/liquid-blog.php:305 
+#: theme/theme-options/liquid-blog.php:428
+msgid "Metro Alt"
+msgstr "Metro Alt"
+
+#: theme/theme-options/liquid-blog.php:57 
+#: theme/theme-options/liquid-blog.php:183 
+#: theme/theme-options/liquid-blog.php:306 
+#: theme/theme-options/liquid-blog.php:429 
+#: theme/theme-options/liquid-portfolio.php:44
+msgid "Grid"
+msgstr "Raster"
+
+#: theme/theme-options/liquid-blog.php:58 
+#: theme/theme-options/liquid-blog.php:184 
+#: theme/theme-options/liquid-blog.php:307 
+#: theme/theme-options/liquid-blog.php:430
+msgid "Masonry"
+msgstr "Masonry"
+
+#: theme/theme-options/liquid-blog.php:59 
+#: theme/theme-options/liquid-blog.php:185 
+#: theme/theme-options/liquid-blog.php:308 
+#: theme/theme-options/liquid-blog.php:431
+msgid "Split"
+msgstr "Aufteilen"
+
+#: theme/theme-options/liquid-blog.php:60 
+#: theme/theme-options/liquid-blog.php:186 
+#: theme/theme-options/liquid-blog.php:309 
+#: theme/theme-options/liquid-blog.php:432
+msgid "Square"
+msgstr "Viereckig"
+
+#: theme/theme-options/liquid-blog.php:61 
+#: theme/theme-options/liquid-blog.php:187 
+#: theme/theme-options/liquid-blog.php:310 
+#: theme/theme-options/liquid-blog.php:433
+msgid "Featured Fullwidth"
+msgstr "Ausgewählt volle Breite"
+
+#: theme/theme-options/liquid-blog.php:62 
+#: theme/theme-options/liquid-blog.php:188 
+#: theme/theme-options/liquid-blog.php:311 
+#: theme/theme-options/liquid-blog.php:434
+msgid "Timeline"
+msgstr "Zeitachse"
+
+#: theme/theme-options/liquid-blog.php:63 
+#: theme/theme-options/liquid-blog.php:189 
+#: theme/theme-options/liquid-blog.php:312 
+#: theme/theme-options/liquid-blog.php:435
+msgid "Classic Full"
+msgstr "Klassisch Vollständig"
+
+#: theme/theme-options/liquid-blog.php:65
+msgid "Choose a post style for your blog page."
+msgstr "Wählen Sie einen Beitragsstil für Ihre Blogseite."
+
+#: theme/theme-options/liquid-blog.php:71 
+#: theme/theme-options/liquid-blog.php:197 
+#: theme/theme-options/liquid-blog.php:320 
+#: theme/theme-options/liquid-blog.php:443
+msgid "Meta"
+msgstr "Meta"
+
+#: theme/theme-options/liquid-blog.php:76 
+#: theme/theme-options/liquid-blog.php:202 
+#: theme/theme-options/liquid-blog.php:448
+msgid "Manage the meta for posts"
+msgstr "Verwalten der Meta für Beiträge"
+
+#: theme/theme-options/liquid-blog.php:82 
+#: theme/theme-options/liquid-blog.php:208 
+#: theme/theme-options/liquid-blog.php:331 
+#: theme/theme-options/liquid-blog.php:454
+msgid "Meta Type"
+msgstr "Meta-Typ"
+
+#: theme/theme-options/liquid-blog.php:84 
+#: theme/theme-options/liquid-blog.php:210 
+#: theme/theme-options/liquid-blog.php:333 
+#: theme/theme-options/liquid-blog.php:456
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: theme/theme-options/liquid-blog.php:85 
+#: theme/theme-options/liquid-blog.php:211 
+#: theme/theme-options/liquid-blog.php:334 
+#: theme/theme-options/liquid-blog.php:457
+msgid "Categories"
+msgstr "Kategorien"
+
+#: theme/theme-options/liquid-blog.php:87 
+#: theme/theme-options/liquid-blog.php:213 
+#: theme/theme-options/liquid-blog.php:336
+msgid "Manage the meta type for posts"
+msgstr "Verwalten des Meta-Typs für Beiträge"
+
+#: theme/theme-options/liquid-blog.php:98 
+#: theme/theme-options/liquid-blog.php:224 
+#: theme/theme-options/liquid-blog.php:347 
+#: theme/theme-options/liquid-blog.php:470
+msgid "Single Category"
+msgstr "Einzelne Kategorie"
+
+#: theme/theme-options/liquid-blog.php:103
+msgid "Manage the single category for posts"
+msgstr "Verwalten der einzelnen Kategorie für Beiträge"
+
+#: theme/theme-options/liquid-blog.php:114 
+#: theme/theme-options/liquid-blog.php:240 
+#: theme/theme-options/liquid-blog.php:363 
+#: theme/theme-options/liquid-blog.php:486
+msgid "Default Blog Excerpt Length"
+msgstr "Standard-Blog Auszugslänge"
+
+#: theme/theme-options/liquid-blog.php:121 
+#: theme/theme-options/liquid-blog.php:247 
+#: theme/theme-options/liquid-blog.php:370 
+#: theme/theme-options/liquid-header-title-wrapper.php:130
+msgid "Parallax"
+msgstr "Parallax"
+
+#: theme/theme-options/liquid-blog.php:126
+msgid "Manage parallax for post thumbnail"
+msgstr "Verwalten Sie Parallax für die Vorschaubilder der Beiträge"
+
+#: theme/theme-options/liquid-blog.php:135
+msgid "Blog Category Page"
+msgstr "Blog-Kategorie-Seite"
+
+#: theme/theme-options/liquid-blog.php:142 
+#: theme/theme-options/liquid-blog.php:154
+msgid "Blog Category Page Title"
+msgstr "Blog-Kategorie Seitentitel"
+
+#: theme/theme-options/liquid-blog.php:143
+msgid "Display the blog category page title."
+msgstr "Zeigt den Seitentitel der Blog-Kategorie an."
+
+#: theme/theme-options/liquid-blog.php:155
+msgid ""
+"[ld_category_title] shortcode displays the corresponding the category title, "
+"any text can be added before or after the shortcode."
+msgstr ""
+"[ld_category_title] Shortcode zeigt den entsprechenden Kategorienamen an. "
+"Jeder Text kann vor oder nach dem Shortcode hinzugefügt werden."
+
+#: theme/theme-options/liquid-blog.php:156
+msgid "Manage the title of blog category pages."
+msgstr "Verwalten Sie den Titel der Blog-Kategorie-Seiten."
+
+#: theme/theme-options/liquid-blog.php:163
+msgid "Blog Category Page Subtitle"
+msgstr "Blog Kategorie Seite Untertitel"
+
+#: theme/theme-options/liquid-blog.php:164
+msgid "Manages the subtitle of blog category pages."
+msgstr "Verwaltet den Untertitel von Blog-Kategorie-Seiten."
+
+#: theme/theme-options/liquid-blog.php:191
+msgid "Select content type for your grid."
+msgstr "Wählen Sie den Inhaltstyp für Ihr Raster aus."
+
+#: theme/theme-options/liquid-blog.php:252
+msgid "Manage parallax for post thumbnail."
+msgstr "Verwalten Sie Parallax für die Vorschaubilder der Beiträge."
+
+#: theme/theme-options/liquid-blog.php:261
+msgid "Blog Tag Page"
+msgstr "Blog-Tag-Seite"
+
+#: theme/theme-options/liquid-blog.php:268
+msgid "Blog Tag Page Title Bar"
+msgstr "Blog-Tag-Seite Titelleiste"
+
+#: theme/theme-options/liquid-blog.php:269
+msgid "Display the title on blog tag pages."
+msgstr "Zeigt den Titel auf Blog-Tag-Seiten an."
+
+#: theme/theme-options/liquid-blog.php:279
+msgid "Blog Tag Page Title"
+msgstr "Blog-Tag Seitentitel"
+
+#: theme/theme-options/liquid-blog.php:280
+msgid ""
+"[ld_tag_title] shortcode displays the corresponding the category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+"[ld_tag_title] Shortcode zeigt den entsprechenden Kategorienamen an. Jeder "
+"Text kann vor oder nach dem Shortcode hinzugefügt werden."
+
+#: theme/theme-options/liquid-blog.php:281
+msgid "Manage the title of blog tag pages."
+msgstr "Verwaltet den Titel von Blog-Tag-Seiten."
+
+#: theme/theme-options/liquid-blog.php:287
+msgid "Blog Tag Page Subtitle"
+msgstr "Blog-Tag-Seite Untertitel"
+
+#: theme/theme-options/liquid-blog.php:288
+msgid "Manage the subtitle of blog category pages."
+msgstr "Verwalten Sie den Untertitel von Blog-Kategorie-Seiten."
+
+#: theme/theme-options/liquid-blog.php:314
+msgid "Choose a post style for your blog category pages."
+msgstr "Wählen Sie einen Beitrags-Stil für Ihre Blog-Kategorie-Seiten."
+
+#: theme/theme-options/liquid-blog.php:375 
+#: theme/theme-options/liquid-portfolio.php:134
+msgid "Parallax for images"
+msgstr "Parallax für Bilder"
+
+#: theme/theme-options/liquid-blog.php:384
+msgid "Blog Author Page"
+msgstr "Blog-Autorenseite"
+
+#: theme/theme-options/liquid-blog.php:391
+msgid "Blog Author Page Title Bar"
+msgstr "Blog-Autorenseite Titelleiste"
+
+#: theme/theme-options/liquid-blog.php:392
+msgid "Display the title bar on blog author pages."
+msgstr "Zeigt die Titelleiste auf den Seiten des Blogautors an."
+
+#: theme/theme-options/liquid-blog.php:402
+msgid "Blog Author Page Title"
+msgstr "Blogautor Seitentitel"
+
+#: theme/theme-options/liquid-blog.php:403
+msgid ""
+"[ld_author] shortcode displays the corresponding the author name, any text "
+"can be added before or after the shortcode."
+msgstr ""
+"[ld_author] Shortcode zeigt den entsprechenden Autorennamen an, jeder Text "
+"kann vor oder nach dem Shortcode hinzugefügt werden."
+
+#: theme/theme-options/liquid-blog.php:404
+msgid "Manage the title of blog author page title."
+msgstr "Verwalten Sie den Titel des Seitentitels des Blogautors."
+
+#: theme/theme-options/liquid-blog.php:410
+msgid "Blog Author Page Subtitle"
+msgstr "Blogautor-Seite Untertitel"
+
+#: theme/theme-options/liquid-blog.php:411
+msgid "Manages the subtitle of blog author pages."
+msgstr "Verwaltet den Untertitel von Blog-Autorenseiten."
+
+#: theme/theme-options/liquid-blog.php:437
+msgid "Choose the post style for your blog author pages."
+msgstr "Wählen Sie den Beitragsstil für Ihre Blog-Autorenseiten."
+
+#: theme/theme-options/liquid-blog.php:493
+msgid "Parallax for Posts"
+msgstr "Parallax für Beiträge"
+
+#: theme/theme-options/liquid-blog.php:498
+msgid "Manage parallax for post thumbnails"
+msgstr "Verwalten Sie Parallax für die Vorschaubilder der Beiträge."
+
+#: theme/theme-options/liquid-blog.php:506
+msgid "Blog Single Post"
+msgstr "Blog Einzelbeitrag"
+
+#: theme/theme-options/liquid-blog.php:513
+msgid "Single Post Style"
+msgstr "Einzelner Post-Stil"
+
+#: theme/theme-options/liquid-blog.php:525 
+#: theme/theme-options/liquid-header-title-wrapper.php:8
+msgid "Page Title Bar"
+msgstr "Seitentitelleiste"
+
+#: theme/theme-options/liquid-blog.php:526
+msgid "Display title bar on single posts"
+msgstr "Titelleiste für einzelne Beiträge anzeigen"
+
+#: theme/theme-options/liquid-blog.php:535
+msgid "Single Post Title Typography"
+msgstr "Einzelne Post-Titel Typografie"
+
+#: theme/theme-options/liquid-blog.php:536
+msgid "Manage the typography for the single post headers"
+msgstr "Verwaltung der Typografie für die einzelnen Beitragsüberschriften"
+
+#: theme/theme-options/liquid-blog.php:546
+msgid "Social Sharing"
+msgstr "Social Sharing"
+
+#: theme/theme-options/liquid-blog.php:547
+msgid "Display the social sharing box on single post pages."
+msgstr "Zeigen Sie die Social Sharing Box auf einzelnen Beitragsseiten an."
+
+#: theme/theme-options/liquid-blog.php:557
+msgid "Author Meta"
+msgstr "Autor Meta"
+
+#: theme/theme-options/liquid-blog.php:558
+msgid "Switch on to display the author info box on single post pages."
+msgstr ""
+"Einschalten, um die Autoren-Info-Box auf einzelnen Beitragsseiten anzuzeigen."
+
+#: theme/theme-options/liquid-blog.php:568
+msgid "Neighbour Posts"
+msgstr "Beitrag nebenan"
+
+#: theme/theme-options/liquid-blog.php:569
+msgid ""
+"Switch on to display the previous post and next post on single post pages."
+msgstr ""
+"Einschalten, um den vorherigen Beitrag und den nächsten Beitrag auf "
+"einzelnen Beitragsseiten anzuzeigen."
+
+#: theme/theme-options/liquid-blog.php:579
+msgid "Related Posts"
+msgstr "Verwandte Beiträge"
+
+#: theme/theme-options/liquid-blog.php:580
+msgid "Display the related posts on single posts."
+msgstr "Zeigt die zugehörigen Beiträge zu einzelnen Beiträgen an."
+
+#: theme/theme-options/liquid-blog.php:590
+msgid "Title of Related Posts"
+msgstr "Titel der verwandten Beiträge"
+
+#: theme/theme-options/liquid-blog.php:601
+msgid "Related Posts Quantity"
+msgstr "Anzahl verwandter Beiträge"
+
+#: theme/theme-options/liquid-blog.php:602
+msgid "Quantity of projects those display on related posts section."
+msgstr ""
+"Anzahl der Projekte, die im Bereich der zugehörigen Beiträge angezeigt "
+"werden."
+
+#: theme/theme-options/liquid-colors.php:4
+msgid "Colors"
+msgstr "Farben"
+
+#: theme/theme-options/liquid-colors.php:10
+msgid "Primary color"
+msgstr "Primäre Farbe"
+
+#: theme/theme-options/liquid-colors.php:12 
+#: theme/theme-options/liquid-colors.php:21
+msgid "Choose a primary color for your website by using the colorpicker"
+msgstr ""
+"Wählen Sie eine primäre Farbe für Ihre Website. Verwenden Sie dazu den "
+"Farbwähler."
+
+#: theme/theme-options/liquid-colors.php:19
+msgid "Secondary color"
+msgstr "Sekundäre Farbe"
+
+#: theme/theme-options/liquid-colors.php:26
+msgid "Primary Gradient color"
+msgstr "Primäre Farbe des Farbverlaufs"
+
+#: theme/theme-options/liquid-colors.php:28
+msgid ""
+"Choose colors to generate a primary gradient color for your website by using "
+"the colorpicker"
+msgstr ""
+"Wählen Sie Farben, um einen primären Farbverlauf für Ihre Website zu "
+"erzeugen. Verwenden Sie dazu den Farbwähler."
+
+#: theme/theme-options/liquid-colors.php:39
+msgid "Links Color"
+msgstr "Farbe der Links"
+
+#: theme/theme-options/liquid-custom-code.php:7
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: theme/theme-options/liquid-custom-code.php:14
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: theme/theme-options/liquid-custom-code.php:15
+msgid ""
+"Enter your CSS code in the field below. Do not include any tags or HTML in "
+"the field. Custom CSS entered here will override the theme CSS. In some "
+"cases, the !important tag may be needed. Don't URL encode image or svg paths."
+" Contents of this field will be auto encoded."
+msgstr ""
+"Geben Sie Ihren CSS-Code in das untenstehende Feld ein. Fügen Sie keine Tags "
+"oder HTML in das Feld ein. Das hier eingegebene benutzerdefinierte CSS "
+"überschreibt das Thema CSS. In einigen Fällen kann das !important-Tag "
+"erforderlich sein. Keine URL-Encodierung von Bildern oder SVG-Pfaden. Der "
+"Inhalt dieses Feldes wird automatisch kodiert."
+
+#: theme/theme-options/liquid-export.php:7
+msgid "Import/Export"
+msgstr "Importieren/Exportieren"
+
+#: theme/theme-options/liquid-export.php:8
+msgid "Import/Export options"
+msgstr "Import/Export Optionen"
+
+#: theme/theme-options/liquid-export.php:15
+msgid "Import / Export"
+msgstr "Importieren / Exportieren"
+
+#: theme/theme-options/liquid-extras.php:7
+msgid "Extras"
+msgstr "Extras"
+
+#: theme/theme-options/liquid-extras.php:21
+msgid "Switch off to hide the header on your website."
+msgstr "Ausschalten, um die Kopfzeile auf Ihrer Website auszublenden."
+
+#: theme/theme-options/liquid-extras.php:31
+msgid "Title Bar"
+msgstr "Titelleiste"
+
+#: theme/theme-options/liquid-extras.php:32
+msgid "Switch off to hide the title bar on your website."
+msgstr "Ausschalten, um die Titelleiste auf Ihrer Website auszublenden."
+
+#: theme/theme-options/liquid-extras.php:43
+msgid "Switch off to hide the footer on your website."
+msgstr "Ausschalten, um die Fußzeile auf Ihrer Website auszublenden."
+
+#: theme/theme-options/liquid-extras.php:54
+msgid "Switch off to disabled the ave collection"
+msgstr "Ausschalten, um die Ave-Sammlung zu deaktivieren."
+
+#: theme/theme-options/liquid-extras.php:64
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+#: theme/theme-options/liquid-extras.php:65
+msgid ""
+"Lazy load enables images to load only when they are in the viewport. "
+"Therefore, lazy load boosts the performance."
+msgstr ""
+"Mit Lazy Load werden Bilder erst dann geladen werden, wenn sie sich im "
+"Ansichtsfenster befinden. Dadurch erhöht Lazy Load die Leistung."
+
+#: theme/theme-options/liquid-extras.php:75
+msgid "Portfolio Slug"
+msgstr "Portfolio Slug"
+
+#: theme/theme-options/liquid-extras.php:82
+msgid "Portfolio Category Slug"
+msgstr "Portfoliokategorie Slug"
+
+#: theme/theme-options/liquid-extras.php:91
+msgid "Custom Icons"
+msgstr "Benutzerdefinierte Icons"
+
+#: theme/theme-options/liquid-extras.php:99
+msgid "Manage Icons"
+msgstr "Icons verwalten"
+
+#: theme/theme-options/liquid-extras.php:105
+msgid "Custom Icon Fonts"
+msgstr "Benutzerdefinierte Icon-Fonts"
+
+#: theme/theme-options/liquid-extras.php:106
+msgid "Choose the icon Fonts"
+msgstr "Wählen Sie die Icon-Schriften"
+
+#: theme/theme-options/liquid-extras.php:108
+msgid "Liquid Icons"
+msgstr "Liquid Icons"
+
+#: theme/theme-options/liquid-extras.php:115
+msgid "Add Custom Icons"
+msgstr "Benutzerdefinierte Icons hinzufügen"
+
+#: theme/theme-options/liquid-extras.php:117
+msgid "NOTE: All icons files should be uploaded via FTP on your server"
+msgstr ""
+"HINWEIS: Alle Icon-Dateien sollten per FTP auf Ihren Server hochgeladen "
+"werden"
+
+#: theme/theme-options/liquid-extras.php:126
+msgid "Awesome Font"
+msgstr "Awesome Schriftart"
+
+#: theme/theme-options/liquid-extras.php:132
+msgid "Icon Css file"
+msgstr "Icon Css-Datei"
+
+#: theme/theme-options/liquid-extras.php:138
+msgid "Icons classnames"
+msgstr "Icons Klassennamen"
+
+#: theme/theme-options/liquid-extras.php:139
+msgid "Icon classnames should be separated by comma"
+msgstr "Icon-Klassennamen sollten durch ein Komma getrennt werden."
+
+#: theme/theme-options/liquid-footer.php:14
+msgid "Select a footer template for your website."
+msgstr "Wählen Sie eine Vorlage für die Fußzeile Ihrer Website aus."
+
+#: theme/theme-options/liquid-header-layout.php:7
+msgid "Select the header"
+msgstr "Wählen Sie die Kopfzeile aus"
+
+#: theme/theme-options/liquid-header-layout.php:14
+msgid "Select a header template for your website"
+msgstr "Wählen Sie eine Vorlage für die Kopfzeile Ihrer Website aus."
+
+#: theme/theme-options/liquid-header-menu.php:8
+msgid "Menu"
+msgstr "Menu"
+
+#: theme/theme-options/liquid-header-menu.php:14
+msgid "Menus Typography"
+msgstr "Typographie der Menüs"
+
+#: theme/theme-options/liquid-header-menu.php:15
+msgid "These settings control the typography for all menus."
+msgstr "Diese Einstellungen steuern die Typografie für alle Menüs."
+
+#: theme/theme-options/liquid-header-menu.php:27
+msgid "Mobile Menus Typography"
+msgstr "Mobile Menü Typographie"
+
+#: theme/theme-options/liquid-header-menu.php:28
+msgid "These settings control the typography for mobile menu."
+msgstr "Diese Einstellungen steuern die Typografie für das mobile Menü."
+
+#: theme/theme-options/liquid-header-menu.php:40
+msgid "Main Color"
+msgstr "Hauptfarbe"
+
+#: theme/theme-options/liquid-header-menu.php:46
+msgid "Secondary Color"
+msgstr "Sekundäre Farbe"
+
+#: theme/theme-options/liquid-header-menu.php:52
+msgid "Active Color"
+msgstr "Aktive Farbe"
+
+#: theme/theme-options/liquid-header-menu.php:59
+msgid "Menu Item Padding"
+msgstr "Menüpunkt Padding"
+
+#: theme/theme-options/liquid-header-menu.php:72
+msgid "Logo Padding"
+msgstr "Logo-Padding"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:10
+msgid "Style for the mobile version of the website"
+msgstr "Style für die mobile Version der Website"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:20
+msgid "Trigger Alignment for the mobile version of the website"
+msgstr "Trigger Ausrichtung für die mobile Version der Website"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:29
+msgid "Navigation Alignment for the mobile version of the website"
+msgstr "Navigationsausrichtung für die mobile Version der Website"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:43
+msgid "Color Scheme of the mobile version of the website"
+msgstr "Farbschema der mobilen Version der Website"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:58
+msgid "Header Color Scheme of the mobile version of the website"
+msgstr "Farbschema der Kopfzeile in der mobilen Version der Website"
+
+#: theme/theme-options/liquid-header-modules.php:7
+msgid "Modules"
+msgstr "Module"
+
+#: theme/theme-options/liquid-header-modules.php:14
+msgid "Enable Header Social"
+msgstr "Header Social aktivieren"
+
+#: theme/theme-options/liquid-header-modules.php:15
+msgid "If on, will display social links in header."
+msgstr "Wenn eingeschaltet, werden soziale Links in der Kopfzeile angezeigt."
+
+#: theme/theme-options/liquid-header-modules.php:25
+msgid "Social Links"
+msgstr "Social Links"
+
+#: theme/theme-options/liquid-header-modules.php:26
+msgid "Add social links to display in header"
+msgstr "Hinzufügen von sozialen Links zur Anzeige im Kopfbereich"
+
+#: theme/theme-options/liquid-header-modules.php:39 
+#: theme/theme-options/liquid-header-modules.php:88
+msgid "Label"
+msgstr "Beschriftung"
+
+#: theme/theme-options/liquid-header-modules.php:40
+msgid "Link text"
+msgstr "Link-Text"
+
+#: theme/theme-options/liquid-header-modules.php:46 
+#: theme/theme-options/liquid-header-modules.php:95
+msgid "Icon"
+msgstr "Icon"
+
+#: theme/theme-options/liquid-header-modules.php:47 
+#: theme/theme-options/liquid-header-modules.php:96
+msgid "Select an icon"
+msgstr "Wählen Sie ein Icon aus"
+
+#: theme/theme-options/liquid-header-modules.php:63
+msgid "Enable Header Button"
+msgstr "Header-Schaltfläche aktivieren"
+
+#: theme/theme-options/liquid-header-modules.php:64
+msgid "If on, will display buttons in header."
+msgstr ""
+"Wenn eingeschaltet, werden die Schaltflächen in der Kopfzeile angezeigt."
+
+#: theme/theme-options/liquid-header-modules.php:74
+msgid "Buttons"
+msgstr "Schaltflächen"
+
+#: theme/theme-options/liquid-header-modules.php:75
+msgid "Add buttons to display in header"
+msgstr "Hinzufügen von Schaltflächen zur Anzeige in der Kopfleiste"
+
+#: theme/theme-options/liquid-header-modules.php:89
+msgid "Button text"
+msgstr "Text der Schaltfläche"
+
+#: theme/theme-options/liquid-header-modules.php:111
+msgid "Enable Header Text"
+msgstr "Header-Text aktivieren"
+
+#: theme/theme-options/liquid-header-modules.php:112
+msgid "If on, will display text in header."
+msgstr "Wenn eingeschaltet, wird der Text in der Kopfzeile angezeigt."
+
+#: theme/theme-options/liquid-header-modules.php:122
+msgid "Header Text"
+msgstr "Kopfzeilen-Text"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:16
+msgid "Custom Page Title"
+msgstr "Benutzerdefinierter Seitentitel"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:17
+msgid "Custom page title will override the default page and post titles"
+msgstr ""
+"Der benutzerdefinierte Seitentitel überschreibt die Standardseite und die "
+"Titel der Beiträge."
+
+#: theme/theme-options/liquid-header-title-wrapper.php:22
+msgid "Page Title Custom Typography"
+msgstr "Seitentitel benutzerdefinierte Typografie"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:32
+msgid "Page Title Typography"
+msgstr "Seitentitel Typografie"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:33
+msgid "Manages the typography for the page title"
+msgstr "Verwaltet die Typografie für den Seitentitel."
+
+#: theme/theme-options/liquid-header-title-wrapper.php:49
+msgid "Page Subtitle"
+msgstr "Seitenuntertitel"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:55
+msgid "Page Subtitle Custom Typography"
+msgstr "Seitenuntertitel benutzerdefinierte Typografie"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:65
+msgid "Page Subtitle Typography"
+msgstr "Seitenuntertitel Typographie"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:66
+msgid "Manages the typography for the page subtitle"
+msgstr "Verwaltet die Typografie für den Seiten-Untertitel."
+
+#: theme/theme-options/liquid-header-title-wrapper.php:83
+msgid "Manages the top padding of the titlebar"
+msgstr "Verwaltet das obere Padding der Titelleiste."
+
+#: theme/theme-options/liquid-header-title-wrapper.php:91
+msgid "Manages the bottom padding of the titlebar"
+msgstr "Verwaltet das untere Padding der Titelleiste."
+
+#: theme/theme-options/liquid-header-title-wrapper.php:141
+msgid "Overlay"
+msgstr "Überlagerung"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:161
+msgid "Breadcrumbs"
+msgstr "Übersichtspfad"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:170
+msgid "Scroll Button"
+msgstr "Bildlauftaste"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:182
+msgid "Choose a color for scroll button"
+msgstr "Wählen Sie eine Farbe für die Bildlauftaste aus"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:193
+msgid ""
+"Anchor ID of the section where the page will be scrolled on click to the "
+"scroll button"
+msgstr ""
+"Anker-ID des Bereichs, in dem die Seite gescrollt wird, durch Anklicken der "
+"Bildlaufschaltfläche."
+
+#: theme/theme-options/liquid-layout.php:8
+msgid "Layout"
+msgstr "Layout"
+
+#: theme/theme-options/liquid-layout.php:16
+msgid "Manages the color scheme across your website."
+msgstr "Verwaltet das Farbschema auf Ihrer Website."
+
+#: theme/theme-options/liquid-layout.php:42
+msgid "Row Margins"
+msgstr "Zeilenränder"
+
+#: theme/theme-options/liquid-layout.php:43
+msgid "Manages row margins"
+msgstr "Verwaltet Zeilenränder"
+
+#: theme/theme-options/liquid-layout.php:52
+msgid "Row Padding"
+msgstr "Zeilen-Padding"
+
+#: theme/theme-options/liquid-layout.php:53
+msgid "Manages the rows padding"
+msgstr "Verwaltet das Padding der Zeilen"
+
+#: theme/theme-options/liquid-logo.php:6
+msgid "Logo"
+msgstr "Logo"
+
+#: theme/theme-options/liquid-logo.php:13
+msgid "Maximum Logo Width"
+msgstr "Maximale Logo-Breite"
+
+#: theme/theme-options/liquid-logo.php:14
+msgid "Define a maximum width for your logo, For instance, 120px"
+msgstr "Definieren Sie eine maximale Breite für Ihr Logo, z.B. 120px."
+
+#: theme/theme-options/liquid-logo.php:20
+msgid "Default Logo"
+msgstr "Standard-Logo"
+
+#: theme/theme-options/liquid-logo.php:21
+msgid "Select an image as your logo."
+msgstr "Wählen Sie ein Bild für Ihr Logo aus."
+
+#: theme/theme-options/liquid-logo.php:27
+msgid "Retina Default Logo"
+msgstr "Retina Standard-Logo"
+
+#: theme/theme-options/liquid-logo.php:28
+msgid ""
+"Select an image as a default logo for the retina supported devices. Default "
+"retina logo should be 2x the size of the default logo."
+msgstr ""
+"Wählen Sie ein Bild als Standard-Logo für Retina unterstützte Geräte aus. "
+"Das Standard-Retina-Logo sollte doppelt so groß sein wie das Standard-Logo."
+
+#: theme/theme-options/liquid-logo.php:34
+msgid "Sticky Menu Default Logo"
+msgstr "Sticky Menü Standard-Logo"
+
+#: theme/theme-options/liquid-logo.php:35
+msgid " Select an image as your logo for sticky header."
+msgstr " Wählen Sie ein Bild als Logo für die feststehende Kopfzeile."
+
+#: theme/theme-options/liquid-logo.php:41
+msgid "Sticky Menu Retina Default Logo"
+msgstr "Sticky Menü Retina Standard-Logo"
+
+#: theme/theme-options/liquid-logo.php:42
+msgid ""
+"Select an image as a sticky menu default logo for the retina supported "
+"devices. Sticky menu retina default logo should be 2x the size of the logo."
+msgstr ""
+"Wählen Sie ein Bild als Standard-Logo für das Sticky-Menü von Retina "
+"unterstützte Geräte aus. Das Retina-Logo des Sticky-Menüs sollte doppelt so "
+"groß sein wie das Standard-Logo."
+
+#: theme/theme-options/liquid-logo.php:48
+msgid "Hover State of Logo"
+msgstr "Hover-Zustand des Logos"
+
+#: theme/theme-options/liquid-logo.php:49
+msgid "Select an image as your logo to display on hover of logo"
+msgstr ""
+"Wählen Sie ein Bild als Ihr Logo aus, das bei Bewegung über dem Logo "
+"angezeigt werden soll."
+
+#: theme/theme-options/liquid-logo.php:55
+msgid "Hover State of Retina Default Logo"
+msgstr "Hover-Zustand des Retina Standard-Logos"
+
+#: theme/theme-options/liquid-logo.php:56
+msgid ""
+"Select an image as a hover state of logo for the retina supported devices. "
+"Retina version should be 2x size."
+msgstr ""
+"Wählen Sie ein Bild als Hover-Zustand des Logos für Retina unterstützte "
+"Geräte. Die Retina-Version sollte doppelt so groß sein. "
+
+#: theme/theme-options/liquid-logo.php:62
+msgid "Mobile Logo"
+msgstr "Mobiles Logo"
+
+#: theme/theme-options/liquid-logo.php:63
+msgid ""
+"Select the logo that will be displayed in the menu bar for mobile devices."
+msgstr ""
+"Wählen Sie das Logo aus, das in der Menüleiste für mobile Geräte angezeigt "
+"wird."
+
+#: theme/theme-options/liquid-logo.php:69
+msgid "Retina Mobile Logo"
+msgstr "Retina mobiles Logo"
+
+#: theme/theme-options/liquid-logo.php:70
+msgid ""
+"Select an image as a mobile default logo for the retina supported devices. "
+"Retina version should be 2x size."
+msgstr ""
+"Wählen Sie ein Bild als mobiles Standard-Logo für Retina unterstützte Geräte."
+" Die Retina-Version sollte doppelt so groß sein. "
+
+#: theme/theme-options/liquid-logo.php:76
+msgid "Light Logo"
+msgstr "Helles Logo"
+
+#: theme/theme-options/liquid-logo.php:77
+msgid "Upload or select an image as your light logo."
+msgstr "Hochladen oder auswählen eines Bildes als helles Logo."
+
+#: theme/theme-options/liquid-logo.php:83
+msgid "Retina Light Logo"
+msgstr "Retina helles Logo"
+
+#: theme/theme-options/liquid-logo.php:84
+msgid ""
+"Upload or select an image for the retina version of the light logo. It "
+"should be exactly 2x the size of the logo."
+msgstr ""
+"Hochladen oder auswählen eines Bildes für die Retina-Version des hellen "
+"Logos. Es sollte die doppelte Größe des Standard-Logos haben."
+
+#: theme/theme-options/liquid-logo.php:91
+msgid "Dark Logo"
+msgstr "Dunkles Logo"
+
+#: theme/theme-options/liquid-logo.php:92
+msgid "Upload or select an image as your dark logo."
+msgstr "Hochladen oder auswählen eines Bildes als dunkles Logo."
+
+#: theme/theme-options/liquid-logo.php:98
+msgid "Retina Dark Logo"
+msgstr "Retina dunkles Logo"
+
+#: theme/theme-options/liquid-logo.php:99
+msgid ""
+"Upload or select an image for the retina version of the dark logo. It should "
+"be exactly 2x the size of the logo."
+msgstr ""
+"Hochladen oder auswählen eines Bildes für die Retina-Version des dunklen "
+"Logos. Es sollte die doppelte Größe des Standard-Logos haben."
+
+#: theme/theme-options/liquid-logo.php:105
+msgid "Favicon"
+msgstr "Favicon"
+
+#: theme/theme-options/liquid-logo.php:106
+msgid "Select a favicon for your website (16px x 16px)."
+msgstr "Wählen Sie ein Favicon für Ihre Website (16px x 16px)."
+
+#: theme/theme-options/liquid-logo.php:112
+msgid "Apple iPhone Icon"
+msgstr "Apple iPhone Symbol"
+
+#: theme/theme-options/liquid-logo.php:113
+msgid "Select a favicon for Apple iPhone (57px x 57px)."
+msgstr "Wählen Sie ein Favicon für Apple iPhone (57px x 57px)."
+
+#: theme/theme-options/liquid-logo.php:119
+msgid "Apple iPhone Retina Icon"
+msgstr "Apple iPhone Retina Symbol"
+
+#: theme/theme-options/liquid-logo.php:120
+msgid "Select a favicon for Apple iPhone Retina Version (114px x 114px)."
+msgstr ""
+"Wählen Sie ein Favicon für Apple iPhone Retina Version (114px x 114px)."
+
+#: theme/theme-options/liquid-logo.php:130
+msgid "Apple iPad Icon"
+msgstr "Apple iPad Symbol"
+
+#: theme/theme-options/liquid-logo.php:131
+msgid "Select a favicon for Apple iPad (72px x 72px)."
+msgstr "Wählen Sie ein Favicon für Apple iPad (72px x 72px)."
+
+#: theme/theme-options/liquid-logo.php:137
+msgid "Apple iPad Retina Icon"
+msgstr "Apple iPad Retina Symbol"
+
+#: theme/theme-options/liquid-logo.php:138
+msgid "Select a favicon for Apple iPad Retina Version (144px x 144px)."
+msgstr "Wählen Sie ein Favicon für Apple iPad Retina Version (144px x 144px)."
+
+#: theme/theme-options/liquid-page-404.php:7
+msgid "404 Page"
+msgstr "404 Seite"
+
+#: theme/theme-options/liquid-page-404.php:13
+msgid "Particles"
+msgstr "Partikel"
+
+#: theme/theme-options/liquid-page-404.php:14
+msgid "Switch on to display the particles."
+msgstr "Einschalten, um die Partikel anzuzeigen."
+
+#: theme/theme-options/liquid-page-404.php:31
+msgid "Heading"
+msgstr "Überschrift"
+
+#: theme/theme-options/liquid-page-404.php:45
+msgid "Button"
+msgstr "Schaltfläche"
+
+#: theme/theme-options/liquid-page-404.php:46
+msgid "Switch on to display the \"back to home\" button."
+msgstr "Schalten Sie ein, um die Taste \" Zurück zur Startseite \" anzuzeigen."
+
+#: theme/theme-options/liquid-page-404.php:57
+msgid "Button Title"
+msgstr "Titel der Schaltfläche"
+
+#: theme/theme-options/liquid-page-maintenance.php:29
+msgid "Maintenance Page"
+msgstr "Wartungsseite"
+
+#: theme/theme-options/liquid-page-maintenance.php:36
+msgid "Enable Maintenance Mode"
+msgstr "Wartungsmodus aktivieren"
+
+#: theme/theme-options/liquid-page-maintenance.php:37 
+#: theme/theme-options/liquid-page-maintenance.php:50
+msgid "If on, the frontend shows maintenance mode page only."
+msgstr ""
+"Wenn eingeschaltet, zeigt die Benutzeroberfläche nur die Seite Wartungsmodus "
+"an."
+
+#: theme/theme-options/liquid-page-maintenance.php:38 
+#: theme/theme-options/liquid-page-maintenance.php:51
+msgid ""
+"Only administrator will be able to visit site. If you want to check if "
+"maintenance mode is enabled you have to logout."
+msgstr ""
+"Nur der Administrator kann die Website besuchen. Wenn Sie überprüfen möchten,"
+" ob der Wartungsmodus aktiviert ist, müssen Sie sich abmelden."
+
+#: theme/theme-options/liquid-page-maintenance.php:49
+msgid "Enable Till"
+msgstr "Bis einschalten"
+
+#: theme/theme-options/liquid-page-maintenance.php:62
+msgid "Date (mm/dd/yyyy)"
+msgstr "Datum (mm/dd/yyyy)"
+
+#: theme/theme-options/liquid-page-maintenance.php:74
+msgid "Hour"
+msgstr "Stunde"
+
+#: theme/theme-options/liquid-page-maintenance.php:87
+msgid "Minutes"
+msgstr "Minuten"
+
+#: theme/theme-options/liquid-page-maintenance.php:100
+msgid "Page Title"
+msgstr "Seitentitel"
+
+#: theme/theme-options/liquid-page-maintenance.php:102
+msgid "We&#39;ll Be Right Back."
+msgstr "Wir sind gleich wieder da."
+
+#: theme/theme-options/liquid-page-maintenance.php:110
+msgid ""
+"<p>Our team is working hard to be able to back in a couple hours. <br> "
+"Thanks for your patience.</p>"
+msgstr ""
+"<p>Unser Team arbeitet hart daran, in ein paar Stunden zurück zu sein. <br> "
+"Vielen Dank für Ihre Geduld.</p>"
+
+#: theme/theme-options/liquid-page-maintenance.php:118
+msgid "Solid"
+msgstr "Fest"
+
+#: theme/theme-options/liquid-page-maintenance.php:119
+msgid "Gradient"
+msgstr "Farbverlauf"
+
+#: theme/theme-options/liquid-page-maintenance.php:165
+msgid "Social identities"
+msgstr "Social identities"
+
+#: theme/theme-options/liquid-page-maintenance.php:177
+msgid "Url"
+msgstr "Url"
+
+#: theme/theme-options/liquid-page-search.php:7 
+#: theme/theme-options/liquid-sidebars.php:197
+msgid "Search Page"
+msgstr "Suchseite"
+
+#: theme/theme-options/liquid-page-search.php:14
+msgid "Search Page Header"
+msgstr "Kopfzeile der Suchseite"
+
+#: theme/theme-options/liquid-page-search.php:15
+msgid "Choose a header for search result pages."
+msgstr "Wählen Sie eine Überschrift für die Seiten der Suchergebnisse."
+
+#: theme/theme-options/liquid-page-search.php:25
+msgid "Search Page Title"
+msgstr "Titel der Suchseite"
+
+#: theme/theme-options/liquid-page-search.php:26
+msgid "Switch on to display the titlebar for the search result pages."
+msgstr ""
+"Schalten Sie ein, um die Titelleiste für die Suchergebnisseiten anzuzeigen."
+
+#: theme/theme-options/liquid-page-search.php:36
+msgid "Search Page Subtitle"
+msgstr "Untertitel der Suchseite"
+
+#: theme/theme-options/liquid-page-search.php:37
+msgid "Define a default subtitle for the search result pages."
+msgstr ""
+"Definieren Sie einen Standard-Untertitel für die Seiten der Suchergebnisse."
+
+#: theme/theme-options/liquid-portfolio.php:12
+msgid "General"
+msgstr "Allgemeines"
+
+#: theme/theme-options/liquid-portfolio.php:19
+msgid "Enable Portfolio Archive Page Title"
+msgstr "Portfolio-Archiv Seitenüberschrift aktivieren"
+
+#: theme/theme-options/liquid-portfolio.php:20
+msgid "Display the portfolio archive page title."
+msgstr "Zeigt den Titel der Portfolio-Archivseite an."
+
+#: theme/theme-options/liquid-portfolio.php:30
+msgid "Portfolio Archive Page Title"
+msgstr "Portfolio-Archiv Seitentitel"
+
+#: theme/theme-options/liquid-portfolio.php:31
+msgid ""
+"[ld_category_title] shortcode displays the corresponding category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+"[ld_category_title] zeigt den entsprechenden Kategorienamen an. Jeder Text "
+"kann vor oder nach dem Shortcode hinzugefügt werden."
+
+#: theme/theme-options/liquid-portfolio.php:32
+msgid "Manage the title of portfolio archive pages."
+msgstr "Verwalten Sie den Titel von Portfolio-Archivseiten."
+
+#: theme/theme-options/liquid-portfolio.php:33
+msgid "[ld_category_title]"
+msgstr "[ld_category_title]"
+
+#: theme/theme-options/liquid-portfolio.php:42
+msgid "Masonry Classic"
+msgstr "Masonry Klassisch"
+
+#: theme/theme-options/liquid-portfolio.php:43
+msgid "Masonry Creative"
+msgstr "Masonry Kreativ"
+
+#: theme/theme-options/liquid-portfolio.php:45
+msgid "Grid Alt"
+msgstr "Raster Alt"
+
+#: theme/theme-options/liquid-portfolio.php:46
+msgid "Grid Caption"
+msgstr "Rasterbezeichnung"
+
+#: theme/theme-options/liquid-portfolio.php:47
+msgid "Grid Hover Alt"
+msgstr "Raster Hover Alt"
+
+#: theme/theme-options/liquid-portfolio.php:48
+msgid "Grid Hover 3D"
+msgstr "Gitter-Hover 3D"
+
+#: theme/theme-options/liquid-portfolio.php:49
+msgid "Grid Hover Overlay"
+msgstr "Raster Hover Überlagerung"
+
+#: theme/theme-options/liquid-portfolio.php:50
+msgid "Grid Hover Classic"
+msgstr "Raster Hover Classic"
+
+#: theme/theme-options/liquid-portfolio.php:51
+msgid "Packery"
+msgstr "Packery"
+
+#: theme/theme-options/liquid-portfolio.php:52
+msgid "Packery 2"
+msgstr "Packery 2"
+
+#: theme/theme-options/liquid-portfolio.php:53
+msgid "Packery 3"
+msgstr "Packery 3"
+
+#: theme/theme-options/liquid-portfolio.php:61
+msgid "Horizontal Alignment"
+msgstr "Horizontale Ausrichtung"
+
+#: theme/theme-options/liquid-portfolio.php:62
+msgid "Content horizontal alignment"
+msgstr "Horizontale Ausrichtung der Inhalte"
+
+#: theme/theme-options/liquid-portfolio.php:80
+msgid "Vertical Alignment"
+msgstr "Vertikale Ausrichtung"
+
+#: theme/theme-options/liquid-portfolio.php:81
+msgid "Content vertical alignment"
+msgstr "Vertikale Ausrichtung der Inhalte"
+
+#: theme/theme-options/liquid-portfolio.php:85
+msgid "Middle"
+msgstr "Mitte"
+
+#: theme/theme-options/liquid-portfolio.php:99
+msgid "Columns"
+msgstr "Spalten"
+
+#: theme/theme-options/liquid-portfolio.php:125
+msgid "Columns gap"
+msgstr "Spaltenabstand"
+
+#: theme/theme-options/liquid-portfolio.php:133
+msgid "Enable parallax?"
+msgstr "Parallax aktivieren?"
+
+#: theme/theme-options/liquid-portfolio.php:141
+msgid "Portfolio Single"
+msgstr "Portfolio Einzeln"
+
+#: theme/theme-options/liquid-portfolio.php:148
+msgid "Like Button"
+msgstr "Like-Taste"
+
+#: theme/theme-options/liquid-portfolio.php:149
+msgid "Switch on to display the like button on single portfolio pages."
+msgstr ""
+"Einschalten, um den Like-Button auf einzelnen Portfolio-Seiten anzuzeigen."
+
+#: theme/theme-options/liquid-portfolio.php:160
+msgid "Social Sharing Module"
+msgstr "Social Sharing Modul"
+
+#: theme/theme-options/liquid-portfolio.php:161
+msgid ""
+"Switch on to display the social sharing module on single portfolio pages."
+msgstr ""
+"Aktivieren Sie diese Option, um das Social-Sharing-Modul auf einzelnen "
+"Portfolio-Seiten anzuzeigen."
+
+#: theme/theme-options/liquid-portfolio.php:194
+msgid "Related Works Style"
+msgstr "Stil verwandter Arbeiten"
+
+#: theme/theme-options/liquid-portfolio.php:195
+msgid "Choose a style for related works on single portfolio posts."
+msgstr ""
+"Wählen Sie einen Stil für verwandte Arbeiten an einzelnen "
+"Portfoliobeinträgen."
+
+#: theme/theme-options/liquid-preheader.php:7
+msgid "Preheader"
+msgstr "Vorspann"
+
+#: theme/theme-options/liquid-preheader.php:8
+msgid "Change the preheader section configuration."
+msgstr "Ändern Sie die Konfiguration des Preheader-Abschnitts."
+
+#: theme/theme-options/liquid-preheader.php:15
+msgid "Enable preheader"
+msgstr "Preheader aktivieren"
+
+#: theme/theme-options/liquid-promotions.php:7
+msgid "Promo Boxes"
+msgstr "Promo Boxes"
+
+#: theme/theme-options/liquid-promotions.php:14
+msgid "Promotions"
+msgstr "Werbeaktionen"
+
+#: theme/theme-options/liquid-promotions.php:21
+msgid "Enable Promo boxes"
+msgstr "Promo-Boxen aktivieren"
+
+#: theme/theme-options/liquid-promotions.php:22
+msgid "Enable to show promo boxes"
+msgstr "Aktivieren Sie die Anzeige von Promo-Boxen"
+
+#: theme/theme-options/liquid-promotions.php:33
+msgid "Top Promo box content"
+msgstr "Obere Promo-Box Inhalt"
+
+#: theme/theme-options/liquid-promotions.php:34
+msgid "Select which promobox content post to display"
+msgstr "Wählen Sie aus, welcher Promobox-Inhaltsbeitrag angezeigt werden soll."
+
+#: theme/theme-options/liquid-promotions.php:50
+msgid "In post Promo box content"
+msgstr "Im Beitrag Promo-Box Inhalt"
+
+#: theme/theme-options/liquid-promotions.php:51
+msgid ""
+"Select which promobox content post to display (works for single post only, "
+"and display after the Author Bio section)"
+msgstr ""
+"Wählen Sie aus, welcher Promobox-Inhaltsbeitrag angezeigt werden soll "
+"(funktioniert nur für einen einzelnen Beitrag und wird nach dem Abschnitt "
+"Autor Bio angezeigt)."
+
+#: theme/theme-options/liquid-sidebars.php:14
+msgid "Add sidebars"
+msgstr "Seitenleisten hinzufügen"
+
+#: theme/theme-options/liquid-sidebars.php:20
+msgid "Add a Sidebar"
+msgstr "Eine Seitenleiste hinzufügen"
+
+#: theme/theme-options/liquid-sidebars.php:22
+msgid "You can add as many custom sidebars as you need."
+msgstr ""
+"Sie können so viele benutzerdefinierte Seitenleisten hinzufügen, wie Sie "
+"benötigen."
+
+#: theme/theme-options/liquid-sidebars.php:36 
+#: theme/theme-options/liquid-sidebars.php:47
+msgid "Default Sidebar of Pages"
+msgstr "Standard-Seitenleiste der Seiten"
+
+#: theme/theme-options/liquid-sidebars.php:37
+msgid ""
+"Switch on to use the same sidebars across all pages by overwriting the page "
+"options."
+msgstr ""
+"Schalten Sie ein, um die gleichen Seitenleisten auf allen Seiten zu "
+"verwenden, indem Sie die Seitenoptionen überschreiben."
+
+#: theme/theme-options/liquid-sidebars.php:48
+msgid "Choose the sidebar that will display across all pages."
+msgstr "Wählen Sie die Seitenleiste, die auf allen Seiten angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:54
+msgid "Default Sidebar Position of Pages"
+msgstr "Standard-Seitenleiste Position der Seiten"
+
+#: theme/theme-options/liquid-sidebars.php:55
+msgid "Manages the position of the sidebar across all pages."
+msgstr "Verwaltet die Position der Sidebar auf allen Seiten."
+
+#: theme/theme-options/liquid-sidebars.php:67
+msgid "Portfolio Posts"
+msgstr "Portfolio Beiträge"
+
+#: theme/theme-options/liquid-sidebars.php:74 
+#: theme/theme-options/liquid-sidebars.php:85
+msgid "Default Sidebar of Portfolio Posts"
+msgstr "Standard-Seitenleiste der Portfoliobeiträge"
+
+#: theme/theme-options/liquid-sidebars.php:75
+msgid ""
+"Switch on to use the same sidebars across all portfolio posts by overwriting "
+"the page options."
+msgstr ""
+"Aktivieren Sie diese Option, um die gleichen Seitenleisten für alle "
+"Portfoliobeiträge zu verwenden, indem Sie die Seitenoptionen überschreiben."
+
+#: theme/theme-options/liquid-sidebars.php:86
+msgid "Select sidebar that will display on all portfolio posts."
+msgstr ""
+"Wählen Sie die Seitenleiste, die auf allen Portfolio-Posts angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:92
+msgid "Default Sidebar Position of Portfolio Posts"
+msgstr "Standard-Seitenleiste Position der Portfoliobeiträge"
+
+#: theme/theme-options/liquid-sidebars.php:93
+msgid "Manages the position of the sidebar for all portfolio posts."
+msgstr "Verwaltet die Position der Seitenleiste für alle Portfoliobeiträge."
+
+#: theme/theme-options/liquid-sidebars.php:105
+msgid "Portfolio Archive"
+msgstr "Portfolio-Archiv"
+
+#: theme/theme-options/liquid-sidebars.php:112
+msgid "Sidebar of Portfolio Archive"
+msgstr "Seitenleiste des Portfolio-Archivs"
+
+#: theme/theme-options/liquid-sidebars.php:113
+msgid "Select a sidebar that will display on the portfolio archive pages."
+msgstr ""
+"Wählen Sie eine Seitenleiste aus, die auf den Seiten des Portfolio-Archivs "
+"angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:119
+msgid "Default Sidebar Position of Portfolio Archive"
+msgstr "Standard-Seitenleistenposition des Portfolio-Archivs"
+
+#: theme/theme-options/liquid-sidebars.php:120
+msgid "Manages the position of the sidebar for portfolio archive pages."
+msgstr "Verwaltet die Position der Seitenleiste für Portfolio-Archivseiten."
+
+#: theme/theme-options/liquid-sidebars.php:132
+msgid "Blog Posts"
+msgstr "Blog-Beiträge"
+
+#: theme/theme-options/liquid-sidebars.php:139
+msgid "Default Sidebar For Blog Posts"
+msgstr "Standard-Seitenleiste für Blogbeiträge"
+
+#: theme/theme-options/liquid-sidebars.php:140
+msgid ""
+"Turn on if you want to use the same sidebars on all blog posts. This option "
+"overrides the blog options."
+msgstr ""
+"Aktivieren Sie diese Option, wenn Sie die gleichen Seitenleisten in allen "
+"Blogbeiträgen verwenden möchten. Diese Option überschreibt die Blog-Optionen."
+
+#: theme/theme-options/liquid-sidebars.php:150
+msgid "Default Blog Posts Sidebar"
+msgstr "Standard-Blogbeiträge Seitenleiste"
+
+#: theme/theme-options/liquid-sidebars.php:151
+msgid "Select sidebar 1 that will display on all blog posts."
+msgstr ""
+"Wählen Sie die Seitenleiste 1, die in allen Blogbeiträgen angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:157
+msgid "Default Blog Sidebar Position"
+msgstr "Standard-Blog Seitenleistenposition"
+
+#: theme/theme-options/liquid-sidebars.php:158
+msgid "Controls the position of sidebar for all blog posts. "
+msgstr "Steuert die Position der Seitenleiste für alle Blogbeiträge. "
+
+#: theme/theme-options/liquid-sidebars.php:170
+msgid "Blog Archive"
+msgstr "Blog-Archiv"
+
+#: theme/theme-options/liquid-sidebars.php:177
+msgid "Blog Archive Sidebar"
+msgstr "Blog-Archiv Seitenleiste"
+
+#: theme/theme-options/liquid-sidebars.php:178
+msgid "Select a sidebar that will display on the blog archive pages."
+msgstr ""
+"Wählen Sie eine Seitenleiste, die auf den Blog-Archiv-Seiten angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:184
+msgid "Default Blog Archive Sidebar Position"
+msgstr "Standard-Blog-Archiv Seitenleistenposition"
+
+#: theme/theme-options/liquid-sidebars.php:185
+msgid "Controls the position of the sidebar for blog archive pages."
+msgstr "Steuert die Position der Seitenleiste für Blog-Archiv Seiten."
+
+#: theme/theme-options/liquid-sidebars.php:204
+msgid "Sidebar of Search Page"
+msgstr "Seitenleiste der Suchseite"
+
+#: theme/theme-options/liquid-sidebars.php:205
+msgid "Choose a sidebar that will display on the search results page."
+msgstr ""
+"Wählen Sie eine Seitenleiste, die auf der Suchergebnisseite angezeigt wird."
+
+#: theme/theme-options/liquid-sidebars.php:211
+msgid "Sidebar Position of Search Page"
+msgstr "Position der Seitenleiste auf der Suchseite"
+
+#: theme/theme-options/liquid-sidebars.php:212
+msgid "Manages the position of the sidebar for the search results page."
+msgstr "Verwaltet die Position der Seitenleiste für die Suchergebnisseite."
+
+#: theme/theme-options/liquid-typography.php:7
+msgid "Typography"
+msgstr "Typografie"
+
+#: theme/theme-options/liquid-typography.php:13
+msgid "Body Typography"
+msgstr "Hauptteil-Typografie"
+
+#: theme/theme-options/liquid-typography.php:20
+msgid "Body Typography Settings"
+msgstr "Einstellungen zur Typografie des Hauptteils"
+
+#: theme/theme-options/liquid-typography.php:21
+msgid "Manage the typography for all body text."
+msgstr "Verwalten Sie die Typografie für den gesamten Fließtext."
+
+#: theme/theme-options/liquid-typography.php:40
+msgid "Single Post Typography"
+msgstr "Einzelne Post Typografie"
+
+#: theme/theme-options/liquid-typography.php:47
+msgid "Typography of Single Posts"
+msgstr "Typographie der einzelnen Beiträge"
+
+#: theme/theme-options/liquid-typography.php:48
+msgid "Manage the typography of single post text."
+msgstr "Verwalten Sie die Typografie von einzelnen Beiträgen."
+
+#: theme/theme-options/liquid-typography.php:68
+msgid "Headers Typography"
+msgstr "Kopfzeilen-Typografie"
+
+#: theme/theme-options/liquid-typography.php:75
+msgid "H1 Headers Typography"
+msgstr "H1 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:76
+msgid "Manage the typography for all H1 Headers."
+msgstr "Verwalten Sie die Typografie für alle H1-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:93
+msgid "H2 Headers Typography"
+msgstr "H2 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:94
+msgid "Manage the typography for all H2 Headers."
+msgstr "Verwalten Sie die Typografie für alle H2-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:113
+msgid "H3 Headers Typography"
+msgstr "H3 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:114
+msgid "Manage the typography for all H3 Headers."
+msgstr "Verwalten Sie die Typografie für alle H3-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:132
+msgid "H4 Headers Typography"
+msgstr "H4 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:133
+msgid "Manage the typography for all H4 Headers."
+msgstr "Verwalten Sie die Typografie für alle H4-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:151
+msgid "H5 Headers Typography"
+msgstr "H5 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:152
+msgid "Manage the typography for all H5 Headers."
+msgstr "Verwalten Sie die Typografie für alle H5-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:170
+msgid "H6 Headers Typography"
+msgstr "H5 Kopfzeilen Typographie"
+
+#: theme/theme-options/liquid-typography.php:171
+msgid "Manage the typography for all H6 Headers."
+msgstr "Verwalten Sie die Typografie für alle H6-Überschriften."
+
+#: theme/theme-options/liquid-typography.php:190
+msgid "Custom fonts"
+msgstr "Benutzerdefinierte Schriften"
+
+#: theme/theme-options/liquid-typography.php:197
+msgid "Add Custom Fonts"
+msgstr "Benutzerdefinierte Schriften hinzufügen"
+
+#: theme/theme-options/liquid-typography.php:198
+msgid ""
+"Upload custom font. All files are not necessary but are recommended for full "
+"browser support. You can upload as many custom fonts as you need. Click the "
+"\"Add\" button for additional upload boxes."
+msgstr ""
+"Hochladen einer benutzerdefinierten Schriftart. Alle Dateien sind nicht "
+"erforderlich, werden aber für die volle Browserunterstützung empfohlen. Sie "
+"können so viele benutzerdefinierte Schriften hochladen, wie Sie benötigen. "
+"Klicken Sie auf die Schaltfläche \"Hinzufügen\", um weitere Upload-Boxen "
+"anzuzeigen."
+
+#: theme/theme-options/liquid-typography.php:207
+msgid "Font title"
+msgstr "Titel der Schrift"
+
+#: theme/theme-options/liquid-typography.php:215
+msgid "WOFF2"
+msgstr "WOFF2"
+
+#: theme/theme-options/liquid-typography.php:222
+msgid "WOFF"
+msgstr "WOFF"
+
+#: theme/theme-options/liquid-typography.php:229
+msgid "TTF"
+msgstr "TTF"
+
+#: theme/theme-options/liquid-typography.php:236
+msgid "SVG"
+msgstr "SVG"
+
+#: theme/theme-options/liquid-woocommerce.php:4
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: theme/theme-options/liquid-woocommerce.php:11
+msgid "Woo Category Title Bar"
+msgstr "Woo Kategorie Titelleiste"
+
+#: theme/theme-options/liquid-woocommerce.php:12
+msgid "Turn on to show the woo category title bar"
+msgstr ""
+"Aktivieren Sie diese Option, um die Titelleiste der Woo-Kategorie anzuzeigen."
+
+#: theme/theme-options/liquid-woocommerce.php:22
+msgid "Woo Category Title"
+msgstr "Woo Kategorie Titel"
+
+#: theme/theme-options/liquid-woocommerce.php:23
+msgid "Controls the title text that displays in the woo category"
+msgstr "Steuert den Titeltext, der in der Woo-Kategorie angezeigt wird."
+
+#: theme/theme-options/liquid-woocommerce.php:28
+msgid "Woo Category Subtitle"
+msgstr "Woo Kategorie Untertitel"
+
+#: theme/theme-options/liquid-woocommerce.php:29
+msgid "Controls the subtitle text that displays in the woo category"
+msgstr "Steuert den Untertiteltext, der in der Woo-Kategorie angezeigt wird."
+
+#: theme/theme-options/liquid-woocommerce.php:34
+msgid "Number of Products Displayed per Page"
+msgstr "Anzahl der angezeigten Produkte pro Seite"
+
+#: theme/theme-options/liquid-woocommerce.php:35
+msgid ""
+"This option works with predefined WooCommerce catalog page and category pages"
+msgstr ""
+"Diese Option funktioniert mit vordefinierten WooCommerce Katalogseiten und "
+"Kategorieseiten."
+
+#: theme/theme-options/liquid-woocommerce.php:41
+msgid "Number of Products Per Row"
+msgstr "Anzahl der Produkte pro Reihe"
+
+#: theme/theme-options/liquid-woocommerce.php:42
+msgid ""
+"Define number of products per row to display on your predefined WooCommerce "
+"page and category pages"
+msgstr ""
+"Definieren Sie die Anzahl der Produkte pro Zeile, die auf Ihrer "
+"vordefinierten WooCommerce-Seite und Kategorieseiten angezeigt werden sollen."
+
+#: theme/theme-options/liquid-woocommerce.php:50
+msgid "Woo Single Product Share"
+msgstr "Woo Einzelproduktanteil"
+
+#: theme/theme-options/liquid-woocommerce.php:51
+msgid "Turn on to show the share links"
+msgstr "Aktivieren Sie diese Option, um die Freigabelinks anzuzeigen."
+
+#: theme/theme-options/liquid-woocommerce.php:61
+msgid "Number of Related Products"
+msgstr "Anzahl der verwandten Produkte"
+
+#: theme/theme-options/liquid-woocommerce.php:62
+msgid "Define number of related products."
+msgstr "Definieren Sie die Anzahl der verwandten Produkte."
+
+#: theme/theme-options/liquid-woocommerce.php:70
+msgid "Number of Displayed Cross-sells"
+msgstr "Anzahl der angezeigten Cross-Sells"
+
+#: theme/theme-options/liquid-woocommerce.php:71
+msgid "Define number of cross-sells display."
+msgstr "Anzahl der Cross-Selling-Anzeigen festlegen."
+
+#: theme/theme-options/liquid-woocommerce.php:79
+msgid "Number of Displayed Up-sells"
+msgstr "Anzahl der angezeigten Up-Sells"
+
+#: theme/theme-options/liquid-woocommerce.php:80
+msgid "Define number of up-sells display."
+msgstr "Definieren Sie die Anzahl der Up-Selling-Anzeigen."
+
+#: woocommerce/cart/cart-empty.php:31
+msgid "Return To Shop"
+msgstr "Zurück zum Shop"
+
+#: woocommerce/cart/cart-shipping.php:58
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+"Die Versandkosten werden berechnet, sobald Sie Ihre Adresse angegeben haben."
+
+#: woocommerce/cart/cart-shipping.php:60
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Es sind keine Versandarten verfügbar. Bitte überprüfen Sie Ihre Adresse "
+"nochmals oder kontaktieren Sie uns, wenn Sie Hilfe benötigen."
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Total"
+msgstr "Warenkorb Gesamt"
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr "Versandkosten"
+
+#: woocommerce/cart/cart-totals.php:68
+#, php-format
+msgid "estimated for %s"
+msgstr "geschätzt für %s"
+
+#: woocommerce/cart/cart-totals.php:89 woocommerce/cart/cart-totals.php:90 
+#: woocommerce/cart/header-mini-cart.php:109 woocommerce/cart/mini-cart.php:84 
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95 
+#: woocommerce/cart/cart.php:58 woocommerce/cart/cart.php:132 
+#: woocommerce/checkout/review-order.php:103
+msgid "Total"
+msgstr "Gesamt"
+
+#: woocommerce/cart/cart.php:26 woocommerce/checkout/form-checkout.php:34 
+#: woocommerce/checkout/thankyou.php:27
+msgid "1"
+msgstr "1"
+
+#: woocommerce/cart/cart.php:27 woocommerce/checkout/form-checkout.php:35 
+#: woocommerce/checkout/thankyou.php:28
+msgid "Shopping Cart"
+msgstr "Warenkorb"
+
+#: woocommerce/cart/cart.php:34 woocommerce/checkout/form-checkout.php:42 
+#: woocommerce/checkout/thankyou.php:35
+msgid "2"
+msgstr "2"
+
+#: woocommerce/cart/cart.php:35 woocommerce/checkout/form-checkout.php:43 
+#: woocommerce/checkout/thankyou.php:36
+msgid "Payment and Delivery Options"
+msgstr "Zahlungs- und Lieferoptionen"
+
+#: woocommerce/cart/cart.php:42 woocommerce/checkout/form-checkout.php:50 
+#: woocommerce/checkout/thankyou.php:43
+msgid "3"
+msgstr "3"
+
+#: woocommerce/cart/cart.php:43 woocommerce/checkout/form-checkout.php:51 
+#: woocommerce/checkout/thankyou.php:44
+msgid "Order Received"
+msgstr "Auftragseingang"
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/cart.php:75
+msgid "Product"
+msgstr "Produkt"
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/cart.php:108
+msgid "Price"
+msgstr "Preis"
+
+#: woocommerce/cart/cart.php:57 woocommerce/cart/cart.php:114 
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Menge"
+
+#: woocommerce/cart/cart.php:101
+msgid "Available on backorder"
+msgstr "Verfügbar bei Nachbestellung"
+
+#: woocommerce/cart/cart.php:143 woocommerce/cart/header-mini-cart.php:55 
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr "Diesen Artikel entfernen"
+
+#: woocommerce/cart/cart.php:163
+msgid "Coupon code"
+msgstr "Gutschein-Code"
+
+#: woocommerce/cart/cart.php:164
+msgid "Apply Coupon"
+msgstr "Gutschein anwenden"
+
+#: woocommerce/cart/cart.php:178
+msgid "Continue Shopping"
+msgstr "Weiter einkaufen"
+
+#: woocommerce/cart/cart.php:180 woocommerce/cart/cart.php:181
+msgid "Update cart"
+msgstr "Warenkorb aktualisieren"
+
+#: woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr "Das könnte Sie auch interessieren&hellip;"
+
+#: woocommerce/cart/header-mini-cart.php:31
+msgid "Your cart"
+msgstr "Ihr Warenkorb"
+
+#: woocommerce/cart/header-mini-cart.php:100 woocommerce/cart/mini-cart.php:76
+msgid "No products in the cart."
+msgstr "Keine Produkte im Warenkorb."
+
+#: woocommerce/cart/header-mini-cart.php:115 woocommerce/cart/mini-cart.php:90
+msgid "Checkout"
+msgstr "Zur Kasse"
+
+#: woocommerce/cart/header-mini-cart.php:121 woocommerce/cart/mini-cart.php:89
+msgid "View Cart"
+msgstr "Warenkorb anzeigen"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr "Zur Kasse gehen"
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr "Versand berechnen"
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr "Wählen Sie ein Land aus&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:51 
+#: woocommerce/cart/shipping-calculator.php:57 
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "State / county"
+msgstr "Bundesland / Landkreis"
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select a state&hellip;"
+msgstr "Wählen Sie einen Status aus&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:79
+msgid "City"
+msgstr "Stadt"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Postcode / ZIP"
+msgstr "Postleitzahl / PLZ"
+
+#: woocommerce/cart/shipping-calculator.php:89
+msgid "Update Totals"
+msgstr "Summen aktualisieren"
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Es gibt einige Probleme mit den Artikeln in Ihrem Warenkorb (siehe oben). "
+"Bitte gehen Sie zurück zur Warenkorbseite und lösen Sie diese Probleme, "
+"bevor Sie zur Kasse gehen."
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return To Cart"
+msgstr "Zurück zum Warenkorb"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Sie müssen eingeloggt sein, um zur Kasse zu gehen."
+
+#: woocommerce/checkout/form-checkout.php:70
+msgid "Your order"
+msgstr "Ihre Bestellung"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "Wiederkehrender Kunde?"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "Klicken Sie hier, um sich anzumelden"
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+"Wenn Sie bereits bei uns eingekauft haben, geben Sie bitte unten Ihre Daten "
+"ein. Wenn Sie ein neuer Kunde sind, gehen Sie bitte zum Bereich "
+"Rechnungsstellung &amp; Versandkosten."
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr "Versand an eine andere Adresse?"
+
+#: woocommerce/checkout/form-shipping.php:63 
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "Zusätzliche Informationen"
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Sorry, es scheint, dass es keine verfügbaren Zahlungsmethoden für Ihr "
+"Bundesland gibt. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen oder "
+"andere Vereinbarungen treffen möchten."
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Bitte geben Sie Ihre Daten oben ein, um die verfügbaren Zahlungsmethoden zu "
+"sehen."
+
+#: woocommerce/checkout/payment.php:40
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Da Ihr Browser kein JavaScript unterstützt oder deaktiviert ist, stellen Sie "
+"bitte sicher, dass Sie vor Ihrer Bestellung auf die Schaltfläche <em>Summen "
+"aktualisieren</em> klicken. Wenn Sie dies nicht tun, kann es vorkommen, dass "
+"Ihnen mehr als der oben genannte Betrag in Rechnung gestellt wird."
+
+#: woocommerce/checkout/payment.php:41
+msgid "Update totals"
+msgstr "Summen aktualisieren"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+"Leider kann Ihre Bestellung nicht bearbeitet werden, da die ausführende "
+"Bank/Händlerin Ihre Transaktion abgelehnt hat. Bitte versuchen Sie Ihren "
+"Kauf erneut."
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Pay"
+msgstr "Bezahlen"
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "My account"
+msgstr "Mein Konto"
+
+#: woocommerce/checkout/thankyou.php:66 woocommerce/checkout/thankyou.php:108
+msgid "Thank you. Your order has been received."
+msgstr "Vielen Dank. Ihre Bestellung ist eingegangen."
+
+#: woocommerce/checkout/thankyou.php:71
+msgid "Order number:"
+msgstr "Bestellnummer:"
+
+#: woocommerce/checkout/thankyou.php:76
+msgid "Date:"
+msgstr "Datum:"
+
+#: woocommerce/checkout/thankyou.php:82
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: woocommerce/checkout/thankyou.php:88
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: woocommerce/checkout/thankyou.php:94
+msgid "Payment method:"
+msgstr "Zahlungsmethode:"
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s Menge"
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Menge"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Anzeige des Einzelergebnisses"
+msgstr[1] "Alle %d Ergebnisse anzeigen"
+
+#: woocommerce/loop/result-count.php:35
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Anzeige des Einzelergebnisses"
+msgstr[1] "Anzeige von %1$d&ndash;%2$d der %3$d Ergebnisse"
+
+#: woocommerce/loop/sale-flash.php:29
+msgid "Sold Out"
+msgstr "Ausverkauft"
+
+#: woocommerce/loop/sale-flash.php:36
+msgid "Sale!"
+msgstr "Ausverkauf!"
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s Bewertung für %2$s"
+msgstr[1] "%1$s Bewertungen für %2$s"
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr "Rezensionen"
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr "Es gibt noch keine Bewertungen."
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr "Eine Rezension hinzufügen"
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Seien Sie der Erste, der &ldquo;%s&rdquo bewertet;"
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Eine Antwort auf %s hinterlassen"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Rate&hellip;"
+msgstr "Bewerten&hellip;"
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Perfect"
+msgstr "Perfekt"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Good"
+msgstr "Gut"
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Average"
+msgstr "Durchschnitt"
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Not that bad"
+msgstr "Nicht so schlecht"
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Very poor"
+msgstr "Sehr schwach"
+
+#: woocommerce/single-product-reviews.php:109
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Sie müssen <a href=\"%s\">eingeloggt sein</a>, um eine Rezension zu "
+"schreiben."
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Review"
+msgstr "Rezension"
+
+#: woocommerce/single-product-reviews.php:127
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Nur eingeloggte Kunden, die dieses Produkt gekauft haben, können eine "
+"Bewertung abgeben."
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dieses Produkt ist derzeit nicht auf Lager und nicht verfügbar."
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr "Löschen"
+
+#: woocommerce/single-product/add-to-cart/variation.php:23
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Dieses Produkt ist leider nicht verfügbar. Bitte wählen Sie eine andere "
+"Kombination."
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:34
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/product-image.php:50
+msgid "Awaiting product image"
+msgstr "Auf ein Produktbild wartend"
+
+#: woocommerce/single-product/related.php:31
+msgid "Related Products"
+msgstr "Verwandte Produkte"
+
+#: woocommerce/single-product/stock.php:26
+msgid "Availability: "
+msgstr "Verfügbarkeit: "
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "Beschreibung"
+
+#: woocommerce/single-product/up-sells.php:32
+msgid "You may also like&hellip;"
+msgstr "Ihnen könnte auch gefallen&hellip;"

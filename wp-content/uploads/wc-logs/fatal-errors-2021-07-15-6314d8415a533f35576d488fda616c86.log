@@ -1,0 +1,4 @@
+2021-07-15T18:42:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\JammyDev\Weapon-WP\weapon\wp-includes\Requests\Transport\cURL.php on line 437
+
+2021-07-15T18:48:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\JammyDev\Weapon-WP\weapon\wp-content\plugins\ave-core\libs\core-importer\LiquidDownload.php on line 109
+

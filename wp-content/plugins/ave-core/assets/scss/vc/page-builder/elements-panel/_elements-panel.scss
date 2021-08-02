@@ -1,0 +1,340 @@
+.vc_ui-panel-content-container {
+	overscroll-behavior: contain;
+}
+.vc_ui-panel-header-container {
+	border-radius: 5px 5px 0 0;
+	position: relative;
+	@include gradient-bg;
+	
+	&:before {
+		content: '';
+		display: inline-block;
+		width: 80px;
+		height: 32px;
+		position: absolute;
+		bottom: 0;
+		right: 22px;
+		background-image: url(../img/logo/ave-vc.svg);
+		background-size: cover;
+	}
+}
+.vc_ui-panel-window-inner {
+	border-radius: 5px;
+	box-shadow: 0 5px 50px rgba(#000, 0.09);
+}
+.vc_add-element-container {
+	
+	.wpb-content-layouts {
+		margin-left: -2px;
+		margin-right: -2px;
+		
+		&:before,
+		&:after {
+			content: '';
+			display: table;
+		}
+		&:after {
+			clear: both;
+		}
+		.wpb-layout-element-button {
+			border: none !important;
+			background: none;
+			padding-left: 2px;
+			padding-right: 2px;
+			margin-bottom: 4px;
+			overflow: visible;
+			
+			.vc_el-container {
+				display: flex;
+				flex-flow: row wrap;
+				align-items: stretch;
+				position: relative;
+				border-radius: 6px;
+				background-color: #F3F5F6;
+				
+				&:before {
+					content: '';
+					display: inline-block;
+					width: 100%;
+					height: 100%;
+					position: absolute;
+					top: 0;
+					left: 0;
+					border-radius: inherit;
+					@include gradient-bg;
+					opacity: 0;
+					transition: opacity 0.3s;
+				}
+			}
+			a {
+				display: flex;
+				padding-left: 60px !important;
+				padding-right: 10px;
+				flex-direction: column;
+				justify-content: center;
+				flex: 1 auto;
+				color: $color-primary;
+				
+				span {
+					position: relative;
+				}
+				i,
+				span {
+					z-index: 2;
+				}
+				.vc_element-icon {
+					left: 12px;
+				}
+				&:before {
+					content: '';
+					display: inline-block;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					top: 50%;
+					left: 8px;
+					margin-top: -19px;
+					border-radius: 14px;
+					background-color: #fff;
+					box-shadow: 0 8px 20px rgba(#000, 0.1);
+					opacity: 0;
+					transition: opacity 0.3s;
+				}
+			}
+			&:hover {
+				z-index: 2;
+				
+				.vc_el-container {
+					@include box-shadow;
+					
+					&:before {
+						opacity: 1;
+					}
+				}
+				a {
+					color: #fff !important;
+					
+					&:before {
+						opacity: 1;
+					}
+					span {
+						color: inherit !important;
+					}
+				}
+			}
+		}
+	}
+}
+.vc_ui-panel-header {
+	position: relative;
+	z-index: 2;
+	
+	.vc_ui-panel-header-heading {
+		@include system-ui-font;
+		font-weight: 600;
+		font-size: 17px;
+	}
+}
+.vc_general {
+	
+	&.vc_ui-tabs-line {
+		
+		.vc_ui-tabs-line-trigger {
+			@include system-ui-font;
+			font-weight: 500;
+			font-size: 15px;
+			padding: 14px 18px;
+		}
+		.vc_ui-tabs-line-dropdown-toggle {
+			background-color: rgba(#000, 0.3);
+			border-radius: 5px 5px 0 0;
+		}
+	}
+}
+
+.vc_ui-panel-footer-container {
+	background-color: #F3F5F8;
+	border-radius: 0 0 5px 5px;
+}
+
+.vc_properties-list {
+	
+	select,
+	input[type=number],
+	input[type=text] {
+		height: 44px;
+		padding-left: 25px;
+		padding-right: 25px;
+		border: none;
+		border-radius: 5px;
+		background-color: $color-input-fill;
+		box-shadow: 0 7px 20px rgba(#301F53, 0.07);
+		color: #3C3C3C;
+		transition: background 0.25s, box-shadow 0.25s;
+		
+		&:focus {
+			background-color: lighten($color-input-fill, 4%);
+			box-shadow: 0 5px 18px rgba(#301F53, 0.1);
+		}
+	}
+	select {
+		text-indent: 17px;
+	}
+	.vc_checkbox-label {
+		display: inline-flex;
+		min-height: 36px;
+		border-radius: 50em;
+		position: relative;
+		align-items: center;
+		margin-bottom: 10px;
+		
+		span.checkbox,
+		input[type=checkbox] {
+			display: inline-block;
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			border-radius: inherit;
+			z-index: 0;
+		}
+		span.checkbox {
+			width: 76px;
+			height: 36px;
+			z-index: 0;
+			text-indent: -99999px;
+			background-color: #C1C7D1;
+			transition: background-color 0.3s;
+			
+			&:before {
+				content: 'Off';
+				display: inline-block;
+				position: absolute;
+				top: 50%;
+				right: 12px;
+				text-transform: uppercase;
+				font-size: 10px;
+				line-height: 1em;
+				letter-spacing: 0.015em;
+				color: #fff;
+				font-weight: 600;
+				text-indent: 0;
+				transform: translateY(-50%);
+				transition: transform 0.15s ease-out;
+			}
+			&:after {
+				content: '';
+				display: inline-block;
+				width: 30px;
+				height: 30px;
+				position: absolute;
+				top: 3px;
+				left: 3px;
+				border-radius: 50em;
+				background-color: #fff;
+				transition: transform 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+			}
+			+ span {
+				width: auto;
+				height: auto;
+				text-indent: 0;
+				padding-left: 85px;
+			}
+		}
+		input[type=checkbox] {
+			z-index: 1;
+			opacity: 0;
+			
+			&:checked {
+				
+				+ span.checkbox {
+					background-color: $color-success;
+					
+					&:before {
+						content: 'On';
+						transform: translate(-35px, -50%);
+					}
+					&:after {
+						transform: translateX(40px);
+					}
+				}
+			}
+		}
+	}
+}
+
+.vc_edit_form_elements {
+	
+	.vc_column {
+		margin-bottom: 5px;
+	}
+}
+
+.vc_element_label,
+.wpb_element_label {
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	border-bottom: 1px solid #F4F6F9;
+	@include system-ui-font;
+	font-weight: 600;
+	font-size: 17px;
+	color: #2F313B;
+}
+.wpb_el_type_subheading {
+	margin-bottom: 4em;
+	
+	.wpb_element_label {
+		padding: 0;
+		border: none;
+	}
+}
+.vc_description {
+	margin-top: 15px;
+	font-size: 13px;
+	color: #727272;
+	font-style: italic;
+	
+	a {
+		color: #000;
+		
+		&:hover {
+			color: $color-primary;
+		}
+	}
+}
+.vc_element-icon.fa {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: none;
+	text-align: center;
+	font-size: 14px;
+	border-radius: 12px;
+	color: #fff;
+	background: $color-primary;
+}
+
+.wpb_el_type_subheading {
+	margin: 2em 15px 1em;
+	padding: 11px 15px !important;
+	background-color: #f1f1f1;
+}
+.vc_edit-form-tab .wpb_el_type_subheading:first-child {
+	margin-top: 0;
+}
+
+.wpb_el_type_subheading .wpb_element_label {
+	font-size: 15px;
+	color: #555;
+	margin: 0;
+}
+.wpb_el_type_subheading .vc_description {
+	color: #fff;
+	font-size: 13px;
+	letter-spacing: 0.04em;
+	font-style: normal;
+	margin-top: 5px;
+}
+
+@import 'buttons';

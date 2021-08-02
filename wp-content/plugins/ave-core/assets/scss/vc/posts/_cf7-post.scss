@@ -1,0 +1,14 @@
+/* Hiding Header modules */.post-type-cf7_vc .vc_ui-panel-header-header .vc_ui-panel-header-actions {
+	display: none !important;
+}
+.post-type-cf7_vc .wpb-elements-list .wpb-layout-element-button.vc_visible {
+	display: none;
+}
+.post-type-cf7_vc .wpb-elements-list [data-element=vc_cf7_elements].vc_visible,
+.post-type-cf7_vc .wpb-elements-list [data-element=ld_spacer].vc_visible,
+.post-type-cf7_vc .wpb-elements-list [data-element=vc_column_text].vc_visible {
+	display: block;
+}
+.vc_add-element-container .wpb-content-layouts [data-element=contact-form-7] {
+	display: none !important;
+}

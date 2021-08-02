@@ -1,0 +1,35 @@
+@import 'variables';
+@import 'mixins';
+
+// Editor
+@import './vc-frontend/frontend-editor';
+
+// Elements
+.vc_ld_flipbox:first-child .vc_controls-container .vc_controls-out-tl,
+.vc_ld_flipbox:only-child .vc_controls-container .vc_controls-out-tl,
+.vc_ld_carousel:first-child .vc_controls-container .vc_controls-out-tl,
+.vc_ld_carousel:only-child .vc_controls-container .vc_controls-out-tl {
+	top: 1px;
+}
+.vc_ld_flipbox:first-child .vc_control-btn-append,
+.vc_ld_flipbox:only-child .vc_control-btn-append,
+.vc_ld_carousel:first-child .vc_control-btn-append,
+.vc_ld_carousel:only-child .vc_control-btn-append {
+	top: -5px;
+	transform: rotate(180deg);
+}
+.compose-mode .vc_element.vc_ld_images_group_element > .liquid-img-group-single.pos-reset {
+	position: relative !important;
+	top: auto !important;
+	right: auto !important;
+	bottom: auto !important;
+	left: auto !important;
+}
+.compose-mode .vc_element.vc_ld_images_group_element:hover .liquid-img-group-single .vc_controls {
+	opacity: 1;
+	visibility: visible;
+}
+
+
+@import './vc-frontend/elements/flipbox';
+@import './vc-frontend/elements/spacer';

@@ -1,0 +1,134 @@
+.wp-admin {
+
+	.redux-main {
+
+		a.deletion.redux-multi-text-remove,
+		.button {
+			height: auto;
+			padding: 9px 19px;
+			border: 1px solid rgba(#000, 0.1);
+			background: none;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+			border-radius: 3px;
+			font-size: 13px;
+			line-height: 1.5em;
+			color: #000;
+			text-shadow: none;
+			text-decoration: none; 
+			transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+		}
+		.button-primary {
+			background-color: $color-success;
+			border-color: transparent;
+			color: #fff;
+		}
+		.insert-media {
+			padding: 4px 8px;
+			background-color: #f5f5f5;
+		}
+		.remove-image,
+		.media_upload_button,
+		.redux-multi-text-add,
+		.redux-remove-background,
+		a.deletion.redux-multi-text-remove,
+		.redux-background-upload {
+			// display: inline-flex;
+			// padding: 0;
+			// border: none;
+			// flex-flow: row wrap;
+			// align-items: center;
+			// background: none !important;
+			// text-decoration: none !important;
+
+			// &:before {
+			// 	content: '';
+			// 	display: inline-flex;
+			// 	width: 41px;
+			// 	height: 41px;
+			// 	border-radius: 50em;
+			// 	margin-right: 15px;
+			// 	align-items: center;
+			// 	justify-content: center;
+			// 	font-family: fontAwesome;
+			// 	font-size: 21px;
+			// 	color: #fff;
+			// 	box-shadow: 0 0 0 rgba(#000, 0);
+			// 	background-repeat: no-repeat;
+			// 	background-position: center;
+			// 	transition: box-shadow 0.3s, transform 0.3s;
+			// }
+			&:hover {
+				// background-color: lighten($color-success, 3%);
+
+				// &:before {
+				// 	transform: translateY(-3px);
+				// }
+			}
+		}
+		a.deletion.redux-multi-text-remove {
+			padding-top: 13px;
+			padding-bottom: 13px;
+		}
+		.redux-multi-text-add,
+		a.deletion.redux-multi-text-remove {
+
+			// &:before {
+			// 	font-size: 14px;
+			// }
+		}
+		.media_upload_button,
+		.redux-multi-text-add,
+		.redux-background-upload {
+			border-color: transparent;
+			background-color: $color-success;
+			color: #fff;
+
+			// &:before {
+			// 	content: '';
+			// 	background-color: $color-success;
+			// 	background-image: url(../img/redux/upload.svg);
+			// }
+
+			&:hover {
+				background-color: lighten($color-success, 4%);
+			}
+		}
+		.redux-multi-text-add {
+			// color: #000;
+
+			// &:before {
+			// 	background-image: url(../img/redux/plus.svg);
+			// }
+		}
+		.remove-image,
+		a.deletion.redux-multi-text-remove,
+		.redux-remove-background {
+			background-color: $color-danger;
+			border-color: transparent;
+			color: #fff;
+			// margin-left: 28px;
+
+			// &:before {
+			// 	background-color: $color-danger;
+			// 	background-image: url(../img/redux/minus.svg);
+			// }
+			&:hover {
+				background-color: lighten($color-danger, 4%);
+			}
+		}
+		a.deletion.redux-multi-text-remove {
+
+			// &:before {
+			// 	content: '\f068';
+			// }
+			// &:hover {
+			// 	color: $color-danger !important;
+			// }
+		}
+		.redux-repeaters-remove {
+			background-color: $color-danger;
+			color: #fff !important;
+		}
+	}
+}

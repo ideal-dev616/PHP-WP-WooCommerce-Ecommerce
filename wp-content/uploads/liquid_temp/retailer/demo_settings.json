@@ -1,0 +1,18 @@
+{
+	"home_page_title": "Retail Homepage",
+	"blog_page_title": "Blog",
+	"sliders": {
+		"revslider": "slider-11.zip"
+	},
+	"menus": {
+		"primary": "Main Nav"
+	},
+	"templates": {
+		"header-template": "Retail Header",
+		"footer-template": "Retail Footer"
+	},
+	"content_plugins": {
+		"revslider": "Slider Revolution",
+		"woocommerce": "Woocommerce"
+	}
+}

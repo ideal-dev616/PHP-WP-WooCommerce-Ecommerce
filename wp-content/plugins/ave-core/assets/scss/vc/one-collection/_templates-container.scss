@@ -1,0 +1,17 @@
+.liquid-templates-container {
+	background-color: #F4F5F9;
+	height: 100%;
+	overflow-y: auto;
+
+	&[data-filtered-items=header] {
+
+		.vc_ui-template {
+			width: 100%;
+		}
+	}
+}
+.vc_ui-template-list {
+	display: flex;
+	flex-flow: row wrap;
+	padding: 40px 3%;
+}

@@ -1,0 +1,12 @@
+.vc_ld_flipbox .ld-flipbox-front {
+	margin-bottom: 15px;
+}
+.vc_ld_flipbox .ld-flipbox-back {
+	position: relative;
+	top: auto;
+	left: auto;
+	transform: none;
+}
+.vc_ld_flipbox:hover .ld-flipbox-wrap {
+	transform: none !important;
+}

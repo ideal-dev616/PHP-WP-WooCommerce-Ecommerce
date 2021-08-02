@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="19px" viewBox="0 0 25 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>check - material</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF757A" offset="0%"></stop>
+            <stop stop-color="#425FFF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="12.7416666 28.192 27.2946666 13.606 29.2416666 15.553 12.7416666 32.053 5.08566665 24.397 6.99966665 22.45"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard---Welcome---Final" transform="translate(-882.000000, -582.000000)">
+            <g id="Group-2-Copy" transform="translate(826.000000, 477.000000)">
+                <g id="Group-4" transform="translate(51.000000, 92.000000)">
+                    <g id="check---material">
+                        <use fill="#100F28" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

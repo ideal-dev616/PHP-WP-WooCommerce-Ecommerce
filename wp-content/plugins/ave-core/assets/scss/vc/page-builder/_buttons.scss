@@ -1,0 +1,21 @@
+.vc_ui-button {
+
+	&.vc_ui-button-default {
+		background-color: transparent;
+		color: #000;
+
+		&:hover {
+			background-color: darken($color-gr-end, 5%);
+			color: #fff;
+		}
+	}
+	&.vc_ui-button-success,
+	&.vc_ui-button-action {
+		float: left;
+		background-color: $color-success;
+
+		&:hover {
+			background-color: lighten($color-success, 5%);
+		}
+	}
+}

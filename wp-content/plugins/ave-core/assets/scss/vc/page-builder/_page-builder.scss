@@ -1,0 +1,10 @@
+.vc_ui-font-open-sans {
+	@include system-ui-font;
+	font-weight: 400;
+}
+
+@import	'./buttons';
+@import	'./switch-buttons';
+@import	'./navbar';
+@import	'./welcome-view/welcome-view';
+@import	'./elements-panel/elements-panel';

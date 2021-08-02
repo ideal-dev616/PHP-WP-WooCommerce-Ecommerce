@@ -1,0 +1,136 @@
+.vc_templates-panel {
+	
+	&:before {
+		content: '';
+		display: inline-block;
+		width: 100vw;
+		height: 100vh;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 0;
+		background-color: rgba(#000, 0.8);
+	}
+	.vc_ui-panel-content-container {
+		z-index: 2;
+	}
+	.vc_ui-panel-content {
+		// padding-top: 0;
+		// padding-bottom: 0;
+	}
+	.vc_panel-tabs {
+		height: 100%;
+	}
+	[data-tab=liquid_templates] {
+		padding: 0;
+		height: calc( 100% + 36px);
+		margin-top: -18px;
+		margin-left: -18px;
+		margin-right: -18px;
+
+		[data-vc-panel-message] {
+			display: none !important;
+		}
+	}
+	.vc_ui-panel-header-heading {
+		display: none;
+	}
+	.vc_ui-panel-header-controls {
+		position: absolute;
+		top: -8px;
+		right: 0;
+	}
+	.vc_ui-panel-header-actions {
+		position: absolute;
+		top: -8px;
+		right: 100px;
+		margin: 0;
+
+		.vc_ui-search-box-input {
+			
+			input[type=search] {
+				height: 35px;
+				padding: 0;
+				border-radius: 0;
+				border: none;
+				background: none;
+				border-bottom: 2px solid rgba(#fff, 0.3);
+				box-shadow: none;
+				font-size: 13px;
+				font-weight: 500;
+				color: #fff;
+
+				&::-webkit-input-placeholder {
+					color: #fff;
+				}
+				&::-moz-placeholder {
+					color: #fff;
+				}
+				&:-ms-input-placeholder {
+					color: #fff;
+				}
+				&:focus {
+					border-color: #fff;
+				}
+			}
+			label {
+				left: -44px;
+				font-size: 28px;
+				color: #fff !important;
+			}
+		}
+	}
+	.vc_ui-template-panel-header-container {
+		padding: 30px 40px;
+
+		&:before {
+			content: none;
+		}
+	}
+	.vc_ui-panel-header-content {
+		display: inline-block;
+	}
+	.vc_general.vc_ui-tabs-line > {
+		
+		.vc_panel-tabs-control {
+	
+			> .vc_ui-tabs-line-trigger {
+				padding: 0;
+				border: none;
+				position: relative;
+				color: rgba(#fff, 0.57);
+				background: none !important;
+
+				&:after {
+					content: '';
+					display: inline-block;
+					width: 100%;
+					height: 2px;
+					position: absolute;
+					bottom: -10px;
+					left: 0;
+					color: inherit;
+					background-color: currentColor;
+					opacity: 0;
+					transform: translateY(3px);
+					transition: transform 0.3s, opacity 0.3s;
+				}
+			}
+			+ .vc_panel-tabs-control {
+				margin-left: 40px;
+			}
+			&:hover,
+			&.vc_active {
+				
+				> .vc_ui-tabs-line-trigger {
+					color: #fff;
+
+					&:after {
+						opacity: 1;
+						transform: translateY(0);
+					}
+				}
+			}
+		}
+	}
+}

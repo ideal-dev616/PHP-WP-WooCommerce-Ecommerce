@@ -1,0 +1,16 @@
+.redux-container {
+	background: #202530;
+
+	* {
+
+		&,
+		&:before,
+		&:after {
+			box-sizing: border-box;
+		}
+	}
+}
+
+@import 'action-bar/action-bar';
+@import 'inputs/text-fields';
+@import 'redux-table/redux-table';

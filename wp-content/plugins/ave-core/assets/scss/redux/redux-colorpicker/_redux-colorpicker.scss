@@ -1,0 +1,76 @@
+.wp-admin {
+
+	.redux-container {
+
+		.wp-picker-container {
+			display: inline-flex;
+			padding: 0;
+			
+			.wp-color-result {
+				display: flex;
+				height: 40px !important;
+				padding: 0 0 0 40px;
+				border: none;
+				border-radius: 5px;
+				background: none;
+				flex-flow: row wrap;
+				align-items: stretch;
+				justify-content: stretch;
+				position: relative;
+				
+				&:before,
+				&:after {
+					content: '';
+					display: inline-block;
+					width: 100%;
+					height: 100%;
+					position: absolute;
+					top: 0;
+					left: 0;
+					border-radius: inherit;
+					background-image: url(../img/transparent.png);
+					background-size: 15px;
+					z-index: 0;
+				}
+				&:after {
+					z-index: 1;
+					background: inherit;
+				}
+				.wp-color-result-text {
+					padding-left: 17px;
+					padding-right: 17px;
+					border: none;
+					background: $color-input-fill;
+					flex: 1 auto;
+					line-height: 40px;
+					font-size: 14px;
+					color: #3C3C3C;
+					position: relative;
+					z-index: 2;
+				}
+			}
+			input[type=text].wp-color-picker {
+				height: 40px;
+			}
+			.wp-picker-clear {
+				padding-top: 10px;
+				padding-bottom: 9px;
+			}
+		}
+
+		.redux-container-link_color .linkColor,
+		.redux-container-color_gradient .colorGradient {
+
+			strong {
+				display: block;
+				position: relative;
+				font-size: 12px;
+				text-align: left;
+				color: #999;
+				margin-bottom: 10px;
+				font-weight: 400;
+				cursor: default;
+			}
+		}
+	}
+}

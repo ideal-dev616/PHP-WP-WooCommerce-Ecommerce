@@ -1,0 +1,33 @@
+#wpb_visual_composer {
+
+	.vc_welcome {
+		
+		.vc_ui-button {
+			padding: 16px 23px;
+			@include gradient-bg;
+			border: none;
+			@include box-shadow;
+			transition: box-shadow 0.3s;
+			
+			&:hover {
+				@include box-shadow-hover;
+			}
+		}
+		.vc_ui-help-block {
+			margin-top: 5em;
+			color: $color-text;
+
+			a {
+				color: $color-dark;
+			}
+		}
+	}
+}
+
+.vc_welcome-header {
+	@include system-ui-font;
+	font-weight: 700;
+	line-height: 1.15em;
+	text-transform: none;
+	color: $color-dark;
+}

@@ -1,0 +1,10 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">liquid-header</custom-type>
+		<custom-type translate="1">liquid-footer</custom-type>
+		<custom-type translate="1">liquid-portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">liquid-portfolio-category</taxonomy>
+	</taxonomies>
+</wpml-config>

@@ -1,0 +1,59 @@
+.redux-container {
+
+	.redux-action_bar {
+		@include system-ui-font;
+		font-weight: 500;
+		font-size: 13px;
+	
+		.button {
+			height: auto;
+			padding: 11px 20px;
+			border: 1px solid transparent;
+			background: none;
+			box-shadow: none;
+			border-radius: 3px;
+			color: #000;
+			line-height: 1.5em;
+			text-shadow: none;
+			transition: background 0.3s, color 0.3s;
+	
+			&:hover {
+				text-shadow: none;
+			}
+	
+			+ .button {
+				margin-left: 10px;
+			}
+		}
+		.button-primary {
+			background-color: $color-success;
+			color: #fff;
+	
+			&:hover {
+				background-color: lighten($color-success, 3%);
+			}
+		}
+		#redux-defaults-section-sticky,
+		#redux-defaults-sticky {
+			border-color: rgba(#000, 0.1);
+			
+			&:hover {
+				background-color: saturate($color-danger, 25%);
+				color: #fff;
+			}
+		}
+	}
+	
+	#redux-footer-sticky {
+		
+		#redux-defaults,
+		#redux-defaults-section {
+			border-color: rgba(#000, 0.1);
+			
+			&:hover {
+				background-color: saturate($color-danger, 25%);
+				color: #fff;
+			}
+		}
+	}
+}

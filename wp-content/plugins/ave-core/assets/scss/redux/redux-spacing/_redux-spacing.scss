@@ -1,0 +1,65 @@
+.wp-admin {
+
+	.redux-container {
+
+		.redux-container-spacing {
+
+			.field-spacing-input {
+				display: inline-flex;
+				position: relative;
+				
+				input {
+					width: 120px;
+					height: 44px;
+					padding-left: 55px;
+					border-radius: 5px;
+					text-align: left;
+					box-shadow: none;
+
+					&:focus {
+						background-color: #fff;
+						box-shadow: 0 7px 20px rgba(#301F53, 0.07);
+					}
+				}
+			}
+			.add-on {
+				display: inline-flex;
+				width: 28px;
+				height: 28px;
+				padding: 0;
+				border: none;
+				border-radius: 50em;
+				position: absolute;
+				top: 50%;
+				left: 14px;
+				background: #fff;
+				font-size: 14px;
+				align-items: center;
+				justify-content: center;
+				transform: translateY(-50%);
+
+				i {
+					height: auto;
+					font-family: 'Elusive-Icons' !important;
+					font-size: 11px;
+				}
+			}
+
+			&#liquid_one_opt-ld_woo_columns_margin {
+
+				.field-spacing-input {
+
+					input {
+						width: 100px;
+						padding-left: 5px;
+						padding-right: 5px;
+						text-align: center;
+					}
+				}
+				.add-on {
+					display: none;
+				}
+			}
+		}
+	}
+}

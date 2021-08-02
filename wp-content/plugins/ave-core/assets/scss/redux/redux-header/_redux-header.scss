@@ -1,0 +1,67 @@
+.wp-admin {
+
+	#redux-header {
+		display: flex;
+		width: $redux-sidebar-width;
+		height: 140px;
+		border-bottom: 1px solid rgba(#fff, 0.15);
+		background-color: #202530;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		.display_header {
+			display: flex;
+			align-items: center;
+			margin: 0;
+
+			h2 {
+				display: inline-block;
+				width: 66px;
+				height: 30px;
+				line-height: 1em;
+				text-indent: -99999px;
+				text-align: left;
+				overflow: hidden;
+				position: relative;
+				background-image: url(../img/logo/logo-light.svg);
+				background-size: cover;
+				background-repeat: no-repeat;
+			}
+			span {
+				display: inline-block;
+				margin-left: 15px;
+				padding: 2px 8px;
+				border: 1px solid rgba(#FCFCFC, 0.13);
+				border-radius: 2px;
+				font-size: 12px;
+				color: rgba(#fff, 0.55);
+			}
+
+			.redux-dev-mode-notice-container {
+				top: auto;
+				bottom: 0;
+			}
+		}
+		.rAds {
+			right: auto !important;
+			left: 100% !important;
+			z-index: 10;
+
+			> span {
+				display: block;
+			}
+			a {
+				display: block;
+			}
+			img {
+				width: 100% !important;
+				margin-top: 0 !important;
+			}
+		}
+
+		~ .redux-main {
+			margin-top: -140px;
+		}
+	}
+}

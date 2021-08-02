@@ -1,0 +1,28 @@
+.vc_navbar {
+
+	.vc_navbar-nav {
+
+		> li {
+			float: right;
+		}
+	}
+	.vc_pull-right {
+		float: left !important;
+	}
+	.vc_navbar-btn {
+		margin-left: 21px;
+		margin-right: 5px;
+	}
+}
+
+.vc_subnav-fixed {
+	padding-left: 0;
+	padding-right: 160px;
+}
+
+@media ( min-width: 768px ) {
+
+	.vc_navbar-header {
+		float: right;
+	}
+}

@@ -1,0 +1,22 @@
+.wp-admin {
+
+	#redux_notification_bar {
+		margin: 20px 50px;
+		
+		> div {
+			padding: 0.75em 1.75em;
+			border-radius: 4px;
+			text-shadow: none;
+		}
+		.notice-yellow {
+			background-color: lighten($color-warning, 30%);
+			color: darken($color-warning, 30%);
+			box-shadow: 0 10px 50px rgba($color-warning, 0.1);
+		}
+		.notice-red {
+			background-color: lighten(saturate($color-danger, 50%), 15%);
+			color: darken($color-danger, 40%);
+			box-shadow: 0 10px 50px rgba($color-danger, 0.1);
+		}
+	}
+}

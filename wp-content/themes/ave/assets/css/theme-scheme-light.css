@@ -1,0 +1,185 @@
+/* Name:        One - Color Schemes Written by: 	LiquidThemes */
+/*----------------------------------------
+ [ TABLE OF CONTENTS ]
+
+ 1. COLOR SCHEMES
+		|- 1.1. Scheme light
+
+-----------------------------------------*/
+/* 1. COLOR SCHEMES */
+/* 1.1. Scheme light */
+body.page-scheme-light { color: #a2a2a2; }
+
+body h1, body .h1, body h2, body .h2, body h3, body .h3, body h4, body .h4, body h5, body .h5, body h6, body .h6 { color: #fff; }
+
+body a { color: #fff; }
+
+body a:hover { color: rgba(255, 255, 255, 0.85); }
+
+#content { background-color: #12131a; }
+
+.add-dropcap:first-letter { color: #fff; }
+
+.post-author h3 { color: #fff; }
+
+.related-post-title a { color: inherit; }
+
+.tags-links a { color: #fff; border-color: #fff; }
+
+.post-author { border-color: rgba(137, 138, 147, 0.3); }
+
+.post-author h6 { color: rgba(137, 138, 147, 0.75); }
+
+.post-nav .nav-title { color: #fff; }
+
+.comment-form p:before { background-color: rgba(137, 138, 147, 0.3); }
+
+.comment-form p:after { background-color: #fff; }
+
+.comment-form input, .comment-form textarea { color: #fff; }
+
+.comment-form input[type=submit] { padding-top: 14px; padding-bottom: 14px; border: 1px solid #fff; background-color: transparent; color: #fff; transition: all 0.3s; }
+
+.comment-form input[type=submit]:hover { background-color: #fff; color: #12131a; }
+
+.comment-author { color: #fff; }
+
+.comment .reply a { border-color: rgba(255, 255, 255, 0.55); color: rgba(255, 255, 255, 0.55); }
+
+.comment .reply a:hover { border-color: #fff; background-color: transparent; color: #fff; }
+
+.liquid-blog-scheme-dark { color: #fff; }
+
+.liquid-blog-scheme-dark .btn-line, .liquid-blog-scheme-dark .liquid-lp-title .split-inner:after { background-color: #fff; }
+
+.liquid-blog-scheme-dark-alt .liquid-lp-excerpt { color: white; }
+
+.liquid-lp-details { color: rgba(255, 255, 255, 0.55); }
+
+.blog-single-modern .comments-area, .blog-single-modern .comment-respond, .blog-single-default .comments-area, .blog-single-default .comment-respond, .blog-single-image-left .comments-area, .blog-single-image-left .comment-respond { background-color: #262834; }
+
+.blog-single-modern .comment-author a, .blog-single-default .comment-author a, .blog-single-image-left .comment-author a { color: #fff; }
+
+.blog-single-modern .comment-form .comment-form-author:after, .blog-single-modern .comment-form .comment-form-email:after, .blog-single-modern .comment-form .comment-form-url:after, .blog-single-modern .comment-form .comment-form-comment:after, .blog-single-default .comment-form .comment-form-author:after, .blog-single-default .comment-form .comment-form-email:after, .blog-single-default .comment-form .comment-form-url:after, .blog-single-default .comment-form .comment-form-comment:after, .blog-single-image-left .comment-form .comment-form-author:after, .blog-single-image-left .comment-form .comment-form-email:after, .blog-single-image-left .comment-form .comment-form-url:after, .blog-single-image-left .comment-form .comment-form-comment:after { background-color: #fff; }
+
+.liquid-lp-details-lined:before, .liquid-lp-details-lined:after { background-color: #fff; }
+
+.liquid-lp-time-aside > time { border-color: rgba(255, 255, 255, 0.4); }
+
+.liquid-lp-time-aside > time span { color: #fff; }
+
+.liquid-blog-item-timeline { border-color: #35394c; background-color: #1a1c25; }
+
+.liquid-blog-item-timeline.liquid-blog-scheme-dark .liquid-lp-details { color: rgba(255, 255, 255, 0.55); }
+
+.liquid-lp-category.bordered li:before { background-color: #121319; }
+
+.liquid-lp-sp-block { border-color: #42444c; }
+
+.liquid-lp-sp-block .liquid-lp-inner { background-color: #121319; }
+
+.liquid-lp-sp-block-alt .liquid-lp-category li a { color: #fff; }
+
+.liquid-blog-item-gray { background-color: #22232b; }
+
+.liquid-blog-grid .masonry-item + .masonry-item .liquid-blog-item-gray { border-color: #494b5a; }
+
+.ld-post-author h5 { color: #fff; }
+
+.blog-single-modern .blog-single-cover-bg svg { fill: #02040e; }
+
+.blog-single-modern .byline:hover, .blog-single-modern .cat-links a:hover { color: #fff; }
+
+.blog-single-modern .related-posts { background-color: #02040e; fill: #02040e; }
+
+.pf-single-header.bg-solid { background-color: #12131a; }
+
+.woocommerce .woocommerce-cart-form table.shop_table thead { background-color: #2f3342; color: #fff; }
+
+.woocommerce .woocommerce-cart-form table.shop_table tbody { color: #fff; }
+
+.woocommerce .woocommerce-cart-form table.shop_table tbody tr:nth-child(even) { background-color: #484a52; }
+
+.woocommerce .woocommerce-cart-form table.shop_table .product-name a { color: #fff; }
+
+.woocommerce .woocommerce-cart-form table.shop_table .ld-product-quantity .ui-spinner .ui-button { border-color: rgba(255, 255, 255, 0.15); color: #fff; }
+
+.woocommerce .woocommerce-cart-form table.shop_table .woo-actions-inner .continue_shopping { color: #fff; border-color: rgba(255, 255, 255, 0.15); }
+
+.woocommerce .woocommerce-cart-form table.shop_table .woo-actions-inner .update_cart { background-color: #fff; color: #000; }
+
+.woocommerce .woocommerce-cart-form table.shop_table .woo-actions-inner .update_cart:hover { color: #fff; }
+
+.woocommerce .woocommerce-cart-form .cart-coupon-inner input { background-color: transparent; color: #fff; }
+
+.woocommerce form.woocommerce-checkout #payment, .woocommerce form.woocommerce-checkout table.woocommerce-checkout-review-order-table, .woocommerce form.woocommerce-checkout h3.order_review_heading { background-color: #272938; }
+
+.woocommerce form.woocommerce-checkout table.woocommerce-checkout-review-order-table { color: #fff; }
+
+.woocommerce form.woocommerce-checkout h3.order_review_heading:before { background: linear-gradient(-45deg, #272938 33.333%, transparent 33.333%, transparent 66.667%, #272938 66.667%), linear-gradient(45deg, #272938 33.333%, transparent 33.333%, transparent 66.667%, #272938 66.667%); background-size: 12px 40px; background-position: 0 -20px; }
+
+.woocommerce form.woocommerce-checkout .form-row .select2-selection--single, .woocommerce form.woocommerce-checkout .form-row .input-text, .woocommerce form.woocommerce-checkout .form-row textarea { border-color: rgba(255, 255, 255, 0.15); color: #fff; }
+
+.woocommerce form.woocommerce-checkout .select2-selection--single .select2-selection__rendered { color: #fff; }
+
+.woocommerce form.woocommerce-checkout #payment div.payment_box { color: #fff; }
+
+.woocommerce form.woocommerce-checkout #payment ul.wc_payment_methods li label { color: #fff; }
+
+.lqd-woo-steps { border-color: rgba(255, 255, 255, 0.22); }
+
+.lqd-woo-steps-number { background: #fff; color: #000; }
+
+.lqd-woo-steps-item { color: #fff; }
+
+.lqd-woo-steps-item.is-active .lqd-woo-steps-number { color: #fff; }
+
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message { color: #fff; }
+
+.woocommerce .ui-spinner .ui-spinner-input { color: #fff; }
+
+.text-404 .re-particles-inner:after { box-shadow: 0 0 15px 2px #12131a inset, 0 0 30px 2px #12131a inset, 0 0 45px 2px #12131a inset, 0 0 60px 2px #12131a inset; }
+
+body.search .content .entry-title a { color: #fff; }
+
+body.search .titlebar { border-color: 1px solid rgba(255, 255, 255, 0.07); }
+
+.one-ib-circ-cnt { color: rgba(255, 255, 255, 0.55); }
+
+.one-ib-circ-cnt h3 { color: #fff; }
+
+.content-box-tour, .content-box-classes { background-color: #292b39; }
+
+.content-box-tour .content-box-contents, .content-box-tour .content-box-footer { border-color: #6e6f7b; }
+
+.content-box-tour .content-box-footer h6 { color: #fff; }
+
+.content-box-booking .content-box-header { background-color: #121319; }
+
+.ld-bnr-deal .ld-bnr-content { background-color: #1c1e27; }
+
+.ld-msg { background-color: #292b37; }
+
+.ld-msg .ld-msg-close, .ld-msg h5 { color: #fff; }
+
+.pricing-table-modern h5, .pricing-table-default h5, .pricing-table-colorful h5 { color: #fff; }
+
+.pricing-table-modern ul, .pricing-table-default ul, .pricing-table-colorful ul { color: rgba(255, 255, 255, 0.9); }
+
+.pricing-table-default { border-color: #6c6e75; }
+
+.pricing-table-default .pricing-table-header { background-color: #292b37; }
+
+.pricing-table-colorful { background-color: #292b37; }
+
+.pricing-table-colorful ul li { border-color: #6c6e75; }
+
+.liquid-progressbar-title { color: rgba(255, 255, 255, 0.75); }
+
+.liquid-progressbar-bar { color: #fff; }
+
+.liquid-progressbar-percentage.style-tooltip { background-color: #484a56; }
+
+.liquid-progressbar-percentage.style-tooltip:after { border-top-color: #484a56; }
+
+.ld-ajax-loadmore.all-items-loaded { color: #fff; }

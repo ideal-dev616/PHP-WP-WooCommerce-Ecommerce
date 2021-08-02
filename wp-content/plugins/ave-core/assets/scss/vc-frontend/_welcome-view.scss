@@ -1,0 +1,60 @@
+.compose-mode {
+
+	.vc_welcome {
+		padding-top: 50px;
+		padding-bottom: 80px;
+		@include system-ui-font;
+	}
+	.vc_welcome-header {
+		font-size: 44px;
+		line-height: 1em;
+		text-transform: none;
+		letter-spacing: -0.008em;
+		font-weight: 700;
+		color: #000;
+	}
+	.vc_ui-btn-group {
+
+		.vc_ui-button {
+			border: none;
+			background-color: #EAEBF1;
+			font-size: 14px;
+			font-weight: 600;
+			color: #000;
+			transition: all 0.3s;
+
+			&:before {
+				content: '';
+				display: inline-block;
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				top: 0;
+				left: 0;
+				border-radius: inherit;
+				@include gradient-bg;
+				opacity: 0;
+				transition: opacity 0.3s;
+			}
+			i,
+			span {
+				display: inline-block;
+				position: relative;
+				z-index: 2;
+			}
+			.vc-composer-icon {
+				font-size: 12px;
+				margin-right: 7px;	
+			}
+
+			&:hover {
+				color: #fff;
+				@include box-shadow;
+
+				&:before {
+					opacity: 1;
+				}
+			}
+		}
+	}
+}

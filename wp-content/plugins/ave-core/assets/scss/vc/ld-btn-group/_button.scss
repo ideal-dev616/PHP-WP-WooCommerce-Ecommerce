@@ -1,0 +1,45 @@
+.ld-btn-group {
+	display: inline-block;
+	font-size: 12px;
+	line-height: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	font-weight: 700;
+	border-radius: 4px;
+	position: relative;
+	background: #E9ECEF;
+	
+	.ld-btn {
+		display: inline-block;
+		padding: 1em 1.5em;
+		border-radius: 0;
+		color: #5e5e5e;
+		position: relative;
+		z-index: 2;
+
+		input {
+			width: 0;
+			height: 0;
+			visibility: hidden;
+			position: absolute;
+			top: 0;
+			left: 0;
+
+		}
+		
+		+ .ld-btn {
+			border-left: 1px solid #fff;
+		}
+		&:first-child {
+			border-radius: 2px 0 0 2px;
+		}
+		&:last-child {
+			border-radius: 0 2px 2px 0;
+		}
+		&.active {
+			color: #fff;
+			background-color: $color-primary;
+			box-shadow: 0 10px 20px rgba($color-primary, 0.3);
+		}
+	}
+}

@@ -1,0 +1,32 @@
+.wp-admin {
+
+	.redux-main {
+	
+		#redux-footer-sticky {
+			margin-left: -40px;
+			margin-right: -40px;
+			margin-bottom: -70px;
+			position: relative;
+			
+			&:before {
+				content: '';
+				display: inline-block;
+				width: 100%;
+				height: 3px;
+				position: absolute;
+				top: -3px;
+				left: 0;
+				@include gradient-bg;
+			}
+		}
+		#redux-footer {
+			padding: 22px 40px;
+			border: none;
+			background: #fff !important;
+			
+			&:not(.sticky-footer-fixed) {
+				right: 0 !important;
+			}
+		}
+	}
+}

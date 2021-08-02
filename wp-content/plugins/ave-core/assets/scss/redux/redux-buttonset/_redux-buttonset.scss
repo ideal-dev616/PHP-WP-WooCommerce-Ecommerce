@@ -1,0 +1,36 @@
+.wp-admin {
+
+	.redux-container {
+
+		.redux-container-button_set {
+
+			.ui-button {
+				height: auto;
+				padding: 17px 21px;
+				background: #E9ECEF !important;
+				border: none;
+				border-radius: 0;
+				box-shadow: none;
+				font-size: 12px;
+				line-height: 1em;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				text-shadow: none;
+				color: #000000;
+
+				&:first-of-type {
+					border-radius: 4px 0 0 4px;
+				}
+				&:last-of-type {
+					border-radius: 0 4px 4px 0;
+				}
+
+				&.ui-state-active {
+					background: $color-primary !important;
+					box-shadow: 0 10px 20px rgba(#4081FF, 0.3) !important;
+					color: #fff;
+				}
+			}
+		}
+	}
+}

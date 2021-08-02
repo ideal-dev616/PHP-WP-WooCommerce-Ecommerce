@@ -1,0 +1,215 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ave Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-12 19:05+0200\n"
+"POT-Revision-Date: Mon May 02 2016 16:55:27 GMT+0300 (EEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Liquid Themes\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ave-portfolio.php:77
+msgid "Please activate the Ave Core to use the Ave Portfolio plugin."
+msgstr ""
+
+#: ../ave-portfolio.php:82
+msgid "Activate Ave Core"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:22
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:23
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:24
+msgid "Portfolio items"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:25
+msgid "Portfolio item"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:26
+msgid "Portfolio item Archives"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:27
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:28
+msgid "All Items"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:29
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:31
+msgid "New Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:32
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:33
+msgid "Update Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:34
+msgid "View Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:35
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:36
+msgid "Not found"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:37
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:38
+msgid "Featured Image"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:39
+msgid "Set featured image"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:40
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:41
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:42
+msgid "Insert into Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:43
+msgid "Uploaded to this Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:44
+#: ../post-types/liquid-portfolio.php:99
+msgid "Items list"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:45
+#: ../post-types/liquid-portfolio.php:100
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:46
+msgid "Filter items list"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:55
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:81
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:82
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:83
+msgid "Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:84
+msgid "All Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:85
+msgid "Parent Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:86
+msgid "Parent Category:"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:87
+msgid "New Category Name"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:88
+msgid "Add New Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:89
+msgid "Edit Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:90
+msgid "Update Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:91
+msgid "View Category"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:92
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:93
+msgid "Add or remove Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:94
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:95
+msgid "Popular Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:96
+msgid "Search Categories"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:97
+msgid "Not Found"
+msgstr ""
+
+#: ../post-types/liquid-portfolio.php:98
+msgid "No Categories"
+msgstr ""

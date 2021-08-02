@@ -1,0 +1,33 @@
+.composer-switch {
+	@include gradient-bg;
+
+	.composer-inner-switch,
+	.logo-icon,
+	a {
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+	.logo-icon {
+		background-color: transparent;
+	}
+	a,
+	a.wpb_switch-to-gutenberg,
+	a.wpb_switch-to-composer,
+	a.wpb_switch-to-front-composer {
+		display: inline-block;
+		
+		&,
+		&:visited,
+		&:hover {
+			background: transparent;
+		}
+		&:hover {
+			background-color: rgba(#000, 0.15) !important;
+		}
+	}
+	.vcc_oc_button {
+		margin-left: 0.5em;
+		margin-right: 0.5em;
+		color: #fff;
+	}
+}

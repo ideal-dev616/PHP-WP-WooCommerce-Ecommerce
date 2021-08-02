@@ -1,0 +1,88 @@
+.post-type-liquid-mega-menu .wpb_switch-to-front-composer,
+.post-type-liquid-footer .wpb_switch-to-front-composer,
+.post-type-liquid-header .wpb_switch-to-front-composer {
+	display: none !important;
+}
+.post-type-liquid-header .vc_ui-search-box {
+	display: none !important;
+}
+.vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element^=ld_header_] {
+	display: none;
+}
+.post-type-liquid-header .vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element^=vc_row],
+.post-type-liquid-header .vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element=vc_single_image],
+.post-type-liquid-header .vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element=vc_raw_html],
+.post-type-liquid-header .vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element=vc_raw_js],
+.post-type-liquid-header .vc_add-element-container .wpb-content-layouts .wpb-layout-element-button[data-element^=ld_header_] {
+	display: block;
+}
+
+body.post-type-liquid-header div[data-vc-shortcode-param-name=offset] {
+
+	.wpb_element_label {
+		position: relative;
+		overflow: hidden;
+		text-indent: -99999px;
+
+		&:before {
+			content: 'Hide Column On';
+			position: absolute;
+			top: 0;
+			left: 0;
+			text-indent: 0;
+		}
+	}
+	tbody {
+		display: flex;
+
+		tr {
+			flex-basis: 25%;
+
+			&:first-child {
+				display: none;
+			}
+		}
+	}
+	.vc_description {
+		display: none;
+	}
+}
+div[data-vc-shortcode-param-name=header_full_width],
+div[data-vc-shortcode-param-name=header_type],
+div[data-vc-shortcode-param-name=header_col_width],
+div[data-vc-shortcode-param-name=header_full_screen],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=full_width],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=gap],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=full_height],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=equal_height],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=content_placement],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=video_bg],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=parallax],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_slideshow_bg],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_content_animation],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=css_animation],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=disable_element],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_loading_bg],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_row_dividers],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_overlay],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=bg_position],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_column_shadowbox],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=offset] tr th:nth-child(2),
+body.post-type-liquid-header div[data-vc-shortcode-param-name=offset] tr th:nth-child(3),
+body.post-type-liquid-header div[data-vc-shortcode-param-name=offset] tr td:nth-child(2),
+body.post-type-liquid-header div[data-vc-shortcode-param-name=offset] tr td:nth-child(3),
+body.post-type-liquid-header div[data-vc-shortcode-param-name=sticky_bg],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=enable_pin],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=width],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=sticky_row],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=fade_scroll],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=cm_sticky],
+body.post-type-liquid-header div[data-vc-shortcode=vc_column_inner] [data-vc-shortcode-param-name=gradient_bg_color] {
+	display: none;
+}
+body.post-type-liquid-header div[data-vc-shortcode-param-name=header_full_width],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=header_type],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=header_col_width],
+body.post-type-liquid-header div[data-vc-shortcode-param-name=header_full_screen] {
+	display: block;
+}

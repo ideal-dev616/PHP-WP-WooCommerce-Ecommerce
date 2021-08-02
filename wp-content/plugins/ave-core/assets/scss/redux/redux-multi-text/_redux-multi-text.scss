@@ -1,0 +1,21 @@
+.wp-admin {
+
+	.redux-container {
+
+		.redux-container-multi_text {
+
+			li {
+				margin-bottom: 20px !important;
+			}
+		}
+		.ui-accordion-content {
+
+			h4 {
+				margin-bottom: 0.75em;
+			}
+		}
+		.redux-container-text:not(:last-child) {
+			margin-bottom: 1.5em;
+		}
+	}
+}

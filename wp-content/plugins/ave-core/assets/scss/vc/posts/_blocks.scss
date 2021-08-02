@@ -1,0 +1,17 @@
+.vc_shortcode-param[data-vc-shortcode-param-name=data_tooltip],
+.vc_shortcode-param[data-vc-shortcode-param-name=block_content_alignment] {
+	display: none;
+}
+
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=enable_pin],
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=parallax],
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=sticky_row],
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=fade_scroll],
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=sticky_bg] {
+	display: none;
+}
+
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=data_tooltip],
+.lqd-stack-enabled .vc_shortcode-param[data-vc-shortcode-param-name=block_content_alignment] {
+	display: block;
+}

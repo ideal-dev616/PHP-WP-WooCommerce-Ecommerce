@@ -1,0 +1,7 @@
+#wpse_link_class {
+	width: 71%;
+	margin-top: 10px;
+}
+.has-text-field #wp-link .query-results {
+	top: 240px !important;
+}

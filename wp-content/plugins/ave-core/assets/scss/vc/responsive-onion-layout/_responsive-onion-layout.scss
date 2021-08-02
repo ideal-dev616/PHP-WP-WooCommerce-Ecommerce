@@ -1,0 +1,130 @@
+.vc_css-editor {
+	
+	.vc_settings {
+
+		select {
+			width: 100%;
+		}
+	}
+	.vc_layout-onion {
+
+		input[type=text],
+		input[type=number] {
+			height: 24px;
+			padding: 3px 0;
+			background: #fff;
+			border: 1px solid #bdbdbd;
+		}
+		.vc-onion-wrap {
+			margin: 0;
+
+			> .vc_margin {
+				visibility: hidden;
+			}
+
+			&.active {
+
+				> .vc_margin {
+					visibility: visible;
+				}
+			}
+		}
+		.edit_form_line {
+
+			&,
+			.liquid-responsive-css-container,
+			.liquid-main-responsive-wrapper,
+			.liquid-responsive-css-heading,
+			.liquid-inner-wrap,
+			.vc_layout-onion {
+				margin: 0;
+			}
+			.liquid-main-responsive-wrapper,
+			.liquid-responsive-css-container {
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				top: 0;
+				left: 0;
+				z-index: 2;
+			}
+			.liquid-responsive-css-container {
+				top: 50px;
+			}
+			.liquid-main-responsive-wrapper {
+
+				&:first-child {
+					
+					.liquid-responsive-css-heading {
+						left: 82px;
+					}
+				}
+				&:nth-child(2) {
+					
+					.liquid-responsive-css-heading {
+						left: 164px;
+					}
+				}
+				&:nth-child(3) {
+					
+					.liquid-responsive-css-heading {
+						left: 246px;
+					}
+				}
+				.liquid-inner-wrap {
+					display: none;
+					margin: -1px -15px 0;
+				}
+
+				&.active {
+
+					.liquid-inner-wrap {
+						display: block;
+					}
+				}
+			}
+
+			+ .vc-onion-wrap {
+				margin-top: 50px;
+			}
+		}
+	}
+}
+
+.liquid-responsive-css-heading {
+	display: inline-block;
+	width: 73px;
+	height: 40px;
+	margin: 0 !important;
+	border-radius: 3px;
+	position: absolute !important;
+	top: -50px;
+	left: 0;
+	background-color: #F8F8F8;
+	color: #8A9197;
+	text-indent: -99999px;
+	font-weight: 400;
+	cursor: pointer;
+
+	i {
+		content: '';
+		display: inline-flex;
+		width: 100%;
+		height: 100%;
+		margin: 0 !important;
+		position: absolute !important;
+		top: 0;
+		left: 0;
+		text-indent: 0;
+		align-items: center;
+		justify-content: center;
+		font-family: vcpb-plugin-icons !important;
+		font-size: 20px;
+		font-weight: inherit;
+	}
+
+	.active & {
+		background-color: $color-primary;
+		color: #fff;
+	}
+}

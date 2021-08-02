@@ -1,0 +1,35 @@
+.wp-admin {
+
+	.redux-main {
+
+		.redux-typography-container {
+			
+			label {
+				margin-bottom: 10px !important;
+				font-size: 12px;
+				color: #727272;
+			}
+			.select_wrapper,
+			.input_wrapper {
+				height: auto !important;
+				margin-bottom: 1.5em;
+			}
+			.select_wrapper {
+
+				.redux-typography {
+					height: 44px !important;
+				}
+			}
+			.input_wrapper {
+				
+				input.mini {
+					width: 100%;
+					height: 44px !important;
+				}
+			}
+			.redux-typography-color {
+				height: 44px !important;
+			}
+		}
+	}
+}

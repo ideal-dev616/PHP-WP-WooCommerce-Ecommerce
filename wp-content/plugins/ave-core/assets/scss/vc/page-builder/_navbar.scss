@@ -1,0 +1,27 @@
+.vc_navbar {
+	@include gradient-bg;
+
+	.vc_icon-btn {
+
+		&:not([disabled]):hover {
+			background-color: rgba(#000, 0.15);
+		}
+	}
+	
+	#wpb_visual_composer & {
+		border-bottom: none;
+	}
+
+	&.vc_subnav-fixed ~ .metabox-composer-content {
+		margin-top: 56px;
+	}
+}
+.compose-mode {
+
+	.vc_navbar {
+
+		.vc_btn-save {
+			background-color: $color-primary;
+		}
+	}
+}

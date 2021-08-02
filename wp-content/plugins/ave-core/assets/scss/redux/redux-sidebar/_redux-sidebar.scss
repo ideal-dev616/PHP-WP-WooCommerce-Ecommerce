@@ -1,0 +1,133 @@
+.wp-admin {
+
+	.redux-sidebar {
+		width: $redux-sidebar-width;
+		@include system-ui-font;
+		font-weight: 600;
+		font-size: 14px;
+		
+		.redux-group-menu {
+			
+			li.redux-group-tab-link-li {
+				
+				a {
+					display: flex;
+					width: 100%;
+					padding: 14px 25px;
+					border: none;
+					background: none;
+					align-items: center;
+					justify-content: space-between;
+					flex-direction: row-reverse;
+					opacity: 1;
+					color: #D4D6DE;
+					letter-spacing: 0.1px;
+					text-shadow: none !important;
+
+					&:after {
+						content: '';
+						display: inline-block;
+						width: 0;
+						height: 0;
+						position: absolute;
+						top: 50%;
+						right: 0;
+						border-width: 5px 5px 5px 0;
+						border-style: solid;
+						border-color: transparent #fff transparent transparent;
+						transform: translate(100%, -50%);
+						transition: transform 0.3s;
+					}
+					&:hover {
+						color: #fff;
+					}
+				}
+				i {
+					position: relative;
+					font-size: 1.15em;
+					text-shadow: none;
+				}
+				.group_title {
+					padding: 0;
+				}
+				.extraIconSubsections {
+					display: none;
+				}
+				&.activeChild,
+				&.active {
+
+					a {
+						@include gradient-bg;
+						color: #fff;
+
+						&:after {
+							transform: translate(0, -50%);
+						}
+					}
+				}
+
+				ul.subsection {
+					padding: 25px 20px;
+					background-color: #292f3d;
+					@include system-ui-font;
+					font-weight: 500;
+					font-size: 14px;
+	
+					li.redux-group-tab-link-li {
+						
+						&:not(:last-child) {
+							margin-bottom: 7px !important;
+						}
+						a {
+							background: none !important;
+							flex-direction: row;
+							color: #ADB6BE;
+
+							&:after {
+								content: none;
+							}
+							span.group_title {
+								padding: 0 !important;
+								position: relative;
+								
+								&:before {
+									content: '';
+									display: inline-block;
+									width: 100%;
+									height: 1px;
+									position: absolute;
+									bottom: -4px;
+									left: 0;	
+									background-color: currentColor;
+									opacity: 0;
+									transition: transform 0.3s, opacity 0.3s;
+									transform: translateY(3px);
+								}
+							}
+							&:hover {
+								color: #fff;
+							}
+						}
+
+						&.active {
+
+							a {
+								color: #fff;
+
+								span.group_title {
+
+									&:before {
+										opacity: 1;
+										transform: translateY(0);
+									}
+								}
+							}
+						}
+					}
+				} // .subsection
+				
+			} // li.redux-group-tab-link-li
+
+		}
+	}
+}

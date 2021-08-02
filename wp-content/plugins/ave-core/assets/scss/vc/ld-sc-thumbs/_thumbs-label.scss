@@ -1,0 +1,22 @@
+.thumbnail-tooltip {
+	display: flex;
+	padding: 8px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(#000, 0.7);
+	border-radius: 2px;
+	font-size: 18px;
+	font-weight: 700;
+	color: #fff;
+	opacity: 0;
+	visibility: hidden;
+	transform: scale(0.95);
+	text-align: center;
+	cursor: pointer;
+	transition: opacity 0.3s cubic-bezier(0.39, 0.575, 0.565, 1), visibility 0.3s cubic-bezier(0.39, 0.575, 0.565, 1), transform 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+}

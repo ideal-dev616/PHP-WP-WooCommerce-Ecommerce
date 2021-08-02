@@ -1,0 +1,6142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ave\n"
+"POT-Creation-Date: 2018-12-17 12:36+0200\n"
+"PO-Revision-Date: 2018-12-18 21:47+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Liquid Themes Team\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:61
+msgid "Looks like you are lost."
+msgstr ""
+"<img src=\"https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f914.png\" "
+"width=20 height=20>看起来你迷路了~"
+
+#: 404.php:62
+msgid "We can’t seem to find the page you’re looking for."
+msgstr ""
+"似乎出了点小问题，我们无法找到您搜索的页面<img src=\"https://pic.sopili.net/"
+"pub/emoji/twitter/2/72x72/1f9d0.png\" width=20 height=20>"
+
+#: 404.php:69
+msgid "Go Home!"
+msgstr "点这里找到回去的路"
+
+#: comments.php:33 woocommerce/single-product-reviews.php:82
+msgid "Name"
+msgstr "称呼"
+
+#: comments.php:35 woocommerce/single-product-reviews.php:89
+msgid "Email"
+msgstr "邮箱地址"
+
+#: comments.php:37
+msgid "Website"
+msgstr "网站"
+
+#: comments.php:43
+msgid "Leave a comment"
+msgstr "留言"
+
+#: comments.php:48
+msgid "Comment"
+msgstr "留言"
+
+#: comments.php:51 woocommerce/single-product-reviews.php:92
+msgid "Submit"
+msgstr "提交"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: liquid/admin/liquid-admin-dashboard.php:19
+msgid "Liquid Dashboard"
+msgstr "液体仪表板"
+
+#: liquid/admin/liquid-admin-dashboard.php:20
+msgid "Liquid"
+msgstr "液体"
+
+#: liquid/admin/liquid-admin-import.php:19
+msgid "Liquid Import Demos"
+msgstr "液体进口演示"
+
+#: liquid/admin/liquid-admin-import.php:20
+msgid "Import Demos"
+msgstr "导入演示"
+
+#: liquid/admin/liquid-admin-init.php:83
+msgid "Choose an image/svg icon"
+msgstr "选择图像/ svg图标"
+
+#: liquid/admin/liquid-admin-init.php:84
+msgid "Select"
+msgstr "选择"
+
+#: liquid/admin/liquid-admin-init.php:101
+msgid "<span class=\"dashicons dashicons-info\"></span> Reset"
+msgstr "<span class=\"dashicons dashicons-info\"></span>重置"
+
+#: liquid/admin/liquid-admin-init.php:102
+msgid ""
+"Remove posts, pages, media and any other content on your current site, We "
+"strongly recommend to reset before importing ( even if this is a fresh "
+"site ) to avoid any overlap or conflict with your current content.<br/"
+"><strong>Note:</strong> Don't use the reset option if you are trying to "
+"import some parts only ( For example if you are going to import theme "
+"options only then you may continue without reset )"
+msgstr ""
+"\n"
+"删除当前网站上的帖子，页面，媒体和任何其他内容，我们强烈建议您在导入之前重置"
+"（即使这是一个新网站），以避免与您当前的内容重叠或冲突。<br/> <strong>注意："
+"</strong>如果您只想导入某些部件，请不要使用重置选项（例如，如果您要导入主题选"
+"项，则可以继续而不重置）"
+
+#: liquid/admin/liquid-admin-init.php:103
+msgid "Reset Then Import"
+msgstr "重置然后导入"
+
+#: liquid/admin/liquid-admin-init.php:104
+msgid "Keep Importing Without Resetting"
+msgstr "继续导入而不重置"
+
+#: liquid/admin/liquid-admin-init.php:105
+msgid "I understand"
+msgstr "我明白"
+
+#: liquid/admin/liquid-admin-init.php:106
+msgid "<span class=\"dashicons dashicons-warning\"></span> Warning"
+msgstr "<span class=\"dashicons dashicons-warning\"></span> 警告"
+
+#: liquid/admin/liquid-admin-init.php:107
+msgid ""
+"Since you selected to reset before importing please be aware this action "
+"cannot be reversed ( Any removed content cannot be restored )"
+msgstr ""
+"由于您在导入前选择重置，请注意此操作无法撤消（任何已删除的内容无法恢复）"
+
+#: liquid/admin/liquid-admin-init.php:241
+msgid "Header Modules"
+msgstr "标题模块"
+
+#: liquid/admin/liquid-admin-init.php:295 liquid/admin/views/liquid-tabs.php:16
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: liquid/admin/liquid-admin-license.php:18
+msgid "Liquid License"
+msgstr "流动许可证"
+
+#: liquid/admin/liquid-admin-license.php:19
+msgid "License"
+msgstr "执照"
+
+#: liquid/admin/liquid-admin-plugins.php:19
+msgid "Install Liquid Plugins"
+msgstr "安装液体插件"
+
+#: liquid/admin/liquid-admin-plugins.php:20
+#: liquid/admin/views/liquid-plugins.php:22
+#: liquid/admin/views/liquid-tabs.php:21
+#: liquid/libs/class-tgm-plugin-activation.php:317
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: liquid/admin/updater/liquid-register-admin.php:101
+#: liquid/admin/views/liquid-demos.php:32
+#: liquid/admin/views/liquid-plugins.php:38
+#, php-format
+msgid "The %s theme needs to be registered. %sRegister Now%s"
+msgstr "%s主题需要注册。 %s立即注册%s"
+
+#: liquid/admin/updater/liquid-register-admin.php:107
+#, php-format
+msgid "Purchase code is invalid. Need a license? %sPurchase Now%s"
+msgstr "购买代码无效。需要许可证吗？ %s购买现在%s"
+
+#: liquid/admin/updater/liquid-register-admin.php:123
+msgid "Register Ave"
+msgstr "注册Ave."
+
+#: liquid/admin/updater/liquid-register-admin.php:154
+msgid "Enter your purchase code"
+msgstr "输入您的购买代码"
+
+#: liquid/admin/updater/liquid-register-admin.php:155
+msgid "Register your copy"
+msgstr "注册您的副本"
+
+#: liquid/admin/updater/liquid-updater-class.php:73
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"<strong>%1$s %2$s</strong>可用。<a href=\"%3$s\" class=\"thickbox\" title="
+"\"%4s\">查看新内容</a>或<a href=\"%5$s\"%6$s>立即更新</a>。"
+
+#: liquid/admin/views/liquid-dashboard.php:9
+msgid "Welcome to Ave!"
+msgstr "欢迎来到Ave！"
+
+#: liquid/admin/views/liquid-dashboard.php:10
+msgid "Total design freedom for everyone."
+msgstr "每个人的总设计自由度。"
+
+#: liquid/admin/views/liquid-demos.php:9
+msgid "Import a Demo"
+msgstr "导入演示"
+
+#: liquid/admin/views/liquid-demos.php:10
+#: liquid/admin/views/liquid-plugins.php:23
+msgid "Choose a pre-built website for starting a quick design process."
+msgstr "选择预先构建的网站以启动快速设计流程。"
+
+#: liquid/admin/views/liquid-demos.php:13
+#: liquid/admin/views/liquid-demos.php:101
+#: liquid/admin/views/liquid-plugins.php:26
+msgid "Important:"
+msgstr "重要："
+
+#: liquid/admin/views/liquid-demos.php:13
+#: liquid/admin/views/liquid-demos.php:101
+#: liquid/admin/views/liquid-demos.php:109
+#: liquid/admin/views/liquid-plugins.php:26
+msgid "Make sure to activate required plugins prior to import a demo."
+msgstr "确保在导入演示之前激活所需的插件。"
+
+#: liquid/admin/views/liquid-demos.php:46
+#: liquid/admin/views/liquid-demos.php:179
+#: liquid/admin/views/liquid-tabs.php:26
+msgid "Import Demo"
+msgstr "导入演示"
+
+#: liquid/admin/views/liquid-demos.php:49
+msgid "Preview"
+msgstr "预习"
+
+#: liquid/admin/views/liquid-demos.php:65
+msgid "Importing..."
+msgstr "输入..."
+
+#: liquid/admin/views/liquid-demos.php:66
+msgid "Working"
+msgstr "工作"
+
+#: liquid/admin/views/liquid-demos.php:69
+msgid "0%"
+msgstr "0％"
+
+#: liquid/admin/views/liquid-demos.php:119
+msgid "All Content"
+msgstr "所有内容"
+
+#: liquid/admin/views/liquid-demos.php:127
+#: theme/theme-options/liquid-page-maintenance.php:108
+msgid "Page Content"
+msgstr "页面内容"
+
+#: liquid/admin/views/liquid-demos.php:135
+msgid "Media Attachments"
+msgstr "媒体附件"
+
+#: liquid/admin/views/liquid-demos.php:143
+#: theme/metaboxes/liquid-sidebars.php:8
+#: theme/theme-options/liquid-sidebars.php:8
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: liquid/admin/views/liquid-demos.php:151
+#: liquid/liquid-theme-options-init.php:62
+#: liquid/liquid-theme-options-init.php:63
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: liquid/admin/views/liquid-demos.php:159
+msgid "Home Page"
+msgstr "主页"
+
+#: liquid/admin/views/liquid-demos.php:171
+msgid ""
+"This process will overwrite your current settings, are you sure you want to "
+"proceed?"
+msgstr "此过程将覆盖您当前的设置，您确定要继续吗？"
+
+#: liquid/admin/views/liquid-features.php:3
+msgid "Unlock Premium Features"
+msgstr "解锁高级功能"
+
+#: liquid/admin/views/liquid-features.php:7
+#: liquid/admin/views/liquid-features.php:17
+#: liquid/admin/views/liquid-features.php:27
+msgid "Check"
+msgstr "校验"
+
+#: liquid/admin/views/liquid-features.php:10
+msgid "Enable Auto Updates"
+msgstr "启用自动更新"
+
+#: liquid/admin/views/liquid-features.php:11
+msgid "Smart Dashboard keeps your site up-to-date. Free for lifetime."
+msgstr "智能仪表板可使您的网站保持最新状态。 终生免费。"
+
+#: liquid/admin/views/liquid-features.php:20
+msgid "Exclusive and Premium Plugins"
+msgstr "独家和高级插件"
+
+#: liquid/admin/views/liquid-features.php:21
+msgid "Get access to premium and exclusive plugins for free."
+msgstr "免费访问高级和独家插件。"
+
+#: liquid/admin/views/liquid-features.php:30
+msgid "Premium Support"
+msgstr "高级支持"
+
+#: liquid/admin/views/liquid-features.php:31
+msgid "Get access to top-notch support."
+msgstr "获得一流的支持。"
+
+#: liquid/admin/views/liquid-plugins.php:58
+msgid "Active:"
+msgstr "活性："
+
+#: liquid/admin/views/liquid-registration.php:17
+msgid "Can’t find your purchase code?"
+msgstr "找不到您的购买代码？"
+
+#: liquid/admin/views/liquid-tabs.php:32
+msgid "Documentations"
+msgstr "单证"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:158
+msgid "Browse:"
+msgstr "浏览："
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:159
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:160
+msgid "Home"
+msgstr "家"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:161
+msgid "404 Not Found"
+msgstr "404未找到"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:162
+msgid "Archives"
+msgstr "档案"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:163
+#: liquid/structure/posts.php:301
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "搜索结果 &#8220;%s&#8221;"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:164
+#, php-format
+msgid "Page %s"
+msgstr "页%s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:165
+#: liquid/structure/posts.php:312
+#, php-format
+msgid "Minute %s"
+msgstr "分钟%s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:166
+#, php-format
+msgid "Week %s"
+msgstr "周%s"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:513
+#: liquid/structure/posts.php:309
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "小时:分钟"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:525
+#: liquid/structure/posts.php:312
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "分钟"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:537
+#: liquid/structure/posts.php:315
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "小时"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:548
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:571
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:591
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:611
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:868
+#: liquid/structure/posts.php:321 liquid/structure/posts.php:327
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "年"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:549
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:592
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:871
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:550
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:874
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "日"
+
+#: liquid/extensions/breadcrumb/liquid-breadcrumb.php:572
+#: liquid/structure/posts.php:321
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "周"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:141
+#: theme/theme-options/liquid-page-maintenance.php:120
+msgid "Image"
+msgstr "图片"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:270
+msgid "Custom Image/svg Icon"
+msgstr "自定义图像/ svg图标"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Change menu item image/svg icon"
+msgstr "更改菜单项图像/ svg图标"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:271
+msgid "Set menu item image/svg icon"
+msgstr "设置菜单项图像/ svg图标"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:274
+msgid "Set image/svg icon"
+msgstr "设置image / svg图标"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-custom-icon.php:275
+#: woocommerce/cart/cart.php:59 woocommerce/cart/cart.php:137
+msgid "Remove"
+msgstr "去掉"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:56
+msgid "Select Mega Menu"
+msgstr "选择Mega菜单"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:58
+#: theme/metaboxes/liquid-page.php:62
+msgid "None"
+msgstr "没有"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:72
+msgid "Make this item menu heading?"
+msgstr "将此项目菜单标题？"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:74
+#: theme/metaboxes/liquid-header-options.php:48
+#: theme/metaboxes/liquid-header-options.php:62
+#: theme/metaboxes/liquid-header-options.php:123
+#: theme/metaboxes/liquid-header-options.php:204
+#: theme/metaboxes/liquid-megamenu-options.php:18
+#: theme/theme-options/liquid-blog.php:74
+#: theme/theme-options/liquid-blog.php:101
+#: theme/theme-options/liquid-blog.php:124
+#: theme/theme-options/liquid-blog.php:200
+#: theme/theme-options/liquid-blog.php:227
+#: theme/theme-options/liquid-blog.php:250
+#: theme/theme-options/liquid-blog.php:323
+#: theme/theme-options/liquid-blog.php:350
+#: theme/theme-options/liquid-blog.php:373
+#: theme/theme-options/liquid-blog.php:446
+#: theme/theme-options/liquid-blog.php:473
+#: theme/theme-options/liquid-blog.php:496
+msgid "No"
+msgstr "没有"
+
+#: liquid/extensions/mega-menu/liquid-mega-menu-edit.php:75
+#: theme/metaboxes/liquid-header-options.php:49
+#: theme/metaboxes/liquid-header-options.php:63
+#: theme/metaboxes/liquid-header-options.php:124
+#: theme/metaboxes/liquid-header-options.php:205
+#: theme/metaboxes/liquid-megamenu-options.php:19
+#: theme/theme-options/liquid-blog.php:73
+#: theme/theme-options/liquid-blog.php:100
+#: theme/theme-options/liquid-blog.php:123
+#: theme/theme-options/liquid-blog.php:199
+#: theme/theme-options/liquid-blog.php:226
+#: theme/theme-options/liquid-blog.php:249
+#: theme/theme-options/liquid-blog.php:322
+#: theme/theme-options/liquid-blog.php:349
+#: theme/theme-options/liquid-blog.php:372
+#: theme/theme-options/liquid-blog.php:445
+#: theme/theme-options/liquid-blog.php:472
+#: theme/theme-options/liquid-blog.php:495
+msgid "Yes"
+msgstr "是"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:64
+msgid "Add Dropcap"
+msgstr "添加Dropcap"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:70
+msgid "Text Transform"
+msgstr "文字转换"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:73
+msgid "Uppercase"
+msgstr "大写"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:78
+msgid "Lowercase"
+msgstr "小写"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:83
+msgid "Capitalize"
+msgstr "大写"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:90
+msgid "Reset List"
+msgstr "重置清单"
+
+#: liquid/extensions/wp-editor/liquid-wp-editor.php:96
+msgid "Inline List"
+msgstr "内联列表"
+
+#: liquid/libs/class-tgm-plugin-activation.php:316
+msgid "Install Required Plugins"
+msgstr "安装必需的插件"
+
+#: liquid/libs/class-tgm-plugin-activation.php:319
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件： %s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:321
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "升级插件： %s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:322
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出了点问题。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:325
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "此主题需要以下插件：%1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "此主题推荐以下插件：%1$s."
+
+#: liquid/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到其最新版本，以确保与此主题的最大兼容性：%1$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有一个更新可用于：%1$s。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下必需的插件当前处于非活动状态：%1$s。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐的插件目前处于非活动状态：%1$s。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:360
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: liquid/libs/class-tgm-plugin-activation.php:365
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始更新插件"
+
+#: liquid/libs/class-tgm-plugin-activation.php:370
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: liquid/libs/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需的插件安装程序"
+
+#: liquid/libs/class-tgm-plugin-activation.php:375
+#: liquid/libs/class-tgm-plugin-activation.php:828
+#: liquid/libs/class-tgm-plugin-activation.php:2533
+#: liquid/libs/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回仪表板"
+
+#: liquid/libs/class-tgm-plugin-activation.php:376
+#: liquid/libs/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "插件已成功激活。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:377
+#: liquid/libs/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下插件已成功激活："
+
+#: liquid/libs/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "不采取行动。 插件%1$s已经处于活动状态。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。 此主题需要更高版本的 %s 。 请更新插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件都已成功安装和激活。%1$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr "驳回此通知"
+
+#: liquid/libs/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一个或多个必需或推荐的插件可供安装，更新或激活。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本网站的管理员以获取帮助。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:503
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "此插件需要更新才能与您的主题兼容。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:504
+msgid "Update Required"
+msgstr "需要更新"
+
+#: liquid/libs/class-tgm-plugin-activation.php:621
+msgid "Set the parent_slug config variable instead."
+msgstr "改为设置parent_slug配置变量。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "远程插件包不包含具有所需slug的文件夹，并且重命名不起作用。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:935
+#: liquid/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "请联系插件提供商，并要求他们根据WordPress指南打包他们的插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "远程插件包由多个文件组成，但文件未打包在文件夹中。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:1122
+#: liquid/libs/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#: liquid/libs/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s "
+
+#: liquid/libs/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "需要"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推荐的"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress存储库"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部源"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未安装"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "已安装但尚未激活"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "活性"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "所需更新不可用"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "建议更新"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s，%2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "所有 <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装 <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "升级并激活 <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "去激活 <span class=\"count\">(%s)</span>"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "安装版本："
+
+#: liquid/libs/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: liquid/libs/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本："
+
+#: liquid/libs/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "没有要安装，更新或激活的插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "插入"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "资源"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "类型"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "版"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状态"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "从插件作者升级消息："
+
+#: liquid/libs/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安装"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "启用"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有选择安装插件。 不采取行动。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "没有选择要更新的插件。 不采取行动。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可安装的插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可供更新的插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "没有选择激活插件。 不采取行动。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "此时无法激活任何插件。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件%1$s（%2$d /%3$d）"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装%1$s时出错：<strong>%2$s </strong>。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s的安装失败。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程正在开始。这个过程可能需要一些主机，所以请耐心等待。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s已成功安装并激活。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "显示详细资料"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3509
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隐藏细节"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活均已完成。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件%1$s（%2$d /%3$d）"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程正在开始。这个过程可能需要一些主机，所以请耐心等待。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s已成功安装。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "所有安装都已完成。"
+
+#: liquid/libs/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件%1$s（%2$d /%3$d）"
+
+#: liquid/liquid-base.php:57
+#, php-format
+msgid ""
+"<strong>Extension Load Fail for:</strong> %1$s<br>No such file \"%2$s\" "
+"exists."
+msgstr "<strong>扩展加载失败：</strong>%1$s <br>不存在此类文件“%2$s”。"
+
+#: liquid/liquid-base.php:57
+msgid "Load Extension"
+msgstr "负载扩展"
+
+#: liquid/liquid-helpers.php:109
+#, php-format
+msgid "<code>%s</code> does not exist."
+msgstr "<code> %s  </code>不存在。"
+
+#: liquid/liquid-helpers.php:143
+msgctxt "Liquid plugin installation page."
+msgid "Install"
+msgstr "安装"
+
+#: liquid/liquid-helpers.php:161
+msgctxt "Liquid plugin installation page."
+msgid "Activate"
+msgstr "启用"
+
+#: liquid/liquid-helpers.php:178
+msgctxt "Liquid plugin installation page."
+msgid "Deactivate"
+msgstr "停用"
+
+#: liquid/liquid-meta-boxes-init.php:70
+#, php-format
+msgid "%s Options"
+msgstr " %s 选项"
+
+#: liquid/structure/comments.php:71
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: liquid/structure/footer.php:81
+msgid "Return to top of page"
+msgstr "返回页面顶部"
+
+#: liquid/structure/header.php:116
+msgid "Skip to primary navigation"
+msgstr "跳到主导航"
+
+#: liquid/structure/header.php:119
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: liquid/structure/header.php:123
+msgid "Skip links"
+msgstr "跳过链接"
+
+#: liquid/structure/markup.php:69
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s"
+msgstr "%s"
+
+#: liquid/structure/markup.php:111
+msgid "Previous"
+msgstr "以前"
+
+#: liquid/structure/markup.php:111
+msgid "Next"
+msgstr "下一个"
+
+#: liquid/structure/posts.php:146
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr "l, F j, Y, g:i a"
+
+#: liquid/structure/posts.php:251
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr "，"
+
+#: liquid/structure/posts.php:318
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: liquid/structure/posts.php:321
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr "周%1$s%2$s"
+
+#: liquid/vendors/woocommerce/functions.php:32
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "家"
+
+#: liquid/vendors/woocommerce/functions.php:167
+msgid "Payment"
+msgstr "付款"
+
+#: liquid/vendors/woocommerce/functions.php:360
+msgid "Default Order"
+msgstr "默认订单"
+
+#: liquid/vendors/woocommerce/functions.php:361
+msgid "Popularity"
+msgstr "声望"
+
+#: liquid/vendors/woocommerce/functions.php:362
+msgid "Average rating"
+msgstr "平均评分"
+
+#: liquid/vendors/woocommerce/functions.php:363
+msgid "Newness"
+msgstr "新奇"
+
+#: liquid/vendors/woocommerce/functions.php:364
+msgid "Lowest Price"
+msgstr "最低价格"
+
+#: liquid/vendors/woocommerce/functions.php:365
+msgid "Highest Price"
+msgstr "最高价格"
+
+#: liquid/vendors/woocommerce/functions.php:494
+msgid "Header Note"
+msgstr "标题注释"
+
+#: liquid/vendors/woocommerce/functions.php:513
+msgid "Notice"
+msgstr "注意"
+
+#: liquid/vendors/woocommerce/functions.php:515
+msgid "Add header notice in yellow box"
+msgstr "在黄色框中添加标题通知"
+
+#: liquid/vendors/woocommerce/metaboxes.php:23
+msgid "Custom label"
+msgstr "自定义标签"
+
+#: liquid/vendors/woocommerce/metaboxes.php:25
+msgid "Input a custom label for the product"
+msgstr "输入产品的自定义标签"
+
+#: liquid/vendors/woocommerce/metaboxes.php:55
+#: liquid/vendors/woocommerce/metaboxes.php:86
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: liquid/vendors/woocommerce/metaboxes.php:58
+#: liquid/vendors/woocommerce/metaboxes.php:88
+msgid "Select a background for product category label"
+msgstr "选择产品类别标签的背景"
+
+#: liquid/vendors/woocommerce/options.php:9
+msgid "Products"
+msgstr "制品"
+
+#: liquid/vendors/woocommerce/options.php:16
+msgid "Activate Global Sidebar For Products"
+msgstr "激活产品的全局边栏"
+
+#: liquid/vendors/woocommerce/options.php:17
+msgid ""
+"Turn on if you want to use the same sidebars on all product posts. This "
+"option overrides the product options."
+msgstr ""
+"如果要在所有产品帖子上使用相同的侧边栏，请启用此选项。此选项会覆盖产品选项。"
+
+#: liquid/vendors/woocommerce/options.php:19
+#: theme/metaboxes/liquid-footer-options.php:26
+#: theme/metaboxes/liquid-footer.php:26 theme/metaboxes/liquid-header.php:26
+#: theme/metaboxes/liquid-page.php:51 theme/metaboxes/liquid-page.php:78
+#: theme/metaboxes/liquid-page.php:92 theme/metaboxes/liquid-page.php:122
+#: theme/metaboxes/liquid-portfolio-general.php:40
+#: theme/metaboxes/liquid-portfolio-meta.php:26
+#: theme/metaboxes/liquid-portfolio-meta.php:38
+#: theme/metaboxes/liquid-portfolio-meta.php:90
+#: theme/metaboxes/liquid-post-format.php:39 theme/metaboxes/liquid-post.php:75
+#: theme/metaboxes/liquid-post.php:92 theme/metaboxes/liquid-post.php:128
+#: theme/metaboxes/liquid-post.php:140 theme/metaboxes/liquid-post.php:152
+#: theme/metaboxes/liquid-post.php:164
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:25
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:45
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:134
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:146
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:280
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:315
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:370
+#: theme/metaboxes/liquid-title-wrapper.php:24
+#: theme/metaboxes/liquid-title-wrapper.php:46
+#: theme/metaboxes/liquid-title-wrapper.php:88
+#: theme/metaboxes/liquid-title-wrapper.php:198
+#: theme/metaboxes/liquid-title-wrapper.php:214
+#: theme/metaboxes/liquid-title-wrapper.php:240
+#: theme/metaboxes/liquid-title-wrapper.php:255
+#: theme/theme-options/liquid-blog.php:22
+#: theme/theme-options/liquid-blog.php:145
+#: theme/theme-options/liquid-blog.php:271
+#: theme/theme-options/liquid-blog.php:394
+#: theme/theme-options/liquid-blog.php:528
+#: theme/theme-options/liquid-blog.php:549
+#: theme/theme-options/liquid-blog.php:560
+#: theme/theme-options/liquid-blog.php:571
+#: theme/theme-options/liquid-blog.php:582
+#: theme/theme-options/liquid-extras.php:23
+#: theme/theme-options/liquid-extras.php:34
+#: theme/theme-options/liquid-extras.php:45
+#: theme/theme-options/liquid-extras.php:56
+#: theme/theme-options/liquid-extras.php:67
+#: theme/theme-options/liquid-header-modules.php:17
+#: theme/theme-options/liquid-header-modules.php:66
+#: theme/theme-options/liquid-header-modules.php:114
+#: theme/theme-options/liquid-header-title-wrapper.php:24
+#: theme/theme-options/liquid-header-title-wrapper.php:57
+#: theme/theme-options/liquid-header-title-wrapper.php:132
+#: theme/theme-options/liquid-header-title-wrapper.php:143
+#: theme/theme-options/liquid-header-title-wrapper.php:163
+#: theme/theme-options/liquid-header-title-wrapper.php:172
+#: theme/theme-options/liquid-page-404.php:16
+#: theme/theme-options/liquid-page-404.php:48
+#: theme/theme-options/liquid-page-maintenance.php:40
+#: theme/theme-options/liquid-page-maintenance.php:53
+#: theme/theme-options/liquid-page-search.php:28
+#: theme/theme-options/liquid-portfolio.php:22
+#: theme/theme-options/liquid-portfolio.php:151
+#: theme/theme-options/liquid-portfolio.php:163
+#: theme/theme-options/liquid-portfolio.php:174
+#: theme/theme-options/liquid-promotions.php:24
+#: theme/theme-options/liquid-sidebars.php:39
+#: theme/theme-options/liquid-sidebars.php:77
+#: theme/theme-options/liquid-sidebars.php:142
+#: theme/theme-options/liquid-woocommerce.php:14
+#: theme/theme-options/liquid-woocommerce.php:53
+msgid "On"
+msgstr "开"
+
+#: liquid/vendors/woocommerce/options.php:20
+#: theme/metaboxes/liquid-footer-options.php:27
+#: theme/metaboxes/liquid-footer.php:28 theme/metaboxes/liquid-header.php:28
+#: theme/metaboxes/liquid-page.php:52 theme/metaboxes/liquid-page.php:79
+#: theme/metaboxes/liquid-page.php:93 theme/metaboxes/liquid-page.php:123
+#: theme/metaboxes/liquid-portfolio-general.php:42
+#: theme/metaboxes/liquid-portfolio-meta.php:28
+#: theme/metaboxes/liquid-portfolio-meta.php:40
+#: theme/metaboxes/liquid-portfolio-meta.php:92
+#: theme/metaboxes/liquid-post-format.php:40 theme/metaboxes/liquid-post.php:77
+#: theme/metaboxes/liquid-post.php:93 theme/metaboxes/liquid-post.php:130
+#: theme/metaboxes/liquid-post.php:142 theme/metaboxes/liquid-post.php:154
+#: theme/metaboxes/liquid-post.php:166
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:27
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:46
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:136
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:148
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:281
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:317
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:372
+#: theme/metaboxes/liquid-title-wrapper.php:26
+#: theme/metaboxes/liquid-title-wrapper.php:48
+#: theme/metaboxes/liquid-title-wrapper.php:90
+#: theme/metaboxes/liquid-title-wrapper.php:200
+#: theme/metaboxes/liquid-title-wrapper.php:216
+#: theme/metaboxes/liquid-title-wrapper.php:242
+#: theme/metaboxes/liquid-title-wrapper.php:257
+#: theme/theme-options/liquid-blog.php:23
+#: theme/theme-options/liquid-blog.php:146
+#: theme/theme-options/liquid-blog.php:272
+#: theme/theme-options/liquid-blog.php:395
+#: theme/theme-options/liquid-blog.php:529
+#: theme/theme-options/liquid-blog.php:550
+#: theme/theme-options/liquid-blog.php:561
+#: theme/theme-options/liquid-blog.php:572
+#: theme/theme-options/liquid-blog.php:583
+#: theme/theme-options/liquid-extras.php:24
+#: theme/theme-options/liquid-extras.php:35
+#: theme/theme-options/liquid-extras.php:46
+#: theme/theme-options/liquid-extras.php:57
+#: theme/theme-options/liquid-extras.php:68
+#: theme/theme-options/liquid-header-modules.php:18
+#: theme/theme-options/liquid-header-modules.php:67
+#: theme/theme-options/liquid-header-modules.php:115
+#: theme/theme-options/liquid-header-title-wrapper.php:25
+#: theme/theme-options/liquid-header-title-wrapper.php:58
+#: theme/theme-options/liquid-header-title-wrapper.php:133
+#: theme/theme-options/liquid-header-title-wrapper.php:144
+#: theme/theme-options/liquid-header-title-wrapper.php:164
+#: theme/theme-options/liquid-header-title-wrapper.php:173
+#: theme/theme-options/liquid-page-404.php:17
+#: theme/theme-options/liquid-page-404.php:49
+#: theme/theme-options/liquid-page-maintenance.php:41
+#: theme/theme-options/liquid-page-maintenance.php:54
+#: theme/theme-options/liquid-page-search.php:29
+#: theme/theme-options/liquid-portfolio.php:23
+#: theme/theme-options/liquid-portfolio.php:152
+#: theme/theme-options/liquid-portfolio.php:164
+#: theme/theme-options/liquid-portfolio.php:175
+#: theme/theme-options/liquid-promotions.php:25
+#: theme/theme-options/liquid-sidebars.php:40
+#: theme/theme-options/liquid-sidebars.php:78
+#: theme/theme-options/liquid-sidebars.php:143
+#: theme/theme-options/liquid-woocommerce.php:15
+#: theme/theme-options/liquid-woocommerce.php:54
+msgid "Off"
+msgstr "关"
+
+#: liquid/vendors/woocommerce/options.php:27
+msgid "Global Products Sidebar"
+msgstr "全球产品边栏"
+
+#: liquid/vendors/woocommerce/options.php:28
+msgid "Select sidebar that will display on all product posts."
+msgstr "选择将在所有产品帖子上显示的侧栏。"
+
+#: liquid/vendors/woocommerce/options.php:34
+msgid "Global Products Sidebar Position"
+msgstr "全球产品边栏位置"
+
+#: liquid/vendors/woocommerce/options.php:35
+msgid "Controls the position of the sidebar for all product posts."
+msgstr "控制所有产品帖子的侧栏位置。"
+
+#: liquid/vendors/woocommerce/options.php:37
+#: liquid/vendors/woocommerce/options.php:63
+#: theme/metaboxes/liquid-header-options.php:157
+#: theme/metaboxes/liquid-header-options.php:166
+#: theme/metaboxes/liquid-sidebars.php:26
+#: theme/metaboxes/liquid-title-wrapper.php:160
+#: theme/theme-options/liquid-header-mobile-nav.php:23
+#: theme/theme-options/liquid-header-mobile-nav.php:32
+#: theme/theme-options/liquid-header-title-wrapper.php:109
+#: theme/theme-options/liquid-portfolio.php:65
+#: theme/theme-options/liquid-sidebars.php:57
+#: theme/theme-options/liquid-sidebars.php:95
+#: theme/theme-options/liquid-sidebars.php:122
+#: theme/theme-options/liquid-sidebars.php:160
+#: theme/theme-options/liquid-sidebars.php:187
+#: theme/theme-options/liquid-sidebars.php:214
+msgid "Left"
+msgstr "左侧"
+
+#: liquid/vendors/woocommerce/options.php:38
+#: liquid/vendors/woocommerce/options.php:64
+#: theme/metaboxes/liquid-header-options.php:156
+#: theme/metaboxes/liquid-header-options.php:165
+#: theme/metaboxes/liquid-sidebars.php:28
+#: theme/metaboxes/liquid-title-wrapper.php:162
+#: theme/theme-options/liquid-header-mobile-nav.php:22
+#: theme/theme-options/liquid-header-mobile-nav.php:31
+#: theme/theme-options/liquid-header-title-wrapper.php:111
+#: theme/theme-options/liquid-portfolio.php:67
+#: theme/theme-options/liquid-sidebars.php:58
+#: theme/theme-options/liquid-sidebars.php:96
+#: theme/theme-options/liquid-sidebars.php:123
+#: theme/theme-options/liquid-sidebars.php:161
+#: theme/theme-options/liquid-sidebars.php:188
+#: theme/theme-options/liquid-sidebars.php:215
+msgid "Right"
+msgstr "对"
+
+#: liquid/vendors/woocommerce/options.php:47
+msgid "Product Archive"
+msgstr "产品档案"
+
+#: liquid/vendors/woocommerce/options.php:53
+msgid "Product Archive Sidebar"
+msgstr "产品档案边栏"
+
+#: liquid/vendors/woocommerce/options.php:54
+msgid "Select sidebar 1 that will display on the product archive pages."
+msgstr "选择将显示在产品存档页面上的侧栏1。"
+
+#: liquid/vendors/woocommerce/options.php:60
+msgid "Global Products Archive Sidebar Position"
+msgstr "全球产品存档边栏位置"
+
+#: liquid/vendors/woocommerce/options.php:61
+msgid "Controls the position of the sidebar for all product archives."
+msgstr "控制所有产品档案的侧栏位置。"
+
+#: liquid/vendors/woocommerce/template-tags.php:30
+msgid "Grid view"
+msgstr "网格视图"
+
+#: liquid/vendors/woocommerce/template-tags.php:31
+msgid "List view"
+msgstr "列表显示"
+
+#: search.php:26 templates/author-layout.php:22 templates/blog-layout.php:22
+#: templates/category-layout.php:22 templates/portfolio-layout.php:22
+#: templates/tag-layout.php:22 theme/author-blog.php:230
+#: theme/category-blog.php:232 theme/liquid-blog.php:224
+#: theme/liquid-portfolio.php:98 theme/tag-blog.php:231
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<i class=\"fa fa-angle-left\"></i>"
+
+#: search.php:27 templates/author-layout.php:23 templates/blog-layout.php:23
+#: templates/category-layout.php:23 templates/portfolio-layout.php:23
+#: templates/tag-layout.php:23 theme/author-blog.php:231
+#: theme/category-blog.php:233 theme/liquid-blog.php:225
+#: theme/liquid-portfolio.php:99 theme/tag-blog.php:232
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<i class=\"fa fa-angle-right\"></i>"
+
+#: search.php:32 templates/author-layout.php:28 templates/blog-layout.php:28
+#: templates/category-layout.php:28 templates/portfolio-layout.php:28
+#: templates/tag-layout.php:28 theme/author-blog.php:235
+#: theme/category-blog.php:237 theme/liquid-blog.php:229
+#: theme/liquid-portfolio.php:102 theme/liquid-portfolio.php:121
+#: theme/tag-blog.php:236
+msgid "Page navigation"
+msgstr "页面导航"
+
+#: templates/blog/content.php:12
+msgid "Read More"
+msgstr "阅读更多"
+
+#: templates/blog/single/cover-spaced.php:38 templates/blog/single/cover.php:37
+#: templates/blog/single/default.php:28 templates/blog/single/slider.php:44
+#: templates/content/content.php:32 theme/liquid-template-tags.php:610
+#: theme/liquid-template-tags.php:636 theme/liquid-template-tags.php:655
+#, php-format
+msgid "Continue reading %s"
+msgstr "继续阅读 %s "
+
+#: templates/blog/single/cover-spaced.php:43 templates/blog/single/cover.php:42
+#: templates/blog/single/default.php:33 templates/blog/single/slider.php:49
+#: templates/content/content.php:37 templates/content/liquid-portfolio.php:21
+#: templates/content/page.php:17
+msgid "Pages:"
+msgstr "页数："
+
+#: templates/blog/single/cover-spaced.php:47 templates/blog/single/cover.php:46
+#: templates/blog/single/default.php:37 templates/blog/single/slider.php:53
+#: templates/content/content.php:41 templates/content/liquid-portfolio.php:25
+#: templates/content/page.php:21 theme/metaboxes/liquid-page.php:16
+#: theme/theme-options/liquid-sidebars.php:29
+msgid "Page"
+msgstr "页"
+
+#: templates/blog/single/cover-spaced.php:55 templates/blog/single/cover.php:53
+#: templates/blog/single/default.php:44 templates/blog/single/slider.php:61
+msgctxt "Used between list items, there is a space"
+msgid " "
+msgstr " "
+
+#: templates/blog/single/cover-spaced.php:62 templates/blog/single/cover.php:57
+#: templates/blog/single/default.php:48 templates/blog/single/slider.php:65
+msgid "Share On"
+msgstr "分享在"
+
+#: templates/blog/single/navigation.php:16
+msgid "Post navigation"
+msgstr "邮政导航"
+
+#: templates/blog/single/navigation.php:27
+#: templates/blog/single/navigation.php:28
+msgid "Previous Article"
+msgstr "上一篇文章"
+
+#: templates/blog/single/navigation.php:43
+#: templates/blog/single/navigation.php:44
+msgid "Next Article"
+msgstr "下一篇文章"
+
+#: templates/blog/single/part-meta.php:4
+msgid "Author:"
+msgstr "作者："
+
+#: templates/blog/single/part-meta.php:9
+msgid "Published on:"
+msgstr "发布于："
+
+#: templates/blog/single/part-meta.php:24
+msgid "Published in:"
+msgstr "出版于："
+
+#: templates/blog/tmpl-candy.php:51 templates/blog/tmpl-classic-full.php:45
+#: templates/blog/tmpl-classic-meta.php:37
+#: templates/blog/tmpl-featured-fullwidth.php:28
+#: templates/blog/tmpl-grid.php:38 templates/blog/tmpl-masonry.php:21
+#: templates/blog/tmpl-split.php:32 templates/blog/tmpl-timeline.php:31
+#: templates/content/content.php:89
+msgid "Continue Reading"
+msgstr "继续阅读"
+
+#: templates/blog/tmpl-classic-2.php:30 templates/blog/tmpl-classic.php:29
+#: templates/blog/tmpl-featured.php:37
+msgid "Read more"
+msgstr "阅读更多"
+
+#: templates/blog/tmpl-classic-full.php:32
+#: templates/blog/tmpl-featured-fullwidth.php:19
+#: templates/blog/tmpl-grid.php:26 templates/blog/tmpl-rounded.php:24
+#: templates/entry-meta.php:2
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr " %s 之前"
+
+#: templates/blog/tmpl-classic-full.php:33
+#: templates/blog/tmpl-featured-fullwidth.php:20
+#: templates/blog/tmpl-grid.php:27 templates/entry-meta.php:3
+msgid "in"
+msgstr "在"
+
+#: templates/comment/comment.php:5
+msgid "Post comment"
+msgstr "发表评论"
+
+#: templates/comment/comment.php:8
+msgid "says"
+msgstr "说"
+
+#: templates/comment/comment.php:12 templates/comment/ping.php:7
+#, php-format
+msgid "%s ago"
+msgstr " %s 之前"
+
+#: templates/comment/comment.php:25
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: templates/comment/nav.php:5
+msgid "Comments Navigation"
+msgstr "评论导航"
+
+#: templates/comment/nav.php:8
+msgid "Older Comments"
+msgstr "较早的评论"
+
+#: templates/comment/nav.php:12
+msgid "Newer Comments"
+msgstr "更新的评论"
+
+#: templates/comment/ping.php:9
+msgid "Permalink"
+msgstr "永久链接"
+
+#: templates/content/content.php:49
+#, php-format
+msgid "Posted in: %s"
+msgstr "发表于： %s "
+
+#: templates/content/content.php:50 templates/entry-meta.php:5
+#, php-format
+msgid "Tagged: %s"
+msgstr "标记： %s "
+
+#: templates/content/error.php:13
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: templates/content/error.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布你的第一篇文章？ <a href=\"%1$s\">从这里开始</a>。"
+
+#: templates/content/error.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有任何内容符合您的搜索字词。请尝试使用其他一些不同的关键字。"
+
+#: templates/content/error.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我们似乎无法找到您正在寻找的东西。 也许搜索可以帮助。"
+
+#: templates/content/liquid-portfolio.php:32
+msgid "Edit"
+msgstr "编辑"
+
+#: templates/entry-meta.php:4
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: templates/footer/default.php:14
+msgid "Ave Theme. All rights reserved."
+msgstr "大道主题。 版权所有。"
+
+#: templates/header/header-search.php:15
+msgctxt "placeholder"
+msgid "Start searching"
+msgstr "开始搜索"
+
+#: templates/header/header-title-bar.php:22
+#: theme/liquid-vc-templates-panel-editor.php:73
+#: theme/theme-options/liquid-blog.php:7
+msgid "Blog"
+msgstr "博客"
+
+#: templates/header/header-title-bar.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果： %s "
+
+#: templates/header/header-title-bar.php:59
+msgid "Archive"
+msgstr "档案"
+
+#: templates/portfolio/single/gallery-slider.php:38
+msgid "Share on"
+msgstr "分享"
+
+#: templates/portfolio/single/navigation.php:35
+#: templates/portfolio/single/navigation.php:36
+msgid "Previous Work"
+msgstr "之前的工作"
+
+#: templates/portfolio/single/navigation.php:50
+#: templates/portfolio/single/navigation.php:51
+msgid "Next Work"
+msgstr "下一步工作"
+
+#: templates/portfolio/tmpl-carousel.php:27
+msgid "Discover More"
+msgstr "发现更多"
+
+#: theme/liquid-demo-config.php:9
+msgid "Original"
+msgstr "原版的"
+
+#: theme/liquid-demo-config.php:17
+msgid "Agency"
+msgstr "机构"
+
+#: theme/liquid-demo-config.php:25
+msgid "Architecture"
+msgstr "建筑"
+
+#: theme/liquid-demo-config.php:33
+msgid "Blockchain"
+msgstr "Blockchain"
+
+#: theme/liquid-demo-config.php:41
+msgid "Blog Grid"
+msgstr "博客网格"
+
+#: theme/liquid-demo-config.php:49
+msgid "Blogger"
+msgstr "博客"
+
+#: theme/liquid-demo-config.php:57
+msgid "Blog Masonry"
+msgstr "博客砌体"
+
+#: theme/liquid-demo-config.php:65
+msgid "Business"
+msgstr "商业"
+
+#: theme/liquid-demo-config.php:73
+msgid "Services"
+msgstr "服务"
+
+#: theme/liquid-demo-config.php:81
+msgid "Construction"
+msgstr "施工"
+
+#: theme/liquid-demo-config.php:89
+msgid "Creative"
+msgstr "创作的"
+
+#: theme/liquid-demo-config.php:97
+msgid "Crypto Currency"
+msgstr "Crypto Currency"
+
+#: theme/liquid-demo-config.php:105
+msgid "Digital Creative"
+msgstr "数字创意"
+
+#: theme/liquid-demo-config.php:113
+msgid "Digital Agency"
+msgstr "数字代理"
+
+#: theme/liquid-demo-config.php:121
+msgid "Freelancer"
+msgstr "自由职业者"
+
+#: theme/liquid-demo-config.php:129
+msgid "Gym"
+msgstr "健身房"
+
+#: theme/liquid-demo-config.php:137
+msgid "Landing"
+msgstr "降落"
+
+#: theme/liquid-demo-config.php:145
+msgid "Hotel"
+msgstr "旅馆"
+
+#: theme/liquid-demo-config.php:153
+msgid "Magazine"
+msgstr "杂志"
+
+#: theme/liquid-demo-config.php:161
+msgid "Medical"
+msgstr "医"
+
+#: theme/liquid-demo-config.php:169
+msgid "Personal"
+msgstr "个人"
+
+#: theme/liquid-demo-config.php:177
+msgid "Minimal Magazine"
+msgstr "最小的杂志"
+
+#: theme/liquid-demo-config.php:185
+msgid "Portfolio Dynamic"
+msgstr "组合动态"
+
+#: theme/liquid-demo-config.php:193
+msgid "Avantgarde"
+msgstr "时尚型"
+
+#: theme/liquid-demo-config.php:201
+msgid "Portfolio Grid"
+msgstr "组合网格"
+
+#: theme/liquid-demo-config.php:209
+msgid "Portfolio Masonry"
+msgstr "组合砌体"
+
+#: theme/liquid-demo-config.php:217
+msgid "Portfolio Modern"
+msgstr "组合现代"
+
+#: theme/liquid-demo-config.php:225
+#: theme/liquid-vc-templates-panel-editor.php:85
+#: theme/theme-options/liquid-portfolio.php:7
+msgid "Portfolio"
+msgstr "投资组合"
+
+#: theme/liquid-demo-config.php:233
+msgid "Mobile"
+msgstr "移动"
+
+#: theme/liquid-demo-config.php:241
+msgid "Shop"
+msgstr "店"
+
+#: theme/liquid-demo-config.php:249
+msgid "Travel"
+msgstr "旅行"
+
+#: theme/liquid-demo-config.php:257
+msgid "Portrait"
+msgstr "肖像"
+
+#: theme/liquid-demo-config.php:265
+msgid "Photographer"
+msgstr "摄影师"
+
+#: theme/liquid-demo-config.php:273
+msgid "Voguish"
+msgstr "Voguish"
+
+#: theme/liquid-portfolio.php:125
+msgid "Load more"
+msgstr "装载更多"
+
+#: theme/liquid-register-plugins.php:24
+msgid "Ave Core"
+msgstr "Ave Core"
+
+#: theme/liquid-register-plugins.php:30 theme/liquid-register-plugins.php:40
+msgid "Liquid Themes"
+msgstr "液体主题"
+
+#: theme/liquid-register-plugins.php:31
+msgid ""
+"Intelligent and Powerful Elements Plugin, exclusively for Ave WordPress "
+"Theme."
+msgstr "智能和强大的元素插件，专门用于Ave WordPress主题。"
+
+#: theme/liquid-register-plugins.php:34
+msgid "Ave Portfolio"
+msgstr "Ave Portfolio"
+
+#: theme/liquid-register-plugins.php:41
+msgid ""
+"Modern and Diversified Portfolio Plugin, exclusively Ave WordPress Theme."
+msgstr "现代和多样化的投资组合插件，专属Ave WordPress主题。"
+
+#: theme/liquid-register-plugins.php:44
+msgid "WPBakery Page Builder"
+msgstr "WPBakery页面构建器"
+
+#: theme/liquid-register-plugins.php:50
+msgid "Wpbakery"
+msgstr "Wpbakery"
+
+#: theme/liquid-register-plugins.php:51
+msgid "A premium plugin bundled with the Ave theme"
+msgstr "与Ave主题捆绑在一起的高级插件"
+
+#: theme/liquid-register-plugins.php:54
+msgid "Redux Framework"
+msgstr "Redux框架"
+
+#: theme/liquid-register-plugins.php:58
+msgid "Team Redux"
+msgstr "Redux队"
+
+#: theme/liquid-register-plugins.php:59
+msgid ""
+"Redux is a simple, truly extensible and fully responsive options framework "
+"for WordPress themes and plugins."
+msgstr "Redux是一个简单，真正可扩展且完全响应的WordPress主题和插件选项框架。"
+
+#: theme/liquid-register-plugins.php:62
+msgid "Contact Form 7"
+msgstr "联系表格7"
+
+#: theme/liquid-register-plugins.php:66
+msgid "Takayuki Miyoshi"
+msgstr "Takayuki Miyoshi"
+
+#: theme/liquid-register-plugins.php:67
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+"联系表格7可以管理多个联系表格，您还可以通过简单的标记灵活地自定义表格和邮件内"
+"容。"
+
+#: theme/liquid-setup.php:83
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: theme/liquid-setup.php:84
+msgid "Secondary Menu"
+msgstr "二级菜单"
+
+#: theme/liquid-setup.php:91 theme/metaboxes/liquid-sidebars.php:17
+msgid "Main Sidebar"
+msgstr "主边栏"
+
+#: theme/liquid-setup.php:93
+msgid "Main widget area to display in sidebar"
+msgstr "要在侧边栏中显示的主要小部件区域"
+
+#: theme/liquid-template-tags.php:199
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: theme/liquid-template-tags.php:451
+#: theme/metaboxes/liquid-portfolio-meta.php:87
+msgid "Date"
+msgstr "日期"
+
+#: theme/liquid-template-tags.php:479
+#, php-format
+msgid ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">%s</"
+"span></span>"
+msgstr ""
+"<span><i class=\"fa fa-heart\"></i> <span class=\"post-likes-count\">%s</"
+"span></span>"
+
+#: theme/liquid-template-tags.php:682
+#, php-format
+msgid "Posts by %s"
+msgstr "帖子由 %s "
+
+#: theme/liquid-vc-templates-panel-editor.php:51
+#: theme/theme-options/liquid-extras.php:53
+msgid "Ave Collection"
+msgstr "Ave系列"
+
+#: theme/liquid-vc-templates-panel-editor.php:70
+msgid "All"
+msgstr "所有"
+
+#: theme/liquid-vc-templates-panel-editor.php:71
+msgid "Accordions"
+msgstr "手风琴"
+
+#: theme/liquid-vc-templates-panel-editor.php:72
+msgid "Banners"
+msgstr "横幅"
+
+#: theme/liquid-vc-templates-panel-editor.php:74
+#: theme/metaboxes/liquid-portfolio-general.php:59
+msgid "Carousel"
+msgstr "圆盘传送带"
+
+#: theme/liquid-vc-templates-panel-editor.php:75
+msgid "Contacts"
+msgstr "往来"
+
+#: theme/liquid-vc-templates-panel-editor.php:76
+msgid "Counter"
+msgstr "计数器"
+
+#: theme/liquid-vc-templates-panel-editor.php:77
+msgid "Fancybox"
+msgstr "的fancybox"
+
+#: theme/liquid-vc-templates-panel-editor.php:78
+msgid "Fancytext"
+msgstr "Fancytext"
+
+#: theme/liquid-vc-templates-panel-editor.php:79
+msgid "Footers"
+msgstr "页脚"
+
+#: theme/liquid-vc-templates-panel-editor.php:80
+msgid "Headers"
+msgstr "头"
+
+#: theme/liquid-vc-templates-panel-editor.php:81
+msgid "Icons"
+msgstr "图标"
+
+#: theme/liquid-vc-templates-panel-editor.php:82
+msgid "Media"
+msgstr "媒体"
+
+#: theme/liquid-vc-templates-panel-editor.php:83
+#: theme/theme-options/liquid-extras.php:13
+msgid "Miscellaneous"
+msgstr "杂"
+
+#: theme/liquid-vc-templates-panel-editor.php:84
+msgid "Newsletter"
+msgstr "通讯"
+
+#: theme/liquid-vc-templates-panel-editor.php:86
+msgid "Pricing"
+msgstr "价钱"
+
+#: theme/liquid-vc-templates-panel-editor.php:87
+msgid "Process"
+msgstr "处理"
+
+#: theme/liquid-vc-templates-panel-editor.php:88
+msgid "Tabs"
+msgstr "标签"
+
+#: theme/liquid-vc-templates-panel-editor.php:89
+msgid "Team"
+msgstr "球队"
+
+#: theme/liquid-vc-templates-panel-editor.php:90
+msgid "Testimonials"
+msgstr "褒奖"
+
+#: theme/liquid-vc-templates-panel-editor.php:498
+msgid "No title"
+msgstr "无题"
+
+#: theme/liquid-vc-templates.php:23
+msgid "Accordion 01"
+msgstr "手风琴01"
+
+#: theme/liquid-vc-templates.php:35
+msgid "Accordion 02"
+msgstr "手风琴02"
+
+#: theme/liquid-vc-templates.php:48
+msgid "Accordion 03"
+msgstr "手风琴03"
+
+#: theme/liquid-vc-templates.php:61
+msgid "Accordion 04"
+msgstr "手风琴04"
+
+#: theme/liquid-vc-templates.php:74
+msgid "Accordion 05"
+msgstr "手风琴05"
+
+#: theme/liquid-vc-templates.php:88
+msgid "Banner 01"
+msgstr "横幅01"
+
+#: theme/liquid-vc-templates.php:100
+msgid "Banner 02"
+msgstr "横幅02"
+
+#: theme/liquid-vc-templates.php:113
+msgid "Banner 03"
+msgstr "横幅03"
+
+#: theme/liquid-vc-templates.php:126
+msgid "Banner 04"
+msgstr "横幅04"
+
+#: theme/liquid-vc-templates.php:139
+msgid "Banner 05"
+msgstr "横幅05"
+
+#: theme/liquid-vc-templates.php:152
+msgid "Banner 06"
+msgstr "横幅06"
+
+#: theme/liquid-vc-templates.php:165
+msgid "Banner 07"
+msgstr "横幅07"
+
+#: theme/liquid-vc-templates.php:178
+msgid "Banner 08"
+msgstr "横幅08"
+
+#: theme/liquid-vc-templates.php:191
+msgid "Banner 09"
+msgstr "横幅09"
+
+#: theme/liquid-vc-templates.php:204
+msgid "Banner 10"
+msgstr "横幅10"
+
+#: theme/liquid-vc-templates.php:217
+msgid "Banner 11"
+msgstr "横幅11"
+
+#: theme/liquid-vc-templates.php:229
+msgid "Banner 12"
+msgstr "横幅12"
+
+#: theme/liquid-vc-templates.php:241
+msgid "Banner 13"
+msgstr "横幅13"
+
+#: theme/liquid-vc-templates.php:253
+msgid "Banner 14"
+msgstr "横幅14"
+
+#: theme/liquid-vc-templates.php:265
+msgid "Banner 15"
+msgstr "横幅15"
+
+#: theme/liquid-vc-templates.php:277
+msgid "Banner 16"
+msgstr "横幅16"
+
+#: theme/liquid-vc-templates.php:290
+msgid "Banner 17"
+msgstr "横幅17"
+
+#: theme/liquid-vc-templates.php:302
+msgid "Banner 18"
+msgstr "横幅18"
+
+#: theme/liquid-vc-templates.php:314
+msgid "Banner 19"
+msgstr "横幅19"
+
+#: theme/liquid-vc-templates.php:326
+msgid "Banner 20"
+msgstr "横幅20"
+
+#: theme/liquid-vc-templates.php:341
+msgid "Banner 21"
+msgstr "横幅21"
+
+#: theme/liquid-vc-templates.php:353
+msgid "Banner 22"
+msgstr "横幅22"
+
+#: theme/liquid-vc-templates.php:365
+msgid "Banner 23"
+msgstr "横幅23"
+
+#: theme/liquid-vc-templates.php:377
+msgid "Banner 24"
+msgstr "横幅24"
+
+#: theme/liquid-vc-templates.php:390
+msgid "Banner 25"
+msgstr "横幅25"
+
+#: theme/liquid-vc-templates.php:402
+msgid "Banner 26"
+msgstr "横幅26"
+
+#: theme/liquid-vc-templates.php:414
+msgid "Banner 27"
+msgstr "横幅27"
+
+#: theme/liquid-vc-templates.php:426
+msgid "Banner 28"
+msgstr "横幅28"
+
+#: theme/liquid-vc-templates.php:439
+msgid "Banner 29"
+msgstr "横幅29"
+
+#: theme/liquid-vc-templates.php:451
+msgid "Banner 30"
+msgstr "横幅30"
+
+#: theme/liquid-vc-templates.php:463
+msgid "Banner 31"
+msgstr "横幅31"
+
+#: theme/liquid-vc-templates.php:475
+msgid "Banner 32"
+msgstr "横幅32"
+
+#: theme/liquid-vc-templates.php:487
+msgid "Banner 33"
+msgstr "横幅33"
+
+#: theme/liquid-vc-templates.php:499
+msgid "Banner 34"
+msgstr "横幅34"
+
+#: theme/liquid-vc-templates.php:511
+msgid "Banner 35"
+msgstr "横幅35"
+
+#: theme/liquid-vc-templates.php:524
+msgid "Banner 36"
+msgstr "横幅36"
+
+#: theme/liquid-vc-templates.php:538
+msgid "Banner 37"
+msgstr "横幅37"
+
+#: theme/liquid-vc-templates.php:551
+msgid "Banner 38"
+msgstr "横幅38"
+
+#: theme/liquid-vc-templates.php:563
+msgid "Banner 39"
+msgstr "横幅39"
+
+#: theme/liquid-vc-templates.php:575
+msgid "Banner 40"
+msgstr "横幅40"
+
+#: theme/liquid-vc-templates.php:587
+msgid "Banner 41"
+msgstr "横幅41"
+
+#: theme/liquid-vc-templates.php:599
+msgid "Banner 42"
+msgstr "横幅42"
+
+#: theme/liquid-vc-templates.php:611
+msgid "Banner 43"
+msgstr "横幅43"
+
+#: theme/liquid-vc-templates.php:623
+msgid "Banner 44"
+msgstr "横幅44"
+
+#: theme/liquid-vc-templates.php:635
+msgid "Banner 45"
+msgstr "横幅45"
+
+#: theme/liquid-vc-templates.php:648
+msgid "Banner 46"
+msgstr "横幅46"
+
+#: theme/liquid-vc-templates.php:661
+msgid "Banner 47"
+msgstr "横幅47"
+
+#: theme/liquid-vc-templates.php:673
+msgid "Banner 48"
+msgstr "横幅48"
+
+#: theme/liquid-vc-templates.php:685
+msgid "Banner 49"
+msgstr "横幅49"
+
+#: theme/liquid-vc-templates.php:697
+msgid "Banner 50"
+msgstr "横幅50"
+
+#: theme/liquid-vc-templates.php:709
+msgid "Banner 51"
+msgstr "横幅51"
+
+#: theme/liquid-vc-templates.php:721
+msgid "Banner 52"
+msgstr "横幅52"
+
+#: theme/liquid-vc-templates.php:735
+msgid "Blog 01"
+msgstr "博客01"
+
+#: theme/liquid-vc-templates.php:747
+msgid "Blog 02"
+msgstr "博客02"
+
+#: theme/liquid-vc-templates.php:759
+msgid "Blog 03"
+msgstr "博客03"
+
+#: theme/liquid-vc-templates.php:771
+msgid "Blog 04"
+msgstr "博客04"
+
+#: theme/liquid-vc-templates.php:783
+msgid "Blog 05"
+msgstr "博客05"
+
+#: theme/liquid-vc-templates.php:795
+msgid "Blog 06"
+msgstr "博客06"
+
+#: theme/liquid-vc-templates.php:807
+msgid "Blog 07"
+msgstr "博客07"
+
+#: theme/liquid-vc-templates.php:819
+msgid "Blog 08"
+msgstr "博客08"
+
+#: theme/liquid-vc-templates.php:831
+msgid "Blog 09"
+msgstr "博客09"
+
+#: theme/liquid-vc-templates.php:843
+msgid "Blog 10"
+msgstr "博客10"
+
+#: theme/liquid-vc-templates.php:855
+msgid "Blog 11"
+msgstr "博客11"
+
+#: theme/liquid-vc-templates.php:867
+msgid "Blog 12"
+msgstr "博客12"
+
+#: theme/liquid-vc-templates.php:880
+msgid "Carousel 01"
+msgstr "旋转木马01"
+
+#: theme/liquid-vc-templates.php:892
+msgid "Carousel 02"
+msgstr "旋转木马02"
+
+#: theme/liquid-vc-templates.php:904
+msgid "Carousel 03"
+msgstr "旋转木马03"
+
+#: theme/liquid-vc-templates.php:916
+msgid "Carousel 04"
+msgstr "旋转木马04"
+
+#: theme/liquid-vc-templates.php:928
+msgid "Carousel 05"
+msgstr "旋转木马05"
+
+#: theme/liquid-vc-templates.php:941
+msgid "Contact 01"
+msgstr "联系01"
+
+#: theme/liquid-vc-templates.php:953
+msgid "Contact 02"
+msgstr "联系02"
+
+#: theme/liquid-vc-templates.php:965
+msgid "Contact 03"
+msgstr "联系03"
+
+#: theme/liquid-vc-templates.php:977
+msgid "Contact 04"
+msgstr "联系04"
+
+#: theme/liquid-vc-templates.php:989
+msgid "Contact 05"
+msgstr "联系05"
+
+#: theme/liquid-vc-templates.php:1001
+msgid "Contact 06"
+msgstr "联系06"
+
+#: theme/liquid-vc-templates.php:1014
+msgid "Counter 01"
+msgstr "柜台01"
+
+#: theme/liquid-vc-templates.php:1026
+msgid "Counter 02"
+msgstr "柜台02"
+
+#: theme/liquid-vc-templates.php:1038
+msgid "Counter 03"
+msgstr "柜台03"
+
+#: theme/liquid-vc-templates.php:1050
+msgid "Counter 04"
+msgstr "柜台04"
+
+#: theme/liquid-vc-templates.php:1062
+msgid "Counter 05"
+msgstr "专柜05"
+
+#: theme/liquid-vc-templates.php:1074
+msgid "Counter 06"
+msgstr "柜台06"
+
+#: theme/liquid-vc-templates.php:1086
+msgid "Counter 07"
+msgstr "柜台07"
+
+#: theme/liquid-vc-templates.php:1099
+msgid "Fancy Box 01"
+msgstr "花式盒子01"
+
+#: theme/liquid-vc-templates.php:1111
+msgid "Fancy Box 02"
+msgstr "花式盒子02"
+
+#: theme/liquid-vc-templates.php:1123
+msgid "Fancy Box 03"
+msgstr "花式盒子03"
+
+#: theme/liquid-vc-templates.php:1135
+msgid "Fancy Box 04"
+msgstr "花式盒子04"
+
+#: theme/liquid-vc-templates.php:1148
+msgid "Fancy Box 05"
+msgstr "花式盒子05"
+
+#: theme/liquid-vc-templates.php:1160
+msgid "Fancy Box 06"
+msgstr "花式盒子06"
+
+#: theme/liquid-vc-templates.php:1172
+msgid "Fancy Box 07"
+msgstr "花式盒子07"
+
+#: theme/liquid-vc-templates.php:1185
+msgid "Fancy Box 08"
+msgstr "花式盒子08"
+
+#: theme/liquid-vc-templates.php:1197
+msgid "Fancy Box 09"
+msgstr "花式盒子09"
+
+#: theme/liquid-vc-templates.php:1209
+msgid "Fancy Box 10"
+msgstr "花式盒子10"
+
+#: theme/liquid-vc-templates.php:1221
+msgid "Fancy Box 11"
+msgstr "花式盒子11"
+
+#: theme/liquid-vc-templates.php:1233
+msgid "Fancy Box 12"
+msgstr "花式盒子12"
+
+#: theme/liquid-vc-templates.php:1245
+msgid "Fancy Box 13"
+msgstr "花式盒子13"
+
+#: theme/liquid-vc-templates.php:1257
+msgid "Fancy Box 14"
+msgstr "花式盒子14"
+
+#: theme/liquid-vc-templates.php:1269
+msgid "Fancy Box 15"
+msgstr "花式盒子15"
+
+#: theme/liquid-vc-templates.php:1281
+msgid "Fancy Box 16"
+msgstr "花式盒子16"
+
+#: theme/liquid-vc-templates.php:1294
+msgid "Fancy Text 01"
+msgstr "花哨的文字01"
+
+#: theme/liquid-vc-templates.php:1306
+msgid "Fancy Text 02"
+msgstr "花哨的文字02"
+
+#: theme/liquid-vc-templates.php:1318
+msgid "Fancy Text 03"
+msgstr "花哨的文字03"
+
+#: theme/liquid-vc-templates.php:1330
+msgid "Fancy Text 04"
+msgstr "花哨的文字04"
+
+#: theme/liquid-vc-templates.php:1342
+msgid "Fancy Text 05"
+msgstr "花哨的文字05"
+
+#: theme/liquid-vc-templates.php:1354
+msgid "Fancy Text 06"
+msgstr "花哨的文字06"
+
+#: theme/liquid-vc-templates.php:1366
+msgid "Fancy Text 07"
+msgstr "花哨的文字07"
+
+#: theme/liquid-vc-templates.php:1380
+msgid "Footer 01"
+msgstr "页脚01"
+
+#: theme/liquid-vc-templates.php:1392
+msgid "Footer 02"
+msgstr "页脚02"
+
+#: theme/liquid-vc-templates.php:1404
+msgid "Footer 03"
+msgstr "页脚03"
+
+#: theme/liquid-vc-templates.php:1422
+msgid "Footer 04"
+msgstr "页脚04"
+
+#: theme/liquid-vc-templates.php:1434
+msgid "Footer 05"
+msgstr "页脚05"
+
+#: theme/liquid-vc-templates.php:1446
+msgid "Footer 06"
+msgstr "页脚06"
+
+#: theme/liquid-vc-templates.php:1458
+msgid "Footer 07"
+msgstr "页脚07"
+
+#: theme/liquid-vc-templates.php:1473
+msgid "Footer 08"
+msgstr "页脚08"
+
+#: theme/liquid-vc-templates.php:1485
+msgid "Footer 09"
+msgstr "页脚09"
+
+#: theme/liquid-vc-templates.php:1497
+msgid "Footer 10"
+msgstr "页脚10"
+
+#: theme/liquid-vc-templates.php:1509
+msgid "Footer 11"
+msgstr "页脚11"
+
+#: theme/liquid-vc-templates.php:1521
+msgid "Footer 12"
+msgstr "页脚12"
+
+#: theme/liquid-vc-templates.php:1536
+msgid "Footer 13"
+msgstr "页脚13"
+
+#: theme/liquid-vc-templates.php:1548
+msgid "Footer 14"
+msgstr "页脚14"
+
+#: theme/liquid-vc-templates.php:1560
+msgid "Footer 15"
+msgstr "页脚15"
+
+#: theme/liquid-vc-templates.php:1577
+msgid "Footer 16"
+msgstr "页脚16"
+
+#: theme/liquid-vc-templates.php:1594
+msgid "Footer 17"
+msgstr "页脚17"
+
+#: theme/liquid-vc-templates.php:1606
+msgid "Footer 18"
+msgstr "页脚18"
+
+#: theme/liquid-vc-templates.php:1620
+msgid "Header 01"
+msgstr "标题01"
+
+#: theme/liquid-vc-templates.php:1632
+msgid "Header 02"
+msgstr "标题02"
+
+#: theme/liquid-vc-templates.php:1644
+msgid "Header 03"
+msgstr "标题03"
+
+#: theme/liquid-vc-templates.php:1656
+msgid "Header 04"
+msgstr "标题04"
+
+#: theme/liquid-vc-templates.php:1668
+msgid "Header 05"
+msgstr "标题05"
+
+#: theme/liquid-vc-templates.php:1680
+msgid "Header 06"
+msgstr "标题06"
+
+#: theme/liquid-vc-templates.php:1695
+msgid "Header 07"
+msgstr "标题07"
+
+#: theme/liquid-vc-templates.php:1707
+msgid "Header 08"
+msgstr "标题08"
+
+#: theme/liquid-vc-templates.php:1719
+msgid "Header 09"
+msgstr "标题09"
+
+#: theme/liquid-vc-templates.php:1731
+msgid "Header 10"
+msgstr "标题10"
+
+#: theme/liquid-vc-templates.php:1743
+msgid "Header 11"
+msgstr "标题11"
+
+#: theme/liquid-vc-templates.php:1755
+msgid "Header 12"
+msgstr "标题12"
+
+#: theme/liquid-vc-templates.php:1767
+msgid "Header 13"
+msgstr "标题13"
+
+#: theme/liquid-vc-templates.php:1779
+msgid "Header 14"
+msgstr "标题14"
+
+#: theme/liquid-vc-templates.php:1791
+msgid "Header 15"
+msgstr "标题15"
+
+#: theme/liquid-vc-templates.php:1807
+msgid "Header 16"
+msgstr "标题16"
+
+#: theme/liquid-vc-templates.php:1819
+msgid "Header 17"
+msgstr "标题17"
+
+#: theme/liquid-vc-templates.php:1831
+msgid "Header 18"
+msgstr "标题18"
+
+#: theme/liquid-vc-templates.php:1843
+msgid "Header 19"
+msgstr "标题19"
+
+#: theme/liquid-vc-templates.php:1855
+msgid "Header 20"
+msgstr "标题20"
+
+#: theme/liquid-vc-templates.php:1867
+msgid "Header 21"
+msgstr "标题21"
+
+#: theme/liquid-vc-templates.php:1883
+msgid "Header 22"
+msgstr "标题22"
+
+#: theme/liquid-vc-templates.php:1896
+msgid "Icon 01"
+msgstr "图标01"
+
+#: theme/liquid-vc-templates.php:1911
+msgid "Icon 02"
+msgstr "图标02"
+
+#: theme/liquid-vc-templates.php:1923
+msgid "Icon 03"
+msgstr "图标03"
+
+#: theme/liquid-vc-templates.php:1935
+msgid "Icon 04"
+msgstr "图标04"
+
+#: theme/liquid-vc-templates.php:1947
+msgid "Icon 05"
+msgstr "图标05"
+
+#: theme/liquid-vc-templates.php:1960
+msgid "Icon 06"
+msgstr "图标06"
+
+#: theme/liquid-vc-templates.php:1972
+msgid "Icon 07"
+msgstr "图标07"
+
+#: theme/liquid-vc-templates.php:1984
+msgid "Icon 08"
+msgstr "图标08"
+
+#: theme/liquid-vc-templates.php:1996
+msgid "Icon 09"
+msgstr "图标09"
+
+#: theme/liquid-vc-templates.php:2008
+msgid "Icon 10"
+msgstr "图标10"
+
+#: theme/liquid-vc-templates.php:2020
+msgid "Icon 11"
+msgstr "图标11"
+
+#: theme/liquid-vc-templates.php:2032
+msgid "Icon 12"
+msgstr "图标12"
+
+#: theme/liquid-vc-templates.php:2044
+msgid "Icon 13"
+msgstr "图标13"
+
+#: theme/liquid-vc-templates.php:2056
+msgid "Icon 14"
+msgstr "图标14"
+
+#: theme/liquid-vc-templates.php:2074
+msgid "Icon 15"
+msgstr "图标15"
+
+#: theme/liquid-vc-templates.php:2092
+msgid "Icon 16"
+msgstr "图标16"
+
+#: theme/liquid-vc-templates.php:2120
+msgid "Icon 17"
+msgstr "图标17"
+
+#: theme/liquid-vc-templates.php:2132
+msgid "Icon 18"
+msgstr "图标18"
+
+#: theme/liquid-vc-templates.php:2144
+msgid "Icon 19"
+msgstr "图标19"
+
+#: theme/liquid-vc-templates.php:2156
+msgid "Icon 20"
+msgstr "图标20"
+
+#: theme/liquid-vc-templates.php:2168
+msgid "Icon 21"
+msgstr "图标21"
+
+#: theme/liquid-vc-templates.php:2186
+msgid "Icon 22"
+msgstr "图标22"
+
+#: theme/liquid-vc-templates.php:2198
+msgid "Icon 23"
+msgstr "图标23"
+
+#: theme/liquid-vc-templates.php:2210
+msgid "Icon 24"
+msgstr "图标24"
+
+#: theme/liquid-vc-templates.php:2223
+msgid "Media 01"
+msgstr "媒体01"
+
+#: theme/liquid-vc-templates.php:2235
+msgid "Media 02"
+msgstr "媒体02"
+
+#: theme/liquid-vc-templates.php:2247
+msgid "Media 03"
+msgstr "媒体03"
+
+#: theme/liquid-vc-templates.php:2259
+msgid "Media 04"
+msgstr "媒体04"
+
+#: theme/liquid-vc-templates.php:2271
+msgid "Media 05"
+msgstr "媒体05"
+
+#: theme/liquid-vc-templates.php:2284
+msgid "Misc 01"
+msgstr "杂项01"
+
+#: theme/liquid-vc-templates.php:2299
+msgid "Misc 02"
+msgstr "杂项02"
+
+#: theme/liquid-vc-templates.php:2311
+msgid "Misc 03"
+msgstr "杂项03"
+
+#: theme/liquid-vc-templates.php:2323
+msgid "Misc 04"
+msgstr "杂项04"
+
+#: theme/liquid-vc-templates.php:2335
+msgid "Misc 05"
+msgstr "杂项05"
+
+#: theme/liquid-vc-templates.php:2347
+msgid "Misc 06"
+msgstr "杂项06"
+
+#: theme/liquid-vc-templates.php:2359
+msgid "Misc 07"
+msgstr "杂项07"
+
+#: theme/liquid-vc-templates.php:2371
+msgid "Misc 08"
+msgstr "杂项08"
+
+#: theme/liquid-vc-templates.php:2383
+msgid "Misc 09"
+msgstr "杂项09"
+
+#: theme/liquid-vc-templates.php:2395
+msgid "Misc 10"
+msgstr "杂项10"
+
+#: theme/liquid-vc-templates.php:2408
+msgid "Newsletter 01"
+msgstr "通讯01"
+
+#: theme/liquid-vc-templates.php:2420
+msgid "Newsletter 02"
+msgstr "时事通讯02"
+
+#: theme/liquid-vc-templates.php:2432
+msgid "Newsletter 03"
+msgstr "时事通讯03"
+
+#: theme/liquid-vc-templates.php:2444
+msgid "Newsletter 04"
+msgstr "通讯04"
+
+#: theme/liquid-vc-templates.php:2457
+msgid "Portfolio 01"
+msgstr "投资组合01"
+
+#: theme/liquid-vc-templates.php:2469
+msgid "Portfolio 02"
+msgstr "投资组合02"
+
+#: theme/liquid-vc-templates.php:2481
+msgid "Portfolio 03"
+msgstr "投资组合03"
+
+#: theme/liquid-vc-templates.php:2495
+msgid "Portfolio 04"
+msgstr "投资组合04"
+
+#: theme/liquid-vc-templates.php:2507
+msgid "Portfolio 05"
+msgstr "投资组合05"
+
+#: theme/liquid-vc-templates.php:2519
+msgid "Portfolio 06"
+msgstr "投资组合06"
+
+#: theme/liquid-vc-templates.php:2532
+msgid "Pricing 01"
+msgstr "定价01"
+
+#: theme/liquid-vc-templates.php:2565
+msgid "Pricing 02"
+msgstr "定价02"
+
+#: theme/liquid-vc-templates.php:2598
+msgid "Pricing 03"
+msgstr "定价03"
+
+#: theme/liquid-vc-templates.php:2632
+msgid "Process 01"
+msgstr "过程01"
+
+#: theme/liquid-vc-templates.php:2644
+msgid "Process 02"
+msgstr "过程02"
+
+#: theme/liquid-vc-templates.php:2656
+msgid "Process 03"
+msgstr "流程03"
+
+#: theme/liquid-vc-templates.php:2668
+msgid "Process 04"
+msgstr "过程04"
+
+#: theme/liquid-vc-templates.php:2681
+msgid "Tabs 01"
+msgstr "标签01"
+
+#: theme/liquid-vc-templates.php:2693
+msgid "Tabs 02"
+msgstr "标签02"
+
+#: theme/liquid-vc-templates.php:2705
+msgid "Tabs 03"
+msgstr "标签03"
+
+#: theme/liquid-vc-templates.php:2798
+msgid "Team 01"
+msgstr "团队01"
+
+#: theme/liquid-vc-templates.php:2810
+msgid "Team 02"
+msgstr "团队02"
+
+#: theme/liquid-vc-templates.php:2823
+msgid "Team 03"
+msgstr "团队03"
+
+#: theme/liquid-vc-templates.php:2836
+msgid "Team 04"
+msgstr "团队04"
+
+#: theme/liquid-vc-templates.php:2849
+msgid "Team 05"
+msgstr "团队05"
+
+#: theme/liquid-vc-templates.php:2862
+msgid "Team 06"
+msgstr "团队06"
+
+#: theme/liquid-vc-templates.php:2875
+msgid "Clients 01"
+msgstr "客户01"
+
+#: theme/liquid-vc-templates.php:2887
+msgid "Clients 02"
+msgstr "客户02"
+
+#: theme/liquid-vc-templates.php:2899
+msgid "Testimonials 01"
+msgstr "推荐书01"
+
+#: theme/liquid-vc-templates.php:2911
+msgid "Testimonials 02"
+msgstr "推荐书02"
+
+#: theme/liquid-vc-templates.php:2927
+msgid "Testimonials 03"
+msgstr "推荐书03"
+
+#: theme/liquid-vc-templates.php:2947
+msgid "Testimonials 04"
+msgstr "推荐书04"
+
+#: theme/liquid-vc-templates.php:2959
+msgid "Testimonials 05"
+msgstr "推荐书05"
+
+#: theme/liquid-vc-templates.php:2972
+msgid "Testimonials 06"
+msgstr "推荐书06"
+
+#: theme/liquid-vc-templates.php:2984
+msgid "Testimonials 07"
+msgstr "推荐书07"
+
+#: theme/liquid-vc-templates.php:2996
+msgid "Testimonials 08"
+msgstr "推荐书08"
+
+#: theme/liquid-vc-templates.php:3014
+msgid "Testimonials 09"
+msgstr "推荐书09"
+
+#: theme/liquid-vc-templates.php:3026
+msgid "Testimonials 10"
+msgstr "推荐书10"
+
+#: theme/liquid-vc-templates.php:3038
+msgid "Testimonials 11"
+msgstr "推荐书11"
+
+#: theme/liquid-vc-templates.php:3050
+msgid "Testimonials 12"
+msgstr "推荐书12"
+
+#: theme/liquid-vc-templates.php:3062
+msgid "Testimonials 13"
+msgstr "推荐书13"
+
+#: theme/liquid-vc-templates.php:3074
+msgid "Testimonials 14"
+msgstr "推荐书14"
+
+#: theme/metaboxes/liquid-content.php:16
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:98
+#: theme/theme-options/liquid-page-404.php:38
+msgid "Content"
+msgstr "内容"
+
+#: theme/metaboxes/liquid-content.php:17
+msgid "Change the content section configuration."
+msgstr "更改内容部分配置。"
+
+#: theme/metaboxes/liquid-content.php:23
+msgid "Content Padding"
+msgstr "内容填充"
+
+#: theme/metaboxes/liquid-content.php:24
+msgid "Select desired padding for the content"
+msgstr "为内容选择所需的填充"
+
+#: theme/metaboxes/liquid-content.php:26 theme/metaboxes/liquid-footer.php:27
+#: theme/metaboxes/liquid-header-options.php:25
+#: theme/metaboxes/liquid-header.php:27
+#: theme/metaboxes/liquid-portfolio-general.php:41
+#: theme/metaboxes/liquid-portfolio-general.php:58
+#: theme/metaboxes/liquid-portfolio-general.php:68
+#: theme/metaboxes/liquid-portfolio-meta.php:27
+#: theme/metaboxes/liquid-portfolio-meta.php:39
+#: theme/metaboxes/liquid-portfolio-meta.php:91
+#: theme/metaboxes/liquid-post.php:25 theme/metaboxes/liquid-post.php:76
+#: theme/metaboxes/liquid-post.php:129 theme/metaboxes/liquid-post.php:141
+#: theme/metaboxes/liquid-post.php:153 theme/metaboxes/liquid-post.php:165
+#: theme/metaboxes/liquid-post.php:215 theme/metaboxes/liquid-post.php:241
+#: theme/metaboxes/liquid-sidebars.php:27 theme/metaboxes/liquid-sliders.php:63
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:26
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:68
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:119
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:135
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:147
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:259
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:316
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:371
+#: theme/metaboxes/liquid-title-wrapper.php:25
+#: theme/metaboxes/liquid-title-wrapper.php:47
+#: theme/metaboxes/liquid-title-wrapper.php:89
+#: theme/metaboxes/liquid-title-wrapper.php:199
+#: theme/metaboxes/liquid-title-wrapper.php:215
+#: theme/metaboxes/liquid-title-wrapper.php:241
+#: theme/metaboxes/liquid-title-wrapper.php:256
+#: theme/theme-options/liquid-blog.php:515
+#: theme/theme-options/liquid-layout.php:18
+#: theme/theme-options/liquid-portfolio.php:64
+#: theme/theme-options/liquid-portfolio.php:83
+msgid "Default"
+msgstr "默认"
+
+#: theme/metaboxes/liquid-content.php:27
+msgid "No padding"
+msgstr "没有填充物"
+
+#: theme/metaboxes/liquid-content.php:28
+msgid "Only padding top"
+msgstr "只有填充顶部"
+
+#: theme/metaboxes/liquid-content.php:29
+msgid "Only padding bottom"
+msgstr "只填充底部"
+
+#: theme/metaboxes/liquid-footer-options.php:16
+msgid "Design Options"
+msgstr "设计选项"
+
+#: theme/metaboxes/liquid-footer-options.php:23
+msgid "Sticky Footer"
+msgstr "粘性页脚"
+
+#: theme/metaboxes/liquid-footer-options.php:24
+msgid "If on, this footer will be sticky"
+msgstr "如果打开，此页脚将是粘性的"
+
+#: theme/metaboxes/liquid-footer-options.php:35
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: theme/metaboxes/liquid-footer-options.php:40
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: theme/metaboxes/liquid-footer-options.php:46
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:246
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:290
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:302
+#: theme/theme-options/liquid-page-maintenance.php:129
+#: theme/theme-options/liquid-page-maintenance.php:141
+#: theme/theme-options/liquid-page-maintenance.php:153
+msgid "Background"
+msgstr "背景"
+
+#: theme/metaboxes/liquid-footer-options.php:52
+msgid "Color/Gradient Background"
+msgstr "颜色/渐变背景"
+
+#: theme/metaboxes/liquid-footer-options.php:58
+msgid "Padding"
+msgstr "填充"
+
+#: theme/metaboxes/liquid-footer.php:16 theme/metaboxes/liquid-footer.php:23
+#: theme/theme-options/liquid-extras.php:42
+#: theme/theme-options/liquid-footer.php:7
+#: theme/theme-options/liquid-footer.php:13
+msgid "Footer"
+msgstr "页脚"
+
+#: theme/metaboxes/liquid-footer.php:24
+#: theme/theme-options/liquid-preheader.php:16
+msgid "If on, this layout part will be displayed."
+msgstr "如果选中，将显示此布局部分。"
+
+#: theme/metaboxes/liquid-footer.php:35
+msgid "Footer Style"
+msgstr "页脚样式"
+
+#: theme/metaboxes/liquid-footer.php:36
+msgid ""
+"Choose the footer style amongst you created, selecting a footer will "
+"overwrite the theme options."
+msgstr "选择您创建的页脚样式，选择页脚将覆盖主题选项。"
+
+#: theme/metaboxes/liquid-header-options.php:16
+msgid "Header Design Options"
+msgstr "标题设计选项"
+
+#: theme/metaboxes/liquid-header-options.php:23
+#: theme/metaboxes/liquid-header-options.php:144
+#: theme/metaboxes/liquid-post.php:23 theme/theme-options/liquid-blog.php:170
+#: theme/theme-options/liquid-blog.php:293
+msgid "Style"
+msgstr "样式"
+
+#: theme/metaboxes/liquid-header-options.php:26
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: theme/metaboxes/liquid-header-options.php:27
+msgid "Side 1"
+msgstr "第1面"
+
+#: theme/metaboxes/liquid-header-options.php:28
+msgid "Side 2"
+msgstr "第2面"
+
+#: theme/metaboxes/liquid-header-options.php:35
+msgid "Navigation Background"
+msgstr "导航背景"
+
+#: theme/metaboxes/liquid-header-options.php:45
+msgid "Enable Megamenu Reaction?"
+msgstr "启用Megamenu反应？"
+
+#: theme/metaboxes/liquid-header-options.php:46
+msgid ""
+"Enable if you want to add backround animation to header when hover the "
+"megamenu item"
+msgstr "如果要在悬停megamenu项目时将背景动画添加到标题，请启用此选项"
+
+#: theme/metaboxes/liquid-header-options.php:60
+msgid "Enable Sticky Header?"
+msgstr "启用粘性标题？"
+
+#: theme/metaboxes/liquid-header-options.php:74
+msgid "Sticky Header Position"
+msgstr "粘性标题位置"
+
+#: theme/metaboxes/liquid-header-options.php:76
+msgid "Default - Bottom of the header"
+msgstr "默认 - 标题的底部"
+
+#: theme/metaboxes/liquid-header-options.php:77
+msgid "After first section"
+msgstr "第一节后"
+
+#: theme/metaboxes/liquid-header-options.php:89
+msgid "Sticky Header Background"
+msgstr "粘滞的标头背景"
+
+#: theme/metaboxes/liquid-header-options.php:100
+msgid "Sticky Header Color"
+msgstr "粘性标题颜色"
+
+#: theme/metaboxes/liquid-header-options.php:111
+msgid "Sticky Header Hover Color"
+msgstr "粘滞标头悬停颜色"
+
+#: theme/metaboxes/liquid-header-options.php:121
+msgid "Overlay?"
+msgstr "覆盖？"
+
+#: theme/metaboxes/liquid-header-options.php:137
+#: theme/theme-options/liquid-header-mobile-nav.php:3
+msgid "Mobile Navigation"
+msgstr "移动导航"
+
+#: theme/metaboxes/liquid-header-options.php:146
+#: theme/metaboxes/liquid-post.php:176 theme/theme-options/liquid-blog.php:46
+#: theme/theme-options/liquid-blog.php:172
+#: theme/theme-options/liquid-blog.php:295
+#: theme/theme-options/liquid-blog.php:418
+#: theme/theme-options/liquid-header-mobile-nav.php:12
+msgid "Classic"
+msgstr "经典"
+
+#: theme/metaboxes/liquid-header-options.php:147
+#: theme/theme-options/liquid-header-mobile-nav.php:13
+msgid "Minimal"
+msgstr "最小"
+
+#: theme/metaboxes/liquid-header-options.php:148
+#: theme/theme-options/liquid-header-mobile-nav.php:14
+msgid "Modern"
+msgstr "现代"
+
+#: theme/metaboxes/liquid-header-options.php:154
+msgid "Trigger Alignment"
+msgstr "触发对齐"
+
+#: theme/metaboxes/liquid-header-options.php:163
+msgid "Navigation Alignment"
+msgstr "导航对齐"
+
+#: theme/metaboxes/liquid-header-options.php:177
+msgid "Color Scheme"
+msgstr "配色方案"
+
+#: theme/metaboxes/liquid-header-options.php:179
+#: theme/metaboxes/liquid-header-options.php:195
+#: theme/theme-options/liquid-header-mobile-nav.php:45
+#: theme/theme-options/liquid-header-mobile-nav.php:61
+msgid "Gray"
+msgstr "灰色"
+
+#: theme/metaboxes/liquid-header-options.php:180
+#: theme/metaboxes/liquid-header-options.php:194
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:69
+#: theme/metaboxes/liquid-title-wrapper.php:146
+#: theme/theme-options/liquid-header-mobile-nav.php:46
+#: theme/theme-options/liquid-header-mobile-nav.php:60
+#: theme/theme-options/liquid-header-title-wrapper.php:100
+msgid "Light"
+msgstr "光"
+
+#: theme/metaboxes/liquid-header-options.php:181
+#: theme/metaboxes/liquid-header-options.php:196
+#: theme/metaboxes/liquid-title-wrapper.php:147
+#: theme/theme-options/liquid-header-mobile-nav.php:47
+#: theme/theme-options/liquid-header-mobile-nav.php:62
+#: theme/theme-options/liquid-header-title-wrapper.php:101
+msgid "Dark"
+msgstr "暗"
+
+#: theme/metaboxes/liquid-header-options.php:192
+msgid "Header Color Scheme"
+msgstr "标题颜色方案"
+
+#: theme/metaboxes/liquid-header-options.php:202
+msgid "Show secondary bar of the header"
+msgstr "显示标题的辅助栏"
+
+#: theme/metaboxes/liquid-header.php:17 theme/metaboxes/liquid-header.php:24
+#: theme/metaboxes/liquid-portfolio-general.php:37
+#: theme/theme-options/liquid-extras.php:20
+#: theme/theme-options/liquid-header-layout.php:13
+#: theme/theme-options/liquid-header.php:7
+msgid "Header"
+msgstr "头"
+
+#: theme/metaboxes/liquid-header.php:35
+msgid "Header Style"
+msgstr "标题样式"
+
+#: theme/metaboxes/liquid-header.php:36
+msgid ""
+"Choose the header style amongst your headers, this option will overwrite the "
+"default header."
+msgstr "在标题中选择标题样式，此选项将覆盖默认标题。"
+
+#: theme/metaboxes/liquid-megamenu-options.php:9
+msgid "MegaMenu Design Options"
+msgstr "MegaMenu设计选项"
+
+#: theme/metaboxes/liquid-megamenu-options.php:15
+msgid "MegaMenu Fullwidth?"
+msgstr "MegaMenu 全宽?"
+
+#: theme/metaboxes/liquid-megamenu-options.php:16
+msgid ""
+"Stretch the background of megamenu. To make the content fullwidth please "
+"update row options from the contents."
+msgstr "拉伸megamenu的背景。要使内容全宽，请从内容更新行选项。"
+
+#: theme/metaboxes/liquid-page.php:23 theme/theme-options/liquid-layout.php:15
+msgid "Page Color Scheme"
+msgstr "页面颜色方案"
+
+#: theme/metaboxes/liquid-page.php:24
+msgid "Select a color scheme for the page"
+msgstr "选择页面的颜色方案"
+
+#: theme/metaboxes/liquid-page.php:26 theme/theme-options/liquid-layout.php:20
+msgid "Dark - (light background and dark content)"
+msgstr "黑暗 - （浅色背景和深色内容）"
+
+#: theme/metaboxes/liquid-page.php:27 theme/theme-options/liquid-layout.php:19
+msgid "Light - (dark background and light content)"
+msgstr "光 - （深色背景和光线内容）"
+
+#: theme/metaboxes/liquid-page.php:36 theme/theme-options/liquid-layout.php:29
+msgid "Content Background"
+msgstr "内容背景"
+
+#: theme/metaboxes/liquid-page.php:42 theme/theme-options/liquid-layout.php:35
+msgid "Content Background Gradient"
+msgstr "内容背景渐变"
+
+#: theme/metaboxes/liquid-page.php:43
+#: theme/metaboxes/liquid-title-wrapper.php:186
+#: theme/theme-options/liquid-header-title-wrapper.php:125
+#: theme/theme-options/liquid-layout.php:36
+msgid "Overwrites the background image, unless has transparency."
+msgstr "除非具有透明度，否则会覆盖背景图像。"
+
+#: theme/metaboxes/liquid-page.php:48
+msgid "Enable Page Blocks?"
+msgstr "启用页面块？"
+
+#: theme/metaboxes/liquid-page.php:49
+msgid "Will enable page stack"
+msgstr "将启用页面堆栈"
+
+#: theme/metaboxes/liquid-page.php:59
+msgid "Page Blocks Effect"
+msgstr "页面块效果"
+
+#: theme/metaboxes/liquid-page.php:60
+msgid "Select an effect for the section transition"
+msgstr "为节转换选择效果"
+
+#: theme/metaboxes/liquid-page.php:63
+msgid "fadeScale"
+msgstr "淡入淡出"
+
+#: theme/metaboxes/liquid-page.php:64
+msgid "slideOver"
+msgstr "滑过"
+
+#: theme/metaboxes/liquid-page.php:75
+msgid "Page Blocks Navigation?"
+msgstr "页面块导航？"
+
+#: theme/metaboxes/liquid-page.php:76
+msgid "Will enable page blocks navigation"
+msgstr "将启用页面块导航"
+
+#: theme/metaboxes/liquid-page.php:90
+msgid "Page Blocks Previous/Next buttons?"
+msgstr "页面阻止上一个/下一个按钮？"
+
+#: theme/metaboxes/liquid-page.php:104
+msgid "Buttons Style"
+msgstr "按钮样式"
+
+#: theme/metaboxes/liquid-page.php:105
+msgid "Select style for the buttons"
+msgstr "选择按钮的样式"
+
+#: theme/metaboxes/liquid-page.php:107
+#: theme/metaboxes/liquid-portfolio-meta.php:50
+#: theme/theme-options/liquid-portfolio.php:197
+msgid "Style 1"
+msgstr "风格1"
+
+#: theme/metaboxes/liquid-page.php:108
+#: theme/metaboxes/liquid-portfolio-meta.php:51
+#: theme/theme-options/liquid-portfolio.php:198
+msgid "Style 2"
+msgstr "风格2"
+
+#: theme/metaboxes/liquid-page.php:120
+msgid "Page Blocks Numbers?"
+msgstr "页面块数字？"
+
+#: theme/metaboxes/liquid-portfolio-general.php:17
+msgid "Portfolio Description"
+msgstr "投资组合描述"
+
+#: theme/metaboxes/liquid-portfolio-general.php:30
+msgid "Portfolio General"
+msgstr "组合总则"
+
+#: theme/metaboxes/liquid-portfolio-general.php:38
+msgid "Display the header"
+msgstr "显示标题"
+
+#: theme/metaboxes/liquid-portfolio-general.php:49
+msgid "Subtitle"
+msgstr "字幕"
+
+#: theme/metaboxes/liquid-portfolio-general.php:50
+msgid "Manage the subtitle of portfolio listing"
+msgstr "管理投资组合列表的副标题"
+
+#: theme/metaboxes/liquid-portfolio-general.php:55
+#: theme/theme-options/liquid-portfolio.php:39
+msgid "Portfolio Style"
+msgstr "组合风格"
+
+#: theme/metaboxes/liquid-portfolio-general.php:66
+msgid "Defines the width of the featured image on the portfolio listing page"
+msgstr "定义投资组合列表页面上的特色图像的宽度"
+
+#: theme/metaboxes/liquid-portfolio-general.php:69
+msgid "Auto - width determined by thumbnail width"
+msgstr "自动 - 宽度由缩略图宽度决定"
+
+#: theme/metaboxes/liquid-portfolio-general.php:70
+#: theme/metaboxes/liquid-post.php:216
+msgid "2 columns - 1/6"
+msgstr "2列 -  1/6"
+
+#: theme/metaboxes/liquid-portfolio-general.php:71
+#: theme/metaboxes/liquid-post.php:217
+msgid "3 columns - 1/4"
+msgstr "3列 -  1/4"
+
+#: theme/metaboxes/liquid-portfolio-general.php:72
+#: theme/metaboxes/liquid-post.php:218
+msgid "4 columns - 1/3"
+msgstr "4列 -  1/3"
+
+#: theme/metaboxes/liquid-portfolio-general.php:73
+#: theme/metaboxes/liquid-post.php:219
+msgid "5 columns - 5/12"
+msgstr "5列 -  5/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:74
+#: theme/metaboxes/liquid-post.php:220
+msgid "6 columns - 1/2"
+msgstr "6列 -  1/2"
+
+#: theme/metaboxes/liquid-portfolio-general.php:75
+#: theme/metaboxes/liquid-post.php:221
+msgid "7 columns - 7/12"
+msgstr "7列 -  7/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:76
+#: theme/metaboxes/liquid-post.php:222
+msgid "8 columns - 2/3"
+msgstr "8列 -  2/3"
+
+#: theme/metaboxes/liquid-portfolio-general.php:77
+#: theme/metaboxes/liquid-post.php:223
+msgid "9 columns - 3/4"
+msgstr "9列 -  3/4"
+
+#: theme/metaboxes/liquid-portfolio-general.php:78
+#: theme/metaboxes/liquid-post.php:224
+msgid "10 columns - 5/6"
+msgstr "10列 -  5/6"
+
+#: theme/metaboxes/liquid-portfolio-general.php:79
+#: theme/metaboxes/liquid-post.php:225
+msgid "11 columns - 11/12"
+msgstr "11列 -  11/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:80
+#: theme/metaboxes/liquid-post.php:226
+msgid "12 columns - 12/12"
+msgstr "12列 -  12/12"
+
+#: theme/metaboxes/liquid-portfolio-general.php:86
+msgid "Thumb Dimension"
+msgstr "拇指尺寸"
+
+#: theme/metaboxes/liquid-portfolio-general.php:87
+msgid "Choose a dimension for your portfolio thumb"
+msgstr "选择投资组合拇指的维度"
+
+#: theme/metaboxes/liquid-portfolio-general.php:90
+msgid "Default - (370 x 300)"
+msgstr "默认 - （370 x 300）"
+
+#: theme/metaboxes/liquid-portfolio-general.php:91
+msgid "Square - (295 x 295)"
+msgstr "广场 - （295 x 295）"
+
+#: theme/metaboxes/liquid-portfolio-general.php:92
+msgid "Big Square - (600 x 600)"
+msgstr "大广场 - （600 x 600）"
+
+#: theme/metaboxes/liquid-portfolio-general.php:93
+msgid "Portrait - (350 x 500)"
+msgstr "人像 - （350 x 500）"
+
+#: theme/metaboxes/liquid-portfolio-general.php:94
+msgid "Wide - (600 x 295)"
+msgstr "宽 - （600 x 295）"
+
+#: theme/metaboxes/liquid-portfolio-general.php:96
+msgid "Packery Wide - (570 x 370)"
+msgstr "包装广泛 - (570 x 370)"
+
+#: theme/metaboxes/liquid-portfolio-general.php:97
+msgid "Packery Portrait - (270 x 370)"
+msgstr "包装肖像  - （270 x 370）"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:16
+msgid "Portfolio Meta"
+msgstr "投资组合元"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:23
+#: theme/metaboxes/liquid-post.php:125
+msgid "Social Sharing Box"
+msgstr "社交分享盒"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:24
+msgid "Turn on to display the social sharing box on single portfolio posts."
+msgstr "打开以在单个投资组合帖子上显示社交分享框。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:35
+#: theme/metaboxes/liquid-post.php:161
+msgid "Related Projects"
+msgstr "相关项目"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:36
+msgid "Turn on to display related projects on single portfolio posts."
+msgstr "打开以在单个投资组合帖子上显示相关项目。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:47
+#: theme/theme-options/liquid-portfolio.php:171
+msgid "Related Works"
+msgstr "相关作品"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:48
+#: theme/theme-options/liquid-portfolio.php:172
+msgid "Switch on to display related works on single portfolio pages."
+msgstr "打开以在单个组合页面上显示相关作品。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:63
+#: theme/theme-options/liquid-portfolio.php:183
+msgid "Related Works Title"
+msgstr "相关作品标题"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:74
+#: theme/theme-options/liquid-portfolio.php:211
+msgid "Number of Related Works"
+msgstr "相关作品数量"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:75
+#: theme/theme-options/liquid-portfolio.php:212
+msgid "Manages the number of works that display on related works section."
+msgstr "管理相关作品部分显示的作品数量。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:88
+msgid "Swtich on to show the date on your portfolio item."
+msgstr "Swtich将在您的投资组合项目上显示日期。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:99
+msgid "Label of Date"
+msgstr "日期标签"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:100
+msgid "Translate or change the \"date\" text. Leave empty for no change."
+msgstr "翻译或更改“日期”文本。 留空是没有变化的。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:111
+msgid "Date of Work"
+msgstr "工作日期"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:112
+msgid "Overwrites the portfolio post publish date."
+msgstr "覆盖投资组合发布日期。"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:123
+msgid "External URL"
+msgstr "外部URL"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:128
+msgid "Label of Button"
+msgstr "按钮标签"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:129
+msgid "Launch"
+msgstr "发射"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:134
+msgid "Attributes"
+msgstr "属性"
+
+#: theme/metaboxes/liquid-portfolio-meta.php:135
+msgid ""
+"Add custom portfolio attributes. Divide by | label with value ( Label | "
+"Value )"
+msgstr "添加自定义组合属性。 除以| 带有值的标签（标签|值）"
+
+#: theme/metaboxes/liquid-post-format.php:9
+msgid "Audio"
+msgstr "音频"
+
+#: theme/metaboxes/liquid-post-format.php:18
+msgid "Audio URL"
+msgstr "音频网址"
+
+#: theme/metaboxes/liquid-post-format.php:19
+msgid "Audio file URL in format: mp3, ogg, wav."
+msgstr "音频文件URL格式为：mp3，ogg，wav。"
+
+#: theme/metaboxes/liquid-post-format.php:27
+msgid "Gallery"
+msgstr "画廊"
+
+#: theme/metaboxes/liquid-post-format.php:36
+msgid "Lightbox?"
+msgstr "灯箱？"
+
+#: theme/metaboxes/liquid-post-format.php:37
+msgid "Enable lightbox for gallery images"
+msgstr "为图库图像启用灯箱"
+
+#: theme/metaboxes/liquid-post-format.php:48
+msgid "Gallery Slider"
+msgstr "画廊滑块"
+
+#: theme/metaboxes/liquid-post-format.php:49
+msgid "Upload images or add from media library."
+msgstr "上传图像或从媒体库添加。"
+
+#: theme/metaboxes/liquid-post-format.php:51
+#: theme/theme-options/liquid-extras.php:125
+#: theme/theme-options/liquid-page-404.php:24
+#: theme/theme-options/liquid-page-maintenance.php:171
+msgid "Title"
+msgstr "标题"
+
+#: theme/metaboxes/liquid-post-format.php:65
+msgid "Link"
+msgstr "链接"
+
+#: theme/metaboxes/liquid-post-format.php:74
+#: theme/theme-options/liquid-header-modules.php:54
+#: theme/theme-options/liquid-header-modules.php:102
+msgid "URL"
+msgstr "网址"
+
+#: theme/metaboxes/liquid-post-format.php:82
+msgid "Quote"
+msgstr "引用"
+
+#: theme/metaboxes/liquid-post-format.php:90
+msgid "Cite"
+msgstr "引用"
+
+#: theme/metaboxes/liquid-post-format.php:98
+msgid "Video"
+msgstr "视频"
+
+#: theme/metaboxes/liquid-post-format.php:107
+msgid "Video URL"
+msgstr "视频网址"
+
+#: theme/metaboxes/liquid-post-format.php:108
+msgid "YouTube or Vimeo video URL"
+msgstr "YouTube或Vimeo视频网址"
+
+#: theme/metaboxes/liquid-post-format.php:114
+msgid "Video Upload"
+msgstr "视频上传"
+
+#: theme/metaboxes/liquid-post-format.php:115
+msgid "Upload video file"
+msgstr "上传视频文件"
+
+#: theme/metaboxes/liquid-post-format.php:121
+msgid "Embadded video"
+msgstr "嵌入式视频"
+
+#: theme/metaboxes/liquid-post-format.php:122
+msgid "Use this option when the video does not come from YouTube or Vimeo"
+msgstr "如果视频不是来自YouTube或Vimeo，请使用此选项"
+
+#: theme/metaboxes/liquid-post.php:16
+msgid "Post Options"
+msgstr "发布选项"
+
+#: theme/metaboxes/liquid-post.php:26 theme/metaboxes/liquid-post.php:177
+#: theme/theme-options/liquid-blog.php:516
+msgid "Cover"
+msgstr "覆盖"
+
+#: theme/metaboxes/liquid-post.php:27 theme/theme-options/liquid-blog.php:517
+msgid "Cover Spaced"
+msgstr "封面间隔"
+
+#: theme/metaboxes/liquid-post.php:28 theme/theme-options/liquid-blog.php:518
+msgid "Cover Slider"
+msgstr "盖滑块"
+
+#: theme/metaboxes/liquid-post.php:35
+msgid "Extra Text"
+msgstr "额外文字"
+
+#: theme/metaboxes/liquid-post.php:36
+msgid "Text will display near meta section"
+msgstr "文本将显示在meta部分附近"
+
+#: theme/metaboxes/liquid-post.php:46
+msgid "Add images for Cover slider"
+msgstr "添加封面滑块的图像"
+
+#: theme/metaboxes/liquid-post.php:61
+msgid "Cover Image"
+msgstr "封面图片"
+
+#: theme/metaboxes/liquid-post.php:62
+msgid "Will override the featured image in single post"
+msgstr "将在单个帖子中覆盖特色图像"
+
+#: theme/metaboxes/liquid-post.php:72
+msgid "Enable Parallax"
+msgstr "启用视差"
+
+#: theme/metaboxes/liquid-post.php:73
+msgid "Turn on parallax effect on post cover image"
+msgstr "打开封面图像上的视差效果"
+
+#: theme/metaboxes/liquid-post.php:89
+msgid "Show Play Button"
+msgstr "显示播放按钮"
+
+#: theme/metaboxes/liquid-post.php:90
+msgid "Turn on to show Play Button on the post cover image"
+msgstr "打开以在帖子封面图像上显示“播放按钮”"
+
+#: theme/metaboxes/liquid-post.php:105
+msgid "Play Button Url"
+msgstr "播放按钮网址"
+
+#: theme/metaboxes/liquid-post.php:115
+msgid "Play Button Label"
+msgstr "播放按钮标签"
+
+#: theme/metaboxes/liquid-post.php:126
+msgid "Turn on to display the social sharing box on single posts."
+msgstr "打开以在单个帖子上显示社交分享框。"
+
+#: theme/metaboxes/liquid-post.php:137
+msgid "Author Info Box"
+msgstr "作者信息框"
+
+#: theme/metaboxes/liquid-post.php:138
+msgid "Turn on to display the author info box below posts."
+msgstr "开启以显示帖子下方的作者信息框。"
+
+#: theme/metaboxes/liquid-post.php:149
+msgid "Previous/Next Pagination"
+msgstr "上一页/下一页分页"
+
+#: theme/metaboxes/liquid-post.php:150
+msgid "Turn on to display the previous/next post pagination for single posts."
+msgstr "打开以显示单个帖子的上一个/下一个帖子分页。"
+
+#: theme/metaboxes/liquid-post.php:162
+msgid "Turn on to display related posts/projects on single posts."
+msgstr "打开以在单个帖子上显示相关帖子/项目。"
+
+#: theme/metaboxes/liquid-post.php:173
+msgid "Related posts section style"
+msgstr "相关帖子部分样式"
+
+#: theme/metaboxes/liquid-post.php:174
+msgid ""
+"Select desired style for the related posts section to display on single post"
+msgstr "为相关帖子部分选择所需的样式以在单个帖子上显示"
+
+#: theme/metaboxes/liquid-post.php:188
+msgid "Related posts section title"
+msgstr "相关帖子栏目标题"
+
+#: theme/metaboxes/liquid-post.php:198
+msgid "Number of Related Projects"
+msgstr "相关项目数量"
+
+#: theme/metaboxes/liquid-post.php:199
+msgid "Controls the number of posts that display under related posts section."
+msgstr "控制在相关帖子部分下显示的帖子数量。"
+
+#: theme/metaboxes/liquid-post.php:213
+msgid ""
+"Select desired width for the blog item on portfolio listing page, only for "
+"carousel and carousel filterable styles"
+msgstr ""
+"在投资组合列表页面上为博客项目选择所需的宽度，仅适用于轮播和轮播可过滤样式"
+
+#: theme/metaboxes/liquid-post.php:232
+msgid "Label Before Title."
+msgstr "标题前的标签。"
+
+#: theme/metaboxes/liquid-post.php:233
+msgid "Will apply only for Featured Fullwidth style in Blog Listing Shortcode"
+msgstr "仅适用于博客列表短代码中的特色全宽样式"
+
+#: theme/metaboxes/liquid-post.php:238
+msgid "Make this post featured or instagram?"
+msgstr "这篇文章是精选还是Instagram？"
+
+#: theme/metaboxes/liquid-post.php:239
+msgid "Will apply only for Metro style in Blog Listing Shortcode"
+msgstr "仅适用于博客列表短代码中的Metro风格"
+
+#: theme/metaboxes/liquid-post.php:242 theme/theme-options/liquid-blog.php:48
+#: theme/theme-options/liquid-blog.php:174
+#: theme/theme-options/liquid-blog.php:297
+#: theme/theme-options/liquid-blog.php:420
+msgid "Featured"
+msgstr "精选"
+
+#: theme/metaboxes/liquid-post.php:243
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: theme/metaboxes/liquid-post.php:249
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:340
+msgid "Overlay Color"
+msgstr "叠加颜色"
+
+#: theme/metaboxes/liquid-post.php:250
+msgid ""
+"Will apply only to instagram posts of the Metro style of the Blog listing"
+msgstr "仅适用于博客列表的Metro风格的Instagram帖子"
+
+#: theme/metaboxes/liquid-sidebars.php:15
+msgid "Select Sidebar"
+msgstr "选择补充工具栏"
+
+#: theme/metaboxes/liquid-sidebars.php:16
+msgid ""
+"Select sidebar that will display on this page. Choose \"No Sidebar\" for "
+"full width."
+msgstr "选择将在此页面上显示的侧栏。 全宽选择“无边栏”。"
+
+#: theme/metaboxes/liquid-sidebars.php:17
+msgid "No Sidebar"
+msgstr "没有补充工具栏"
+
+#: theme/metaboxes/liquid-sidebars.php:23
+msgid "Sidebar Position"
+msgstr "侧边栏位置"
+
+#: theme/metaboxes/liquid-sidebars.php:24
+msgid ""
+"Select the sidebar position. If sidebar 2 is selected, it will display on "
+"the opposite side. "
+msgstr "选择侧栏位置。如果选择了侧栏2，它将显示在另一侧。"
+
+#: theme/metaboxes/liquid-sliders.php:8
+msgid "Sliders"
+msgstr "滑块"
+
+#: theme/metaboxes/liquid-sliders.php:15
+msgid "Slider Type"
+msgstr "滑块类型"
+
+#: theme/metaboxes/liquid-sliders.php:16
+msgid "Select the type of slider that displays."
+msgstr "选择显示的滑块类型。"
+
+#: theme/metaboxes/liquid-sliders.php:18
+msgid "No Slider"
+msgstr "没有滑块"
+
+#: theme/metaboxes/liquid-sliders.php:19
+msgid "liquid Slider"
+msgstr "液体滑块"
+
+#: theme/metaboxes/liquid-sliders.php:20
+msgid "Revolution Slider"
+msgstr "革命滑块"
+
+#: theme/metaboxes/liquid-sliders.php:28
+msgid "Select liquid Slider"
+msgstr "选择液体滑块"
+
+#: theme/metaboxes/liquid-sliders.php:29 theme/metaboxes/liquid-sliders.php:45
+msgid "Select the unique name of the slider."
+msgstr "选择滑块的唯一名称。"
+
+#: theme/metaboxes/liquid-sliders.php:31 theme/metaboxes/liquid-sliders.php:47
+msgid "Select a slider"
+msgstr "选择一个滑块"
+
+#: theme/metaboxes/liquid-sliders.php:44
+msgid "Select Revolution Slider"
+msgstr "选择Revolution Slider"
+
+#: theme/metaboxes/liquid-sliders.php:60
+msgid "Slider Position"
+msgstr "滑块位置"
+
+#: theme/metaboxes/liquid-sliders.php:61
+msgid "Select if the slider shows below or above the header."
+msgstr "选择滑块是显示在标题下方还是上方。"
+
+#: theme/metaboxes/liquid-sliders.php:64
+msgid "Below"
+msgstr "下面"
+
+#: theme/metaboxes/liquid-sliders.php:65
+msgid "Above"
+msgstr "以上"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:16
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:23
+#: theme/metaboxes/liquid-title-wrapper.php:16
+#: theme/metaboxes/liquid-title-wrapper.php:22
+msgid "Title Wrapper"
+msgstr "标题包装"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:35
+msgid "Custom Title"
+msgstr "自定义标题"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:36
+msgid "If empty, will display default page/post title"
+msgstr "如果为空，将显示默认页面/帖子标题"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:42
+msgid "No heading"
+msgstr "没有标题"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:43
+msgid "Hide the default/custom page/post title in titlebar"
+msgstr "隐藏标题栏中的默认/自定义页面/帖子标题"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:53
+#: theme/metaboxes/liquid-title-wrapper.php:59
+msgid "Title Bar Heading Typography"
+msgstr "标题栏标题排版"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:54
+#: theme/metaboxes/liquid-title-wrapper.php:60
+msgid "These settings control the typography for the titlebar heading"
+msgstr "这些设置控制标题栏标题的排版"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:66
+msgid "Heading font Weight"
+msgstr "标题字体重量"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:70
+msgid "Normal"
+msgstr "正常"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:71
+msgid "Medium"
+msgstr "介质"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:72
+msgid "Semibold"
+msgstr "Semibold"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:73
+msgid "Bold"
+msgstr "胆大"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:80
+#: theme/metaboxes/liquid-title-wrapper.php:76
+msgid "Sub-Heading"
+msgstr "Sub-Heading"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:85
+#: theme/metaboxes/liquid-title-wrapper.php:101
+msgid "Title Bar Subheading Typography"
+msgstr "标题栏子标题排版"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:86
+#: theme/metaboxes/liquid-title-wrapper.php:102
+msgid "These settings control the typography for the titlebar subheading"
+msgstr "这些设置控制标题栏子标题的排版"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:105
+msgid "Content style"
+msgstr "内容风格"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:117
+msgid "Title Bar content Vertical align"
+msgstr "标题栏内容垂直对齐"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:120
+#: theme/theme-options/liquid-portfolio.php:84
+msgid "Top"
+msgstr "最佳"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:121
+#: theme/theme-options/liquid-portfolio.php:86
+msgid "Bottom"
+msgstr "底部"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:132
+msgid "Enable Portfolio Navigation"
+msgstr "启用组合导航"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:144
+#: theme/metaboxes/liquid-title-wrapper.php:238
+msgid "Enable Breadcrumbs"
+msgstr "启用面包屑"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:156
+msgid "Breadcrumb style"
+msgstr "面包屑样式"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:172
+msgid "Title size"
+msgstr "标题大小"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:189
+msgid "Title bar height"
+msgstr "标题栏高度"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:211
+#: theme/metaboxes/liquid-title-wrapper.php:144
+#: theme/theme-options/liquid-header-title-wrapper.php:98
+msgid "Color scheme"
+msgstr "配色方案"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:222
+#: theme/metaboxes/liquid-title-wrapper.php:158
+#: theme/theme-options/liquid-header-title-wrapper.php:107
+msgid "Alignment"
+msgstr "对准"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:234
+#: theme/theme-options/liquid-page-maintenance.php:116
+msgid "Background Type"
+msgstr "背景类型"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:257
+msgid "Background Attachment"
+msgstr "背景附件"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:260
+msgid "Fixed"
+msgstr "固定"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:261
+msgid "Inherit"
+msgstr "继承"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:273
+#: theme/metaboxes/liquid-title-wrapper.php:196
+msgid "Enable Parallax?"
+msgstr "启用视差？"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:313
+#: theme/metaboxes/liquid-title-wrapper.php:212
+msgid "Enable Overlay"
+msgstr "启用叠加"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:325
+msgid "Overlay Type"
+msgstr "叠加类型"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:351
+msgid "Overlay Gradient"
+msgstr "叠加渐变"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:362
+#: theme/metaboxes/liquid-title-wrapper.php:292
+#: theme/theme-options/liquid-header-title-wrapper.php:203
+msgid "Extra classes"
+msgstr "额外课程"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:368
+#: theme/metaboxes/liquid-title-wrapper.php:253
+msgid "Enable Scroll Button"
+msgstr "启用滚动按钮"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:380
+#: theme/metaboxes/liquid-title-wrapper.php:270
+#: theme/theme-options/liquid-header-title-wrapper.php:181
+msgid "Scroll Button Color"
+msgstr "滚动按钮颜色"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:381
+#: theme/metaboxes/liquid-title-wrapper.php:271
+msgid "Pick a color for scroll button"
+msgstr "选择滚动按钮的颜色"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:392
+#: theme/metaboxes/liquid-title-wrapper.php:281
+#: theme/theme-options/liquid-header-title-wrapper.php:192
+msgid "Anchor ID"
+msgstr "锚点ID"
+
+#: theme/metaboxes/liquid-title-wrapper-portfolio.php:393
+#: theme/metaboxes/liquid-title-wrapper.php:282
+msgid "Input anchor ID of the section for scroll button"
+msgstr "输入滚动按钮部分的锚点ID"
+
+#: theme/metaboxes/liquid-title-wrapper.php:33
+msgid "Custom Heading"
+msgstr "自定义标题"
+
+#: theme/metaboxes/liquid-title-wrapper.php:34
+msgid "Custom heading will override the default page/post title"
+msgstr "自定义标题将覆盖默认页面/帖子标题"
+
+#: theme/metaboxes/liquid-title-wrapper.php:44
+#: theme/metaboxes/liquid-title-wrapper.php:86
+msgid "Enable Title bar Typography"
+msgstr "启用标题栏排版"
+
+#: theme/metaboxes/liquid-title-wrapper.php:118
+#: theme/theme-options/liquid-header-title-wrapper.php:82
+msgid "Padding Top"
+msgstr "填充顶部"
+
+#: theme/metaboxes/liquid-title-wrapper.php:119
+msgid "Controls the top padding of the titlebar"
+msgstr "控制标题栏的顶部填充"
+
+#: theme/metaboxes/liquid-title-wrapper.php:131
+#: theme/theme-options/liquid-header-title-wrapper.php:90
+msgid "Padding Bottom"
+msgstr "填充底部"
+
+#: theme/metaboxes/liquid-title-wrapper.php:132
+msgid "Controls the bottom padding of the titlebar"
+msgstr "控制标题栏的底部填充"
+
+#: theme/metaboxes/liquid-title-wrapper.php:161
+#: theme/theme-options/liquid-header-title-wrapper.php:110
+#: theme/theme-options/liquid-portfolio.php:66
+msgid "Center"
+msgstr "中央"
+
+#: theme/metaboxes/liquid-title-wrapper.php:173
+#: theme/theme-options/liquid-header-title-wrapper.php:117
+msgid "Background Image"
+msgstr "背景图片"
+
+#: theme/metaboxes/liquid-title-wrapper.php:185
+#: theme/theme-options/liquid-header-title-wrapper.php:124
+msgid "Background Gradient"
+msgstr "背景渐变"
+
+#: theme/metaboxes/liquid-title-wrapper.php:202
+#: theme/theme-options/liquid-header-title-wrapper.php:135
+msgid "The background should have an image"
+msgstr "背景应该有一个图像"
+
+#: theme/metaboxes/liquid-title-wrapper.php:228
+#: theme/theme-options/liquid-header-title-wrapper.php:151
+msgid "Overlay Background"
+msgstr "叠加背景"
+
+#: theme/theme-options/liquid-advanced.php:7
+msgid "Advanced"
+msgstr "高级"
+
+#: theme/theme-options/liquid-advanced.php:13
+msgid "Code Fields"
+msgstr "代码字段"
+
+#: theme/theme-options/liquid-advanced.php:19
+msgid "Tracking Code"
+msgstr "跟踪代码"
+
+#: theme/theme-options/liquid-advanced.php:20
+msgid ""
+"Paste your tracking code here. This will be added into the header template "
+"of your theme. Place code inside &lt;script&gt; tags."
+msgstr ""
+"将跟踪代码粘贴到此处。这将添加到主题的标题模板中。将代码放在＆lt; script＆gt;"
+"中标签。"
+
+#: theme/theme-options/liquid-advanced.php:29
+msgid "Space before &lt;/head&gt;"
+msgstr "之前的空格＆lt; / head＆gt;"
+
+#: theme/theme-options/liquid-advanced.php:30
+msgid ""
+"Only accepts javascript code wrapped with &lt;script&gt; tags and HTML "
+"markup that is valid inside the &lt;/head&gt; tag."
+msgstr ""
+"只接受用＆lt; script＆gt;包装的javascript代码标签和HTML标记在＆lt; / head＆"
+"gt;内有效标签。"
+
+#: theme/theme-options/liquid-advanced.php:39
+msgid "Space before &lt;/body&gt;"
+msgstr "之前的空格＆lt; / body＆gt;"
+
+#: theme/theme-options/liquid-advanced.php:40
+msgid ""
+"Only accepts javascript code, wrapped with &lt;script&gt; tags and valid "
+"HTML markup inside the &lt;/body&gt; tag."
+msgstr ""
+"只接受javascript代码，包含＆lt; script＆gt; ＆lt; / body＆gt;内的标签和有效的"
+"HTML标记标签。"
+
+#: theme/theme-options/liquid-advanced.php:50
+msgid "Dynamic CSS"
+msgstr "动态CSS"
+
+#: theme/theme-options/liquid-advanced.php:57
+msgid "CSS Compiler"
+msgstr "CSS编译器"
+
+#: theme/theme-options/liquid-advanced.php:58
+msgid ""
+"By default all the CSS files are combined. Disabling the CSS compiler will "
+"load non-combined CSS files. This will have an impact on the performance of "
+"your site."
+msgstr ""
+"默认情况下，所有CSS文件都会合并。禁用CSS编译器将加载非组合的CSS文件。这将对您"
+"网站的效果产生影响。"
+
+#: theme/theme-options/liquid-advanced.php:65
+msgid "Database Cache for Dynamic CSS"
+msgstr "动态CSS的数据库缓存"
+
+#: theme/theme-options/liquid-advanced.php:66
+msgid "Turn on to enable caching the dynamic CSS in your database."
+msgstr "启用以启用数据库中的动态CSS缓存。"
+
+#: theme/theme-options/liquid-advanced.php:73
+msgid "Cache Server IP"
+msgstr "缓存服务器IP"
+
+#: theme/theme-options/liquid-advanced.php:74
+msgid ""
+"For unique cases where you are using cloud flare and a cache server, ex: "
+"varnish cache. Enter your cache server IP to clear the theme options dynamic "
+"CSS cache. Consult with your server admin for help."
+msgstr ""
+"对于使用云计算和缓存服务器的独特情况，例如：varnish cache。输入您的缓存服务器"
+"IP以清除主题选项动态CSS缓存。请咨询服务器管理员以获取帮助。"
+
+#: theme/theme-options/liquid-apikeys.php:7
+msgid "API Keys"
+msgstr "API密钥"
+
+#: theme/theme-options/liquid-apikeys.php:13
+msgid "Google Maps API Key"
+msgstr "Google Maps API密钥"
+
+#: theme/theme-options/liquid-apikeys.php:15
+msgid ""
+"Follow the steps in <a target=\"_blank\" href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key#key\">the Google docs</a> to "
+"get the API key. This key applies to the google map element."
+msgstr ""
+"按照<a target=\"_blank\" href=\"https://developers.google.com/maps/"
+"documentation/javascript/get-api-key#key\"> Google文档</a>中的步骤操作，获取"
+"API键。此密钥适用于Google地图元素。"
+
+#: theme/theme-options/liquid-apikeys.php:20
+msgid "Mailchimp API Key"
+msgstr "Mailchimp API密钥"
+
+#: theme/theme-options/liquid-apikeys.php:22
+msgid ""
+"Follow the steps <a href=\"https://mailchimp.com/help/about-api-keys/"
+"\">MailChimp</a> to get the API key. This key applies to the newsletter "
+"element."
+msgstr ""
+"按照<a href=\"https://mailchimp.com/help/about-api-keys/\"> MailChimp </a>中"
+"的步骤获取API密钥。此密钥适用于newsletter元素。"
+
+#: theme/theme-options/liquid-apikeys.php:27
+msgid "Instagram Access Token"
+msgstr "Instagram访问令牌"
+
+#: theme/theme-options/liquid-apikeys.php:29
+msgid ""
+"Follow the link <a target=\"_blank\" href=\"https://instagram.com/oauth/"
+"authorize/?"
+"client_id=2340bf75213b4c729e6d234077c1d09f&scope=basic&response_type=code&redirect_uri=http://"
+"api.liquid-themes.com/instagram/instagram-auth.php\">to generate the access "
+"token and user ID.</a>"
+msgstr ""
+"点击链接<a target=\"_blank\" href=\"https://instagram.com/oauth/authorize/?"
+"client_id=2340bf75213b4c729e6d234077c1d09f&scope=basic&response_type=code&redirect_uri=http://"
+"api.liquid-themes.com/instagram/instagram-auth.php\">生成访问令牌和用户ID。</"
+"a>"
+
+#: theme/theme-options/liquid-blog.php:12
+msgid "General Blog"
+msgstr "一般博客"
+
+#: theme/theme-options/liquid-blog.php:19
+msgid "Blog Page Title Bar"
+msgstr "博客页面标题栏"
+
+#: theme/theme-options/liquid-blog.php:20
+msgid ""
+"Display the page title bar for the assigned blog page in settings > reading "
+"or the blog archive pages. Note: This option will not control the blog "
+"element."
+msgstr ""
+"在设置>阅读或博客存档页面中显示指定博客页面的页面标题栏。注意：此选项不会控制"
+"博客元素。"
+
+#: theme/theme-options/liquid-blog.php:31
+msgid "Blog Page Title"
+msgstr "博客页面标题"
+
+#: theme/theme-options/liquid-blog.php:32
+msgid ""
+"Manages the title text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+"仅当首页在“设置>阅读”中显示您的最新帖子时，才管理显示在页面标题栏中的标题文"
+"本。"
+
+#: theme/theme-options/liquid-blog.php:38
+msgid "Blog Page Subtitle"
+msgstr "博客页面字幕"
+
+#: theme/theme-options/liquid-blog.php:39
+msgid ""
+"Manage the subtitle text that displays in the page title bar only if your "
+"front page displays your latest post in \"settings > reading\"."
+msgstr ""
+"仅当您的首页在“设置>阅读”中显示最新帖子时，才管理页面标题栏中显示的字幕文本。"
+
+#: theme/theme-options/liquid-blog.php:44
+#: theme/theme-options/liquid-blog.php:416
+msgid "Post Style"
+msgstr "邮政风格"
+
+#: theme/theme-options/liquid-blog.php:47
+#: theme/theme-options/liquid-blog.php:173
+#: theme/theme-options/liquid-blog.php:296
+#: theme/theme-options/liquid-blog.php:419
+msgid "Classic Bold"
+msgstr "经典大胆"
+
+#: theme/theme-options/liquid-blog.php:49
+#: theme/theme-options/liquid-blog.php:175
+#: theme/theme-options/liquid-blog.php:298
+#: theme/theme-options/liquid-blog.php:421
+msgid "Featured Minimal"
+msgstr "精选最小"
+
+#: theme/theme-options/liquid-blog.php:50
+#: theme/theme-options/liquid-blog.php:176
+#: theme/theme-options/liquid-blog.php:299
+#: theme/theme-options/liquid-blog.php:422
+msgid "Rounded"
+msgstr "圆角"
+
+#: theme/theme-options/liquid-blog.php:51
+#: theme/theme-options/liquid-blog.php:177
+#: theme/theme-options/liquid-blog.php:300
+#: theme/theme-options/liquid-blog.php:423
+msgid "Classic Meta"
+msgstr "经典元"
+
+#: theme/theme-options/liquid-blog.php:52
+#: theme/theme-options/liquid-blog.php:178
+#: theme/theme-options/liquid-blog.php:301
+#: theme/theme-options/liquid-blog.php:424
+msgid "Classic 2"
+msgstr "经典2"
+
+#: theme/theme-options/liquid-blog.php:53
+#: theme/theme-options/liquid-blog.php:179
+#: theme/theme-options/liquid-blog.php:302
+#: theme/theme-options/liquid-blog.php:425
+msgid "Text date"
+msgstr "文字日期"
+
+#: theme/theme-options/liquid-blog.php:54
+#: theme/theme-options/liquid-blog.php:180
+#: theme/theme-options/liquid-blog.php:303
+#: theme/theme-options/liquid-blog.php:426
+#: theme/theme-options/liquid-portfolio.php:41
+msgid "Metro"
+msgstr "地铁"
+
+#: theme/theme-options/liquid-blog.php:55
+#: theme/theme-options/liquid-blog.php:181
+#: theme/theme-options/liquid-blog.php:304
+#: theme/theme-options/liquid-blog.php:427
+msgid "Minimal Grey"
+msgstr "最小的灰色"
+
+#: theme/theme-options/liquid-blog.php:56
+#: theme/theme-options/liquid-blog.php:182
+#: theme/theme-options/liquid-blog.php:305
+#: theme/theme-options/liquid-blog.php:428
+msgid "Metro Alt"
+msgstr "Metro Alt"
+
+#: theme/theme-options/liquid-blog.php:57
+#: theme/theme-options/liquid-blog.php:183
+#: theme/theme-options/liquid-blog.php:306
+#: theme/theme-options/liquid-blog.php:429
+#: theme/theme-options/liquid-portfolio.php:44
+msgid "Grid"
+msgstr "格"
+
+#: theme/theme-options/liquid-blog.php:58
+#: theme/theme-options/liquid-blog.php:184
+#: theme/theme-options/liquid-blog.php:307
+#: theme/theme-options/liquid-blog.php:430
+msgid "Masonry"
+msgstr "石工"
+
+#: theme/theme-options/liquid-blog.php:59
+#: theme/theme-options/liquid-blog.php:185
+#: theme/theme-options/liquid-blog.php:308
+#: theme/theme-options/liquid-blog.php:431
+msgid "Split"
+msgstr "分裂"
+
+#: theme/theme-options/liquid-blog.php:60
+#: theme/theme-options/liquid-blog.php:186
+#: theme/theme-options/liquid-blog.php:309
+#: theme/theme-options/liquid-blog.php:432
+msgid "Square"
+msgstr "广场"
+
+#: theme/theme-options/liquid-blog.php:61
+#: theme/theme-options/liquid-blog.php:187
+#: theme/theme-options/liquid-blog.php:310
+#: theme/theme-options/liquid-blog.php:433
+msgid "Featured Fullwidth"
+msgstr "Featured 全宽"
+
+#: theme/theme-options/liquid-blog.php:62
+#: theme/theme-options/liquid-blog.php:188
+#: theme/theme-options/liquid-blog.php:311
+#: theme/theme-options/liquid-blog.php:434
+msgid "Timeline"
+msgstr "时间线"
+
+#: theme/theme-options/liquid-blog.php:63
+#: theme/theme-options/liquid-blog.php:189
+#: theme/theme-options/liquid-blog.php:312
+#: theme/theme-options/liquid-blog.php:435
+msgid "Classic Full"
+msgstr "经典全"
+
+#: theme/theme-options/liquid-blog.php:65
+msgid "Choose a post style for your blog page."
+msgstr "为您的博客页面选择一种帖子样式。"
+
+#: theme/theme-options/liquid-blog.php:71
+#: theme/theme-options/liquid-blog.php:197
+#: theme/theme-options/liquid-blog.php:320
+#: theme/theme-options/liquid-blog.php:443
+msgid "Meta"
+msgstr "元"
+
+#: theme/theme-options/liquid-blog.php:76
+#: theme/theme-options/liquid-blog.php:202
+#: theme/theme-options/liquid-blog.php:448
+msgid "Manage the meta for posts"
+msgstr "管理帖子的元数据"
+
+#: theme/theme-options/liquid-blog.php:82
+#: theme/theme-options/liquid-blog.php:208
+#: theme/theme-options/liquid-blog.php:331
+#: theme/theme-options/liquid-blog.php:454
+msgid "Meta Type"
+msgstr "元类型"
+
+#: theme/theme-options/liquid-blog.php:84
+#: theme/theme-options/liquid-blog.php:210
+#: theme/theme-options/liquid-blog.php:333
+#: theme/theme-options/liquid-blog.php:456
+msgid "Tags"
+msgstr "标签"
+
+#: theme/theme-options/liquid-blog.php:85
+#: theme/theme-options/liquid-blog.php:211
+#: theme/theme-options/liquid-blog.php:334
+#: theme/theme-options/liquid-blog.php:457
+msgid "Categories"
+msgstr "分类"
+
+#: theme/theme-options/liquid-blog.php:87
+#: theme/theme-options/liquid-blog.php:213
+#: theme/theme-options/liquid-blog.php:336
+msgid "Manage the meta type for posts"
+msgstr "管理帖子的元类型"
+
+#: theme/theme-options/liquid-blog.php:98
+#: theme/theme-options/liquid-blog.php:224
+#: theme/theme-options/liquid-blog.php:347
+#: theme/theme-options/liquid-blog.php:470
+msgid "Single Category"
+msgstr "单一类别"
+
+#: theme/theme-options/liquid-blog.php:103
+msgid "Manage the single category for posts"
+msgstr "管理帖子的单一类别"
+
+#: theme/theme-options/liquid-blog.php:114
+#: theme/theme-options/liquid-blog.php:240
+#: theme/theme-options/liquid-blog.php:363
+#: theme/theme-options/liquid-blog.php:486
+msgid "Default Blog Excerpt Length"
+msgstr "默认博客摘录长度"
+
+#: theme/theme-options/liquid-blog.php:121
+#: theme/theme-options/liquid-blog.php:247
+#: theme/theme-options/liquid-blog.php:370
+#: theme/theme-options/liquid-header-title-wrapper.php:130
+msgid "Parallax"
+msgstr "视差"
+
+#: theme/theme-options/liquid-blog.php:126
+msgid "Manage parallax for post thumbnail"
+msgstr "管理后缩略图的视差"
+
+#: theme/theme-options/liquid-blog.php:135
+msgid "Blog Category Page"
+msgstr "博客类别页面"
+
+#: theme/theme-options/liquid-blog.php:142
+#: theme/theme-options/liquid-blog.php:154
+msgid "Blog Category Page Title"
+msgstr "博客类别页面标题"
+
+#: theme/theme-options/liquid-blog.php:143
+msgid "Display the blog category page title."
+msgstr "显示博客类别页面标题。"
+
+#: theme/theme-options/liquid-blog.php:155
+msgid ""
+"[ld_category_title] shortcode displays the corresponding the category title, "
+"any text can be added before or after the shortcode."
+msgstr ""
+"[ld_category_title]短代码显示相应的类别标题，可以在短代码之前或之后添加任何文"
+"本。"
+
+#: theme/theme-options/liquid-blog.php:156
+msgid "Manage the title of blog category pages."
+msgstr "管理博客类别页面的标题。"
+
+#: theme/theme-options/liquid-blog.php:163
+msgid "Blog Category Page Subtitle"
+msgstr "博客类别页面字幕"
+
+#: theme/theme-options/liquid-blog.php:164
+msgid "Manages the subtitle of blog category pages."
+msgstr "管理博客类别页面的副标题。"
+
+#: theme/theme-options/liquid-blog.php:191
+msgid "Select content type for your grid."
+msgstr "选择网格的内容类型。"
+
+#: theme/theme-options/liquid-blog.php:252
+msgid "Manage parallax for post thumbnail."
+msgstr "管理后缩略图的视差。"
+
+#: theme/theme-options/liquid-blog.php:261
+msgid "Blog Tag Page"
+msgstr "博客标签页"
+
+#: theme/theme-options/liquid-blog.php:268
+msgid "Blog Tag Page Title Bar"
+msgstr "博客标签页标题栏"
+
+#: theme/theme-options/liquid-blog.php:269
+msgid "Display the title on blog tag pages."
+msgstr "在博客标签页面上显示标题。"
+
+#: theme/theme-options/liquid-blog.php:279
+msgid "Blog Tag Page Title"
+msgstr "博客标签页标题"
+
+#: theme/theme-options/liquid-blog.php:280
+msgid ""
+"[ld_tag_title] shortcode displays the corresponding the category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+"[ld_tag_title]短代码显示相应的类别标题，可以在短代码之前或之后添加任何文本。"
+
+#: theme/theme-options/liquid-blog.php:281
+msgid "Manage the title of blog tag pages."
+msgstr "管理博客标签页面的标题。"
+
+#: theme/theme-options/liquid-blog.php:287
+msgid "Blog Tag Page Subtitle"
+msgstr "博客标签页字幕"
+
+#: theme/theme-options/liquid-blog.php:288
+msgid "Manage the subtitle of blog category pages."
+msgstr "管理博客类别页面的副标题。"
+
+#: theme/theme-options/liquid-blog.php:314
+msgid "Choose a post style for your blog category pages."
+msgstr "为您的博客类别页面选择一种帖子样式。"
+
+#: theme/theme-options/liquid-blog.php:375
+#: theme/theme-options/liquid-portfolio.php:134
+msgid "Parallax for images"
+msgstr "图像的视差"
+
+#: theme/theme-options/liquid-blog.php:384
+msgid "Blog Author Page"
+msgstr "博客作者页面"
+
+#: theme/theme-options/liquid-blog.php:391
+msgid "Blog Author Page Title Bar"
+msgstr "博客作者页面标题栏"
+
+#: theme/theme-options/liquid-blog.php:392
+msgid "Display the title bar on blog author pages."
+msgstr "在博客作者页面上显示标题栏。"
+
+#: theme/theme-options/liquid-blog.php:402
+msgid "Blog Author Page Title"
+msgstr "博客作者页面标题"
+
+#: theme/theme-options/liquid-blog.php:403
+msgid ""
+"[ld_author] shortcode displays the corresponding the author name, any text "
+"can be added before or after the shortcode."
+msgstr ""
+"[ld_author]短代码显示相应的作者姓名，任何文本都可以在短代码之前或之后添加。"
+
+#: theme/theme-options/liquid-blog.php:404
+msgid "Manage the title of blog author page title."
+msgstr "管理博客作者页面标题的标题。"
+
+#: theme/theme-options/liquid-blog.php:410
+msgid "Blog Author Page Subtitle"
+msgstr "博客作者页面字幕"
+
+#: theme/theme-options/liquid-blog.php:411
+msgid "Manages the subtitle of blog author pages."
+msgstr "管理博客作者页面的副标题。"
+
+#: theme/theme-options/liquid-blog.php:437
+msgid "Choose the post style for your blog author pages."
+msgstr "选择博客作者页面的帖子样式。"
+
+#: theme/theme-options/liquid-blog.php:493
+msgid "Parallax for Posts"
+msgstr "邮政视差"
+
+#: theme/theme-options/liquid-blog.php:498
+msgid "Manage parallax for post thumbnails"
+msgstr "管理帖子缩略图的视差"
+
+#: theme/theme-options/liquid-blog.php:506
+msgid "Blog Single Post"
+msgstr "博客单帖"
+
+#: theme/theme-options/liquid-blog.php:513
+msgid "Single Post Style"
+msgstr "单一帖子风格"
+
+#: theme/theme-options/liquid-blog.php:525
+#: theme/theme-options/liquid-header-title-wrapper.php:8
+msgid "Page Title Bar"
+msgstr "Page Title Bar"
+
+#: theme/theme-options/liquid-blog.php:526
+msgid "Display title bar on single posts"
+msgstr "在单个帖子上显示标题栏"
+
+#: theme/theme-options/liquid-blog.php:535
+msgid "Single Post Title Typography"
+msgstr "单帖标题排版"
+
+#: theme/theme-options/liquid-blog.php:536
+msgid "Manage the typography for the single post headers"
+msgstr "管理单个帖子标题的排版"
+
+#: theme/theme-options/liquid-blog.php:546
+msgid "Social Sharing"
+msgstr "社交分享"
+
+#: theme/theme-options/liquid-blog.php:547
+msgid "Display the social sharing box on single post pages."
+msgstr "在单个帖子页面上显示社交分享框。"
+
+#: theme/theme-options/liquid-blog.php:557
+msgid "Author Meta"
+msgstr "作者Meta"
+
+#: theme/theme-options/liquid-blog.php:558
+msgid "Switch on to display the author info box on single post pages."
+msgstr "打开以在单个帖子页面上显示作者信息框。"
+
+#: theme/theme-options/liquid-blog.php:568
+msgid "Neighbour Posts"
+msgstr "邻居帖子"
+
+#: theme/theme-options/liquid-blog.php:569
+msgid ""
+"Switch on to display the previous post and next post on single post pages."
+msgstr "打开以在单个帖子页面上显示上一篇文章和下一篇文章。"
+
+#: theme/theme-options/liquid-blog.php:579
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: theme/theme-options/liquid-blog.php:580
+msgid "Display the related posts on single posts."
+msgstr "在单个帖子上显示相关帖子。"
+
+#: theme/theme-options/liquid-blog.php:590
+msgid "Title of Related Posts"
+msgstr "相关职位名称"
+
+#: theme/theme-options/liquid-blog.php:601
+msgid "Related Posts Quantity"
+msgstr "相关帖子数量"
+
+#: theme/theme-options/liquid-blog.php:602
+msgid "Quantity of projects those display on related posts section."
+msgstr "显示在相关帖子部分的项目数量。"
+
+#: theme/theme-options/liquid-colors.php:4
+msgid "Colors"
+msgstr "颜色"
+
+#: theme/theme-options/liquid-colors.php:10
+msgid "Primary color"
+msgstr "原色"
+
+#: theme/theme-options/liquid-colors.php:12
+#: theme/theme-options/liquid-colors.php:21
+msgid "Choose a primary color for your website by using the colorpicker"
+msgstr "使用颜色选择器为您的网站选择主要颜色"
+
+#: theme/theme-options/liquid-colors.php:19
+msgid "Secondary color"
+msgstr "二次色"
+
+#: theme/theme-options/liquid-colors.php:26
+msgid "Primary Gradient color"
+msgstr "主要渐变色"
+
+#: theme/theme-options/liquid-colors.php:28
+msgid ""
+"Choose colors to generate a primary gradient color for your website by using "
+"the colorpicker"
+msgstr "选择颜色以使用颜色选择器为您的网站生成主渐变颜色"
+
+#: theme/theme-options/liquid-colors.php:39
+msgid "Links Color"
+msgstr "链接颜色"
+
+#: theme/theme-options/liquid-custom-code.php:7
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: theme/theme-options/liquid-custom-code.php:14
+msgid "CSS Code"
+msgstr "CSS代码"
+
+#: theme/theme-options/liquid-custom-code.php:15
+msgid ""
+"Enter your CSS code in the field below. Do not include any tags or HTML in "
+"the field. Custom CSS entered here will override the theme CSS. In some "
+"cases, the !important tag may be needed. Don't URL encode image or svg "
+"paths. Contents of this field will be auto encoded."
+msgstr ""
+"在下面的字段中输入您的CSS代码。不要在字段中包含任何标记或HTML。此处输入的自定"
+"义CSS将覆盖主题CSS。在某些情况下，可能需要！important标记。不要对图像或svg路"
+"径进行URL编码。该字段的内容将自动编码。"
+
+#: theme/theme-options/liquid-export.php:7
+msgid "Import/Export"
+msgstr "导入/导出"
+
+#: theme/theme-options/liquid-export.php:8
+msgid "Import/Export options"
+msgstr "导入/导出选项"
+
+#: theme/theme-options/liquid-export.php:15
+msgid "Import / Export"
+msgstr "Import/Export"
+
+#: theme/theme-options/liquid-extras.php:7
+msgid "Extras"
+msgstr "附加功能"
+
+#: theme/theme-options/liquid-extras.php:21
+msgid "Switch off to hide the header on your website."
+msgstr "关闭以隐藏您网站上的标题。"
+
+#: theme/theme-options/liquid-extras.php:31
+msgid "Title Bar"
+msgstr "标题栏"
+
+#: theme/theme-options/liquid-extras.php:32
+msgid "Switch off to hide the title bar on your website."
+msgstr "关闭以隐藏您网站上的标题栏。"
+
+#: theme/theme-options/liquid-extras.php:43
+msgid "Switch off to hide the footer on your website."
+msgstr "关闭以隐藏您网站上的页脚。"
+
+#: theme/theme-options/liquid-extras.php:54
+msgid "Switch off to disabled the ave collection"
+msgstr "关闭以禁用ave集合"
+
+#: theme/theme-options/liquid-extras.php:64
+msgid "Lazy Load"
+msgstr "延迟加载"
+
+#: theme/theme-options/liquid-extras.php:65
+msgid ""
+"Lazy load enables images to load only when they are in the viewport. "
+"Therefore, lazy load boosts the performance."
+msgstr "延迟加载使图像仅在视口中加载时才能加载。因此，延迟负载可提升性能。"
+
+#: theme/theme-options/liquid-extras.php:75
+msgid "Portfolio Slug"
+msgstr "投资组合独立地址"
+
+#: theme/theme-options/liquid-extras.php:82
+msgid "Portfolio Category Slug"
+msgstr "投资组合类别Slug"
+
+#: theme/theme-options/liquid-extras.php:91
+msgid "Custom Icons"
+msgstr "自定义图标"
+
+#: theme/theme-options/liquid-extras.php:99
+msgid "Manage Icons"
+msgstr "管理图标"
+
+#: theme/theme-options/liquid-extras.php:105
+msgid "Custom Icon Fonts"
+msgstr "自定义图标字体"
+
+#: theme/theme-options/liquid-extras.php:106
+msgid "Choose the icon Fonts"
+msgstr "选择图标字体"
+
+#: theme/theme-options/liquid-extras.php:108
+msgid "Liquid Icons"
+msgstr "液体图标"
+
+#: theme/theme-options/liquid-extras.php:115
+msgid "Add Custom Icons"
+msgstr "添加自定义图标"
+
+#: theme/theme-options/liquid-extras.php:117
+msgid "NOTE: All icons files should be uploaded via FTP on your server"
+msgstr "注意：所有图标文件都应通过服务器上的FTP上传"
+
+#: theme/theme-options/liquid-extras.php:126
+msgid "Awesome Font"
+msgstr "很棒的字体"
+
+#: theme/theme-options/liquid-extras.php:132
+msgid "Icon Css file"
+msgstr "图标Css文件"
+
+#: theme/theme-options/liquid-extras.php:138
+msgid "Icons classnames"
+msgstr "图标类名"
+
+#: theme/theme-options/liquid-extras.php:139
+msgid "Icon classnames should be separated by comma"
+msgstr "图标类名应以逗号分隔"
+
+#: theme/theme-options/liquid-footer.php:14
+msgid "Select a footer template for your website."
+msgstr "选择您网站的页脚模板。"
+
+#: theme/theme-options/liquid-header-layout.php:7
+msgid "Select the header"
+msgstr "选择标题"
+
+#: theme/theme-options/liquid-header-layout.php:14
+msgid "Select a header template for your website"
+msgstr "选择您网站的标题模板"
+
+#: theme/theme-options/liquid-header-menu.php:8
+msgid "Menu"
+msgstr "菜单"
+
+#: theme/theme-options/liquid-header-menu.php:14
+msgid "Menus Typography"
+msgstr "菜单排版"
+
+#: theme/theme-options/liquid-header-menu.php:15
+msgid "These settings control the typography for all menus."
+msgstr "这些设置控制所有菜单的排版。"
+
+#: theme/theme-options/liquid-header-menu.php:27
+msgid "Mobile Menus Typography"
+msgstr "手机菜单排版"
+
+#: theme/theme-options/liquid-header-menu.php:28
+msgid "These settings control the typography for mobile menu."
+msgstr "这些设置控制移动菜单的排版。"
+
+#: theme/theme-options/liquid-header-menu.php:40
+msgid "Main Color"
+msgstr "主要颜色"
+
+#: theme/theme-options/liquid-header-menu.php:46
+msgid "Secondary Color"
+msgstr "二次色"
+
+#: theme/theme-options/liquid-header-menu.php:52
+msgid "Active Color"
+msgstr "活跃的颜色"
+
+#: theme/theme-options/liquid-header-menu.php:59
+msgid "Menu Item Padding"
+msgstr "菜单项填充"
+
+#: theme/theme-options/liquid-header-menu.php:72
+msgid "Logo Padding"
+msgstr "徽标填充"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:10
+msgid "Style for the mobile version of the website"
+msgstr "移动版网站的风格"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:20
+msgid "Trigger Alignment for the mobile version of the website"
+msgstr "触发对齐网站的移动版本"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:29
+msgid "Navigation Alignment for the mobile version of the website"
+msgstr "用于移动版网站的导航对齐方式"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:43
+msgid "Color Scheme of the mobile version of the website"
+msgstr "移动版网站的配色方案"
+
+#: theme/theme-options/liquid-header-mobile-nav.php:58
+msgid "Header Color Scheme of the mobile version of the website"
+msgstr "该网站的移动版本的标题颜色方案"
+
+#: theme/theme-options/liquid-header-modules.php:7
+msgid "Modules"
+msgstr "模块"
+
+#: theme/theme-options/liquid-header-modules.php:14
+msgid "Enable Header Social"
+msgstr "启用标题社交"
+
+#: theme/theme-options/liquid-header-modules.php:15
+msgid "If on, will display social links in header."
+msgstr "如果选中，将在标题中显示社交链接。"
+
+#: theme/theme-options/liquid-header-modules.php:25
+msgid "Social Links"
+msgstr "社交链接"
+
+#: theme/theme-options/liquid-header-modules.php:26
+msgid "Add social links to display in header"
+msgstr "添加要在标题中显示的社交链接"
+
+#: theme/theme-options/liquid-header-modules.php:39
+#: theme/theme-options/liquid-header-modules.php:88
+msgid "Label"
+msgstr "标签"
+
+#: theme/theme-options/liquid-header-modules.php:40
+msgid "Link text"
+msgstr "链接文字"
+
+#: theme/theme-options/liquid-header-modules.php:46
+#: theme/theme-options/liquid-header-modules.php:95
+msgid "Icon"
+msgstr "图标"
+
+#: theme/theme-options/liquid-header-modules.php:47
+#: theme/theme-options/liquid-header-modules.php:96
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: theme/theme-options/liquid-header-modules.php:63
+msgid "Enable Header Button"
+msgstr "启用标题按钮"
+
+#: theme/theme-options/liquid-header-modules.php:64
+msgid "If on, will display buttons in header."
+msgstr "如果选中，将在标题中显示按钮。"
+
+#: theme/theme-options/liquid-header-modules.php:74
+msgid "Buttons"
+msgstr "纽扣"
+
+#: theme/theme-options/liquid-header-modules.php:75
+msgid "Add buttons to display in header"
+msgstr "添加按钮以显示在标题中"
+
+#: theme/theme-options/liquid-header-modules.php:89
+msgid "Button text"
+msgstr "按钮文字"
+
+#: theme/theme-options/liquid-header-modules.php:111
+msgid "Enable Header Text"
+msgstr "启用标题文本"
+
+#: theme/theme-options/liquid-header-modules.php:112
+msgid "If on, will display text in header."
+msgstr "如果选中，将在标题中显示文本。"
+
+#: theme/theme-options/liquid-header-modules.php:122
+msgid "Header Text"
+msgstr "标题文本"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:16
+msgid "Custom Page Title"
+msgstr "自定义页面标题"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:17
+msgid "Custom page title will override the default page and post titles"
+msgstr "自定义页面标题将覆盖默认页面和帖子标题"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:22
+msgid "Page Title Custom Typography"
+msgstr "页面标题自定义排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:32
+msgid "Page Title Typography"
+msgstr "页面标题排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:33
+msgid "Manages the typography for the page title"
+msgstr "管理页面标题的排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:49
+msgid "Page Subtitle"
+msgstr "页面字幕"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:55
+msgid "Page Subtitle Custom Typography"
+msgstr "页面字幕自定义排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:65
+msgid "Page Subtitle Typography"
+msgstr "页面字幕排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:66
+msgid "Manages the typography for the page subtitle"
+msgstr "管理页面字幕的排版"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:83
+msgid "Manages the top padding of the titlebar"
+msgstr "管理标题栏的顶部填充"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:91
+msgid "Manages the bottom padding of the titlebar"
+msgstr "管理标题栏的底部填充"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:141
+msgid "Overlay"
+msgstr "覆盖"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:161
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:170
+msgid "Scroll Button"
+msgstr "滚动按钮"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:182
+msgid "Choose a color for scroll button"
+msgstr "选择滚动按钮的颜色"
+
+#: theme/theme-options/liquid-header-title-wrapper.php:193
+msgid ""
+"Anchor ID of the section where the page will be scrolled on click to the "
+"scroll button"
+msgstr "页面将滚动的部分的锚点ID单击滚动按钮"
+
+#: theme/theme-options/liquid-layout.php:8
+msgid "Layout"
+msgstr "布局"
+
+#: theme/theme-options/liquid-layout.php:16
+msgid "Manages the color scheme across your website."
+msgstr "管理您网站的配色方案。"
+
+#: theme/theme-options/liquid-layout.php:42
+msgid "Row Margins"
+msgstr "行边距"
+
+#: theme/theme-options/liquid-layout.php:43
+msgid "Manages row margins"
+msgstr "管理行边距"
+
+#: theme/theme-options/liquid-layout.php:52
+msgid "Row Padding"
+msgstr "行填充"
+
+#: theme/theme-options/liquid-layout.php:53
+msgid "Manages the rows padding"
+msgstr "管理行填充"
+
+#: theme/theme-options/liquid-logo.php:6
+msgid "Logo"
+msgstr "商标"
+
+#: theme/theme-options/liquid-logo.php:13
+msgid "Maximum Logo Width"
+msgstr "最大徽标宽度"
+
+#: theme/theme-options/liquid-logo.php:14
+msgid "Define a maximum width for your logo, For instance, 120px"
+msgstr "定义徽标的最大宽度，例如120px"
+
+#: theme/theme-options/liquid-logo.php:20
+msgid "Default Logo"
+msgstr "默认徽标"
+
+#: theme/theme-options/liquid-logo.php:21
+msgid "Select an image as your logo."
+msgstr "选择图像作为徽标。"
+
+#: theme/theme-options/liquid-logo.php:27
+msgid "Retina Default Logo"
+msgstr "Retina默认标志"
+
+#: theme/theme-options/liquid-logo.php:28
+msgid ""
+"Select an image as a default logo for the retina supported devices. Default "
+"retina logo should be 2x the size of the default logo."
+msgstr ""
+"选择图像作为视网膜支持设备的默认徽标。默认视网膜徽标应为默认徽标大小的2倍。"
+
+#: theme/theme-options/liquid-logo.php:34
+msgid "Sticky Menu Default Logo"
+msgstr "粘滞菜单默认徽标"
+
+#: theme/theme-options/liquid-logo.php:35
+msgid " Select an image as your logo for sticky header."
+msgstr "选择图像作为粘贴标题的徽标。"
+
+#: theme/theme-options/liquid-logo.php:41
+msgid "Sticky Menu Retina Default Logo"
+msgstr "粘滞菜单视网膜默认标志"
+
+#: theme/theme-options/liquid-logo.php:42
+msgid ""
+"Select an image as a sticky menu default logo for the retina supported "
+"devices. Sticky menu retina default logo should be 2x the size of the logo."
+msgstr ""
+"选择图像作为支持视网膜的设备的粘性菜单默认徽标。粘性菜单视网膜默认标识应为徽"
+"标大小的2倍。"
+
+#: theme/theme-options/liquid-logo.php:48
+msgid "Hover State of Logo"
+msgstr "悬停徽标状态"
+
+#: theme/theme-options/liquid-logo.php:49
+msgid "Select an image as your logo to display on hover of logo"
+msgstr "选择图像作为徽标，以便在悬停徽标时显示"
+
+#: theme/theme-options/liquid-logo.php:55
+msgid "Hover State of Retina Default Logo"
+msgstr "悬停状态Retina默认标志"
+
+#: theme/theme-options/liquid-logo.php:56
+msgid ""
+"Select an image as a hover state of logo for the retina supported devices. "
+"Retina version should be 2x size."
+msgstr "选择图像作为视网膜支持设备的徽标悬停状态。 Retina版本应为2倍大小。"
+
+#: theme/theme-options/liquid-logo.php:62
+msgid "Mobile Logo"
+msgstr "移动徽标"
+
+#: theme/theme-options/liquid-logo.php:63
+msgid ""
+"Select the logo that will be displayed in the menu bar for mobile devices."
+msgstr "选择将在移动设备菜单栏中显示的徽标。"
+
+#: theme/theme-options/liquid-logo.php:69
+msgid "Retina Mobile Logo"
+msgstr "苹果手机LOGO"
+
+#: theme/theme-options/liquid-logo.php:70
+msgid ""
+"Select an image as a mobile default logo for the retina supported devices. "
+"Retina version should be 2x size."
+msgstr "选择图像作为视网膜支持设备的移动默认徽标。 Retina版本应为2倍大小。"
+
+#: theme/theme-options/liquid-logo.php:76
+msgid "Light Logo"
+msgstr "轻型标志"
+
+#: theme/theme-options/liquid-logo.php:77
+msgid "Upload or select an image as your light logo."
+msgstr "上传或选择图像作为灯光徽标。"
+
+#: theme/theme-options/liquid-logo.php:83
+msgid "Retina Light Logo"
+msgstr "Retina Light标志"
+
+#: theme/theme-options/liquid-logo.php:84
+msgid ""
+"Upload or select an image for the retina version of the light logo. It "
+"should be exactly 2x the size of the logo."
+msgstr "上传或选择光标志的视网膜版本的图像。它应该是徽标大小的2倍。"
+
+#: theme/theme-options/liquid-logo.php:91
+msgid "Dark Logo"
+msgstr "黑暗的标志"
+
+#: theme/theme-options/liquid-logo.php:92
+msgid "Upload or select an image as your dark logo."
+msgstr "上传或选择图像作为暗标志。"
+
+#: theme/theme-options/liquid-logo.php:98
+msgid "Retina Dark Logo"
+msgstr "苹果笔记本Logo"
+
+#: theme/theme-options/liquid-logo.php:99
+msgid ""
+"Upload or select an image for the retina version of the dark logo. It should "
+"be exactly 2x the size of the logo."
+msgstr "上传或选择暗标志的视网膜版本的图像。它应该是徽标大小的2倍。"
+
+#: theme/theme-options/liquid-logo.php:105
+msgid "Favicon"
+msgstr "网站图标"
+
+#: theme/theme-options/liquid-logo.php:106
+msgid "Select a favicon for your website (16px x 16px)."
+msgstr "为您的网站选择一个收藏夹图标（16px x 16px）。"
+
+#: theme/theme-options/liquid-logo.php:112
+msgid "Apple iPhone Icon"
+msgstr "Apple iPhone图标"
+
+#: theme/theme-options/liquid-logo.php:113
+msgid "Select a favicon for Apple iPhone (57px x 57px)."
+msgstr "为Apple iPhone选择一个收藏夹图标（57px x 57px）。"
+
+#: theme/theme-options/liquid-logo.php:119
+msgid "Apple iPhone Retina Icon"
+msgstr "Apple iPhone Retina图标"
+
+#: theme/theme-options/liquid-logo.php:120
+msgid "Select a favicon for Apple iPhone Retina Version (114px x 114px)."
+msgstr "为Apple iPhone Retina版本选择一个收藏夹图标（114px x 114px）。"
+
+#: theme/theme-options/liquid-logo.php:130
+msgid "Apple iPad Icon"
+msgstr "Apple iPad图标"
+
+#: theme/theme-options/liquid-logo.php:131
+msgid "Select a favicon for Apple iPad (72px x 72px)."
+msgstr "为Apple iPad选择一个收藏夹图标（72px x 72px）。"
+
+#: theme/theme-options/liquid-logo.php:137
+msgid "Apple iPad Retina Icon"
+msgstr "Apple iPad Retina图标"
+
+#: theme/theme-options/liquid-logo.php:138
+msgid "Select a favicon for Apple iPad Retina Version (144px x 144px)."
+msgstr "为Apple iPad Retina版本选择一个收藏夹图标（144px x 144px）。"
+
+#: theme/theme-options/liquid-page-404.php:7
+msgid "404 Page"
+msgstr "404页"
+
+#: theme/theme-options/liquid-page-404.php:13
+msgid "Particles"
+msgstr "粒子"
+
+#: theme/theme-options/liquid-page-404.php:14
+msgid "Switch on to display the particles."
+msgstr "打开以显示粒子。"
+
+#: theme/theme-options/liquid-page-404.php:31
+msgid "Heading"
+msgstr "标题"
+
+#: theme/theme-options/liquid-page-404.php:45
+msgid "Button"
+msgstr "按键"
+
+#: theme/theme-options/liquid-page-404.php:46
+msgid "Switch on to display the \"back to home\" button."
+msgstr "打开以显示“返回主页”按钮。"
+
+#: theme/theme-options/liquid-page-404.php:57
+msgid "Button Title"
+msgstr "按钮标题"
+
+#: theme/theme-options/liquid-page-maintenance.php:29
+msgid "Maintenance Page"
+msgstr "维护页面"
+
+#: theme/theme-options/liquid-page-maintenance.php:36
+msgid "Enable Maintenance Mode"
+msgstr "启用维护模式"
+
+#: theme/theme-options/liquid-page-maintenance.php:37
+#: theme/theme-options/liquid-page-maintenance.php:50
+msgid "If on, the frontend shows maintenance mode page only."
+msgstr "如果选中，则前端仅显示维护模式页面。"
+
+#: theme/theme-options/liquid-page-maintenance.php:38
+#: theme/theme-options/liquid-page-maintenance.php:51
+msgid ""
+"Only administrator will be able to visit site. If you want to check if "
+"maintenance mode is enabled you have to logout."
+msgstr "只有管​​理员才能访问网站。如果要检查是否启用了维护模式，则必须注销。"
+
+#: theme/theme-options/liquid-page-maintenance.php:49
+msgid "Enable Till"
+msgstr "启用直到"
+
+#: theme/theme-options/liquid-page-maintenance.php:62
+msgid "Date (mm/dd/yyyy)"
+msgstr "日期（mm / dd / yyyy）"
+
+#: theme/theme-options/liquid-page-maintenance.php:74
+msgid "Hour"
+msgstr "小时"
+
+#: theme/theme-options/liquid-page-maintenance.php:87
+msgid "Minutes"
+msgstr "分钟"
+
+#: theme/theme-options/liquid-page-maintenance.php:100
+msgid "Page Title"
+msgstr "页面标题"
+
+#: theme/theme-options/liquid-page-maintenance.php:102
+msgid "We&#39;ll Be Right Back."
+msgstr "我们马上回来。"
+
+#: theme/theme-options/liquid-page-maintenance.php:110
+msgid ""
+"<p>Our team is working hard to be able to back in a couple hours. <br> "
+"Thanks for your patience.</p>"
+msgstr ""
+"<p>我们的团队正在努力工作，能够在几个小时内回来。 <br>感谢您的耐心等待。</p>"
+
+#: theme/theme-options/liquid-page-maintenance.php:118
+msgid "Solid"
+msgstr "固体"
+
+#: theme/theme-options/liquid-page-maintenance.php:119
+msgid "Gradient"
+msgstr "梯度"
+
+#: theme/theme-options/liquid-page-maintenance.php:165
+msgid "Social identities"
+msgstr "社会身份"
+
+#: theme/theme-options/liquid-page-maintenance.php:177
+msgid "Url"
+msgstr "网址"
+
+#: theme/theme-options/liquid-page-search.php:7
+#: theme/theme-options/liquid-sidebars.php:197
+msgid "Search Page"
+msgstr "搜索页"
+
+#: theme/theme-options/liquid-page-search.php:14
+msgid "Search Page Header"
+msgstr "搜索页标题"
+
+#: theme/theme-options/liquid-page-search.php:15
+msgid "Choose a header for search result pages."
+msgstr "选择搜索结果页面的标题。"
+
+#: theme/theme-options/liquid-page-search.php:25
+msgid "Search Page Title"
+msgstr "搜索页面标题"
+
+#: theme/theme-options/liquid-page-search.php:26
+msgid "Switch on to display the titlebar for the search result pages."
+msgstr "打开以显示搜索结果页面的标题栏。"
+
+#: theme/theme-options/liquid-page-search.php:36
+msgid "Search Page Subtitle"
+msgstr "搜索页面字幕"
+
+#: theme/theme-options/liquid-page-search.php:37
+msgid "Define a default subtitle for the search result pages."
+msgstr "为搜索结果页面定义默认字幕。"
+
+#: theme/theme-options/liquid-portfolio.php:12
+msgid "General"
+msgstr "一般"
+
+#: theme/theme-options/liquid-portfolio.php:19
+msgid "Enable Portfolio Archive Page Title"
+msgstr "启用投资组合存档页面标题"
+
+#: theme/theme-options/liquid-portfolio.php:20
+msgid "Display the portfolio archive page title."
+msgstr "显示投资组合存档页面标题。"
+
+#: theme/theme-options/liquid-portfolio.php:30
+msgid "Portfolio Archive Page Title"
+msgstr "投资组合档案页面标题"
+
+#: theme/theme-options/liquid-portfolio.php:31
+msgid ""
+"[ld_category_title] shortcode displays the corresponding category title, any "
+"text can be added before or after the shortcode."
+msgstr ""
+"[ld_category_title]短代码显示相应的类别标题，可以在短代码之前或之后添加任何文"
+"本。"
+
+#: theme/theme-options/liquid-portfolio.php:32
+msgid "Manage the title of portfolio archive pages."
+msgstr "管理投资组合存档页面的标题。"
+
+#: theme/theme-options/liquid-portfolio.php:33
+msgid "[ld_category_title]"
+msgstr "[ld_category_title]"
+
+#: theme/theme-options/liquid-portfolio.php:42
+msgid "Masonry Classic"
+msgstr "砌体经典"
+
+#: theme/theme-options/liquid-portfolio.php:43
+msgid "Masonry Creative"
+msgstr "砌体创意"
+
+#: theme/theme-options/liquid-portfolio.php:45
+msgid "Grid Alt"
+msgstr "网格Alt"
+
+#: theme/theme-options/liquid-portfolio.php:46
+msgid "Grid Caption"
+msgstr "网格标题"
+
+#: theme/theme-options/liquid-portfolio.php:47
+msgid "Grid Hover Alt"
+msgstr "网格悬停Alt"
+
+#: theme/theme-options/liquid-portfolio.php:48
+msgid "Grid Hover 3D"
+msgstr "网格悬停3D"
+
+#: theme/theme-options/liquid-portfolio.php:49
+msgid "Grid Hover Overlay"
+msgstr "网格悬停叠加"
+
+#: theme/theme-options/liquid-portfolio.php:50
+msgid "Grid Hover Classic"
+msgstr "网格悬停经典"
+
+#: theme/theme-options/liquid-portfolio.php:51
+msgid "Packery"
+msgstr "打包"
+
+#: theme/theme-options/liquid-portfolio.php:52
+msgid "Packery 2"
+msgstr "打包2"
+
+#: theme/theme-options/liquid-portfolio.php:53
+msgid "Packery 3"
+msgstr "打包3"
+
+#: theme/theme-options/liquid-portfolio.php:61
+msgid "Horizontal Alignment"
+msgstr "水平对齐"
+
+#: theme/theme-options/liquid-portfolio.php:62
+msgid "Content horizontal alignment"
+msgstr "内容水平对齐"
+
+#: theme/theme-options/liquid-portfolio.php:80
+msgid "Vertical Alignment"
+msgstr "垂直对齐"
+
+#: theme/theme-options/liquid-portfolio.php:81
+msgid "Content vertical alignment"
+msgstr "内容垂直对齐"
+
+#: theme/theme-options/liquid-portfolio.php:85
+msgid "Middle"
+msgstr "中间"
+
+#: theme/theme-options/liquid-portfolio.php:99
+msgid "Columns"
+msgstr "列"
+
+#: theme/theme-options/liquid-portfolio.php:125
+msgid "Columns gap"
+msgstr "列间隙"
+
+#: theme/theme-options/liquid-portfolio.php:133
+msgid "Enable parallax?"
+msgstr "启用视差？"
+
+#: theme/theme-options/liquid-portfolio.php:141
+msgid "Portfolio Single"
+msgstr "投资单一"
+
+#: theme/theme-options/liquid-portfolio.php:148
+msgid "Like Button"
+msgstr "像Button一样"
+
+#: theme/theme-options/liquid-portfolio.php:149
+msgid "Switch on to display the like button on single portfolio pages."
+msgstr "打开以在单个投资组合页面上显示类似按钮。"
+
+#: theme/theme-options/liquid-portfolio.php:160
+msgid "Social Sharing Module"
+msgstr "社交分享模块"
+
+#: theme/theme-options/liquid-portfolio.php:161
+msgid ""
+"Switch on to display the social sharing module on single portfolio pages."
+msgstr "打开以在单个组合页面上显示社交共享模块。"
+
+#: theme/theme-options/liquid-portfolio.php:194
+msgid "Related Works Style"
+msgstr "相关作品风格"
+
+#: theme/theme-options/liquid-portfolio.php:195
+msgid "Choose a style for related works on single portfolio posts."
+msgstr "为单个投资组合帖子选择相关作品的样式。"
+
+#: theme/theme-options/liquid-preheader.php:7
+msgid "Preheader"
+msgstr "Preheader"
+
+#: theme/theme-options/liquid-preheader.php:8
+msgid "Change the preheader section configuration."
+msgstr "更改预标题部分配置。"
+
+#: theme/theme-options/liquid-preheader.php:15
+msgid "Enable preheader"
+msgstr "启用预读器"
+
+#: theme/theme-options/liquid-promotions.php:7
+msgid "Promo Boxes"
+msgstr "促销盒"
+
+#: theme/theme-options/liquid-promotions.php:14
+msgid "Promotions"
+msgstr "促销"
+
+#: theme/theme-options/liquid-promotions.php:21
+msgid "Enable Promo boxes"
+msgstr "启用促销框"
+
+#: theme/theme-options/liquid-promotions.php:22
+msgid "Enable to show promo boxes"
+msgstr "启用以显示促销框"
+
+#: theme/theme-options/liquid-promotions.php:33
+msgid "Top Promo box content"
+msgstr "顶级促销盒内容"
+
+#: theme/theme-options/liquid-promotions.php:34
+msgid "Select which promobox content post to display"
+msgstr "选择要显示的promobox内容帖子"
+
+#: theme/theme-options/liquid-promotions.php:50
+msgid "In post Promo box content"
+msgstr "在帖子Promo框中的内容"
+
+#: theme/theme-options/liquid-promotions.php:51
+msgid ""
+"Select which promobox content post to display (works for single post only, "
+"and display after the Author Bio section)"
+msgstr ""
+"选择要显示的promobox内容帖子（仅适用于单个帖子，并在作者生物部分后显示）"
+
+#: theme/theme-options/liquid-sidebars.php:14
+msgid "Add sidebars"
+msgstr "添加侧边栏"
+
+#: theme/theme-options/liquid-sidebars.php:20
+msgid "Add a Sidebar"
+msgstr "添加侧边栏"
+
+#: theme/theme-options/liquid-sidebars.php:22
+msgid "You can add as many custom sidebars as you need."
+msgstr "您可以根据需要添加任意数量的自定义边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:36
+#: theme/theme-options/liquid-sidebars.php:47
+msgid "Default Sidebar of Pages"
+msgstr "页面的默认边栏"
+
+#: theme/theme-options/liquid-sidebars.php:37
+msgid ""
+"Switch on to use the same sidebars across all pages by overwriting the page "
+"options."
+msgstr "通过覆盖页面选项，打开以在所有页面上使用相同的侧边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:48
+msgid "Choose the sidebar that will display across all pages."
+msgstr "选择将在所有页面上显示的侧栏。"
+
+#: theme/theme-options/liquid-sidebars.php:54
+msgid "Default Sidebar Position of Pages"
+msgstr "页面的默认边栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:55
+msgid "Manages the position of the sidebar across all pages."
+msgstr "管理所有页面上侧栏的位置。"
+
+#: theme/theme-options/liquid-sidebars.php:67
+msgid "Portfolio Posts"
+msgstr "投资组合帖子"
+
+#: theme/theme-options/liquid-sidebars.php:74
+#: theme/theme-options/liquid-sidebars.php:85
+msgid "Default Sidebar of Portfolio Posts"
+msgstr "投资组合帖子的默认边栏"
+
+#: theme/theme-options/liquid-sidebars.php:75
+msgid ""
+"Switch on to use the same sidebars across all portfolio posts by overwriting "
+"the page options."
+msgstr "通过覆盖页面选项，在所有投资组合帖子中使用相同的侧边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:86
+msgid "Select sidebar that will display on all portfolio posts."
+msgstr "选择将在所有投资组合帖子上显示的侧边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:92
+msgid "Default Sidebar Position of Portfolio Posts"
+msgstr "投资组合帖子的默认侧栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:93
+msgid "Manages the position of the sidebar for all portfolio posts."
+msgstr "管理所有投资组合帖子的侧边栏位置。"
+
+#: theme/theme-options/liquid-sidebars.php:105
+msgid "Portfolio Archive"
+msgstr "组合档案"
+
+#: theme/theme-options/liquid-sidebars.php:112
+msgid "Sidebar of Portfolio Archive"
+msgstr "投资组合存档边栏"
+
+#: theme/theme-options/liquid-sidebars.php:113
+msgid "Select a sidebar that will display on the portfolio archive pages."
+msgstr "选择将显示在项目组合归档页面上的侧栏。"
+
+#: theme/theme-options/liquid-sidebars.php:119
+msgid "Default Sidebar Position of Portfolio Archive"
+msgstr "投资组合存档的默认边栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:120
+msgid "Manages the position of the sidebar for portfolio archive pages."
+msgstr "管理投资组合存档页面的侧边栏位置。"
+
+#: theme/theme-options/liquid-sidebars.php:132
+msgid "Blog Posts"
+msgstr "博客帖子"
+
+#: theme/theme-options/liquid-sidebars.php:139
+msgid "Default Sidebar For Blog Posts"
+msgstr "博客帖子的默认边栏"
+
+#: theme/theme-options/liquid-sidebars.php:140
+msgid ""
+"Turn on if you want to use the same sidebars on all blog posts. This option "
+"overrides the blog options."
+msgstr ""
+"如果要在所有博客帖子上使用相同的侧边栏，请启用此选项。此选项会覆盖博客选项。"
+
+#: theme/theme-options/liquid-sidebars.php:150
+msgid "Default Blog Posts Sidebar"
+msgstr "默认博客帖子侧栏"
+
+#: theme/theme-options/liquid-sidebars.php:151
+msgid "Select sidebar 1 that will display on all blog posts."
+msgstr "选择将在所有博客帖子上显示的侧栏1。"
+
+#: theme/theme-options/liquid-sidebars.php:157
+msgid "Default Blog Sidebar Position"
+msgstr "默认博客侧边栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:158
+msgid "Controls the position of sidebar for all blog posts. "
+msgstr "控制所有博客帖子的侧边栏位置。"
+
+#: theme/theme-options/liquid-sidebars.php:170
+msgid "Blog Archive"
+msgstr "博客档案"
+
+#: theme/theme-options/liquid-sidebars.php:177
+msgid "Blog Archive Sidebar"
+msgstr "博客存档边栏"
+
+#: theme/theme-options/liquid-sidebars.php:178
+msgid "Select a sidebar that will display on the blog archive pages."
+msgstr "选择将显示在博客存档页面上的侧边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:184
+msgid "Default Blog Archive Sidebar Position"
+msgstr "默认博客存档侧边栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:185
+msgid "Controls the position of the sidebar for blog archive pages."
+msgstr "控制博客存档页面边栏的位置。"
+
+#: theme/theme-options/liquid-sidebars.php:204
+msgid "Sidebar of Search Page"
+msgstr "搜索页边栏"
+
+#: theme/theme-options/liquid-sidebars.php:205
+msgid "Choose a sidebar that will display on the search results page."
+msgstr "选择将显示在搜索结果页面上的侧边栏。"
+
+#: theme/theme-options/liquid-sidebars.php:211
+msgid "Sidebar Position of Search Page"
+msgstr "搜索页面的侧边栏位置"
+
+#: theme/theme-options/liquid-sidebars.php:212
+msgid "Manages the position of the sidebar for the search results page."
+msgstr "管理搜索结果页面侧栏的位置。"
+
+#: theme/theme-options/liquid-typography.php:7
+msgid "Typography"
+msgstr "活版印刷"
+
+#: theme/theme-options/liquid-typography.php:13
+msgid "Body Typography"
+msgstr "身体排版"
+
+#: theme/theme-options/liquid-typography.php:20
+msgid "Body Typography Settings"
+msgstr "身体排版设置"
+
+#: theme/theme-options/liquid-typography.php:21
+msgid "Manage the typography for all body text."
+msgstr "管理所有正文的排版。"
+
+#: theme/theme-options/liquid-typography.php:40
+msgid "Single Post Typography"
+msgstr "单柱印刷术"
+
+#: theme/theme-options/liquid-typography.php:47
+msgid "Typography of Single Posts"
+msgstr "单个帖子的排版"
+
+#: theme/theme-options/liquid-typography.php:48
+msgid "Manage the typography of single post text."
+msgstr "管理单个帖子文本的排版。"
+
+#: theme/theme-options/liquid-typography.php:68
+msgid "Headers Typography"
+msgstr "标题排版"
+
+#: theme/theme-options/liquid-typography.php:75
+msgid "H1 Headers Typography"
+msgstr "H1标头排版"
+
+#: theme/theme-options/liquid-typography.php:76
+msgid "Manage the typography for all H1 Headers."
+msgstr "管理所有H1标头的排版。"
+
+#: theme/theme-options/liquid-typography.php:93
+msgid "H2 Headers Typography"
+msgstr "H2 Headers排版"
+
+#: theme/theme-options/liquid-typography.php:94
+msgid "Manage the typography for all H2 Headers."
+msgstr "管理所有H2标题的排版。"
+
+#: theme/theme-options/liquid-typography.php:113
+msgid "H3 Headers Typography"
+msgstr "H3标头排版"
+
+#: theme/theme-options/liquid-typography.php:114
+msgid "Manage the typography for all H3 Headers."
+msgstr "管理所有H3标头的排版。"
+
+#: theme/theme-options/liquid-typography.php:132
+msgid "H4 Headers Typography"
+msgstr "H4标题排版"
+
+#: theme/theme-options/liquid-typography.php:133
+msgid "Manage the typography for all H4 Headers."
+msgstr "管理所有H4标题的排版。"
+
+#: theme/theme-options/liquid-typography.php:151
+msgid "H5 Headers Typography"
+msgstr "H5标题排版"
+
+#: theme/theme-options/liquid-typography.php:152
+msgid "Manage the typography for all H5 Headers."
+msgstr "管理所有H5标题的排版。"
+
+#: theme/theme-options/liquid-typography.php:170
+msgid "H6 Headers Typography"
+msgstr "H6标题排版"
+
+#: theme/theme-options/liquid-typography.php:171
+msgid "Manage the typography for all H6 Headers."
+msgstr "管理所有H6接头的排版。"
+
+#: theme/theme-options/liquid-typography.php:190
+msgid "Custom fonts"
+msgstr "自定义字体"
+
+#: theme/theme-options/liquid-typography.php:197
+msgid "Add Custom Fonts"
+msgstr "添加自定义字体"
+
+#: theme/theme-options/liquid-typography.php:198
+msgid ""
+"Upload custom font. All files are not necessary but are recommended for full "
+"browser support. You can upload as many custom fonts as you need. Click the "
+"\"Add\" button for additional upload boxes."
+msgstr ""
+"上传自定义字体。所有文件都不是必需的，但建议用于完整的浏览器支持。您可以根据"
+"需要上传任意数量的自定义字体。单击“添加”按钮以获取其他上传框。"
+
+#: theme/theme-options/liquid-typography.php:207
+msgid "Font title"
+msgstr "字体标题"
+
+#: theme/theme-options/liquid-typography.php:215
+msgid "WOFF2"
+msgstr "WOFF2"
+
+#: theme/theme-options/liquid-typography.php:222
+msgid "WOFF"
+msgstr "WOFF"
+
+#: theme/theme-options/liquid-typography.php:229
+msgid "TTF"
+msgstr "TTF"
+
+#: theme/theme-options/liquid-typography.php:236
+msgid "SVG"
+msgstr "SVG"
+
+#: theme/theme-options/liquid-woocommerce.php:4
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: theme/theme-options/liquid-woocommerce.php:11
+msgid "Woo Category Title Bar"
+msgstr "Woo类别标题栏"
+
+#: theme/theme-options/liquid-woocommerce.php:12
+msgid "Turn on to show the woo category title bar"
+msgstr "打开以显示woo类别标题栏"
+
+#: theme/theme-options/liquid-woocommerce.php:22
+msgid "Woo Category Title"
+msgstr "Woo类别标题"
+
+#: theme/theme-options/liquid-woocommerce.php:23
+msgid "Controls the title text that displays in the woo category"
+msgstr "控制在woo类别中显示的标题文本"
+
+#: theme/theme-options/liquid-woocommerce.php:28
+msgid "Woo Category Subtitle"
+msgstr "Woo类别字幕"
+
+#: theme/theme-options/liquid-woocommerce.php:29
+msgid "Controls the subtitle text that displays in the woo category"
+msgstr "控制在woo类别中显示的字幕文本"
+
+#: theme/theme-options/liquid-woocommerce.php:34
+msgid "Number of Products Displayed per Page"
+msgstr "每页显示的产品数量"
+
+#: theme/theme-options/liquid-woocommerce.php:35
+msgid ""
+"This option works with predefined WooCommerce catalog page and category pages"
+msgstr "此选项适用于预定义的WooCommerce目录页面和类别页面"
+
+#: theme/theme-options/liquid-woocommerce.php:41
+msgid "Number of Products Per Row"
+msgstr "每行产品数量"
+
+#: theme/theme-options/liquid-woocommerce.php:42
+msgid ""
+"Define number of products per row to display on your predefined WooCommerce "
+"page and category pages"
+msgstr "定义要在预定义的WooCommerce页面和类别页面上显示的每行产品数量"
+
+#: theme/theme-options/liquid-woocommerce.php:50
+msgid "Woo Single Product Share"
+msgstr "Woo单品分享"
+
+#: theme/theme-options/liquid-woocommerce.php:51
+msgid "Turn on to show the share links"
+msgstr "打开以显示共享链接"
+
+#: theme/theme-options/liquid-woocommerce.php:61
+msgid "Number of Related Products"
+msgstr "相关产品数量"
+
+#: theme/theme-options/liquid-woocommerce.php:62
+msgid "Define number of related products."
+msgstr "定义相关产品的数量。"
+
+#: theme/theme-options/liquid-woocommerce.php:70
+msgid "Number of Displayed Cross-sells"
+msgstr "显示的交叉销售数量"
+
+#: theme/theme-options/liquid-woocommerce.php:71
+msgid "Define number of cross-sells display."
+msgstr "定义交叉销售的数量。"
+
+#: theme/theme-options/liquid-woocommerce.php:79
+msgid "Number of Displayed Up-sells"
+msgstr "显示的向上销售数量"
+
+#: theme/theme-options/liquid-woocommerce.php:80
+msgid "Define number of up-sells display."
+msgstr "定义向上销售数量显示。"
+
+#: woocommerce/cart/cart-empty.php:31
+msgid "Return To Shop"
+msgstr "回到商店"
+
+#: woocommerce/cart/cart-shipping.php:58
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "运费将在您提供地址后计算。"
+
+#: woocommerce/cart/cart-shipping.php:60
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"没有可用的运输方式。请仔细检查您的地址，或者如果您需要任何帮助，请与我们联"
+"系。"
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Total"
+msgstr "购物车总数"
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr "运输"
+
+#: woocommerce/cart/cart-totals.php:68
+#, php-format
+msgid "estimated for %s"
+msgstr "estimated for %s"
+
+#: woocommerce/cart/cart-totals.php:89 woocommerce/cart/cart-totals.php:90
+#: woocommerce/cart/header-mini-cart.php:109 woocommerce/cart/mini-cart.php:84
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr "小计"
+
+#: woocommerce/cart/cart-totals.php:94 woocommerce/cart/cart-totals.php:95
+#: woocommerce/cart/cart.php:58 woocommerce/cart/cart.php:132
+#: woocommerce/checkout/review-order.php:103
+msgid "Total"
+msgstr "总"
+
+#: woocommerce/cart/cart.php:26 woocommerce/checkout/form-checkout.php:34
+#: woocommerce/checkout/thankyou.php:27
+msgid "1"
+msgstr "1"
+
+#: woocommerce/cart/cart.php:27 woocommerce/checkout/form-checkout.php:35
+#: woocommerce/checkout/thankyou.php:28
+msgid "Shopping Cart"
+msgstr "购物车"
+
+#: woocommerce/cart/cart.php:34 woocommerce/checkout/form-checkout.php:42
+#: woocommerce/checkout/thankyou.php:35
+msgid "2"
+msgstr "2"
+
+#: woocommerce/cart/cart.php:35 woocommerce/checkout/form-checkout.php:43
+#: woocommerce/checkout/thankyou.php:36
+msgid "Payment and Delivery Options"
+msgstr "付款和交付选项"
+
+#: woocommerce/cart/cart.php:42 woocommerce/checkout/form-checkout.php:50
+#: woocommerce/checkout/thankyou.php:43
+msgid "3"
+msgstr "3"
+
+#: woocommerce/cart/cart.php:43 woocommerce/checkout/form-checkout.php:51
+#: woocommerce/checkout/thankyou.php:44
+msgid "Order Received"
+msgstr "订单已经收到"
+
+#: woocommerce/cart/cart.php:55 woocommerce/cart/cart.php:75
+msgid "Product"
+msgstr "产品"
+
+#: woocommerce/cart/cart.php:56 woocommerce/cart/cart.php:108
+msgid "Price"
+msgstr "价钱"
+
+#: woocommerce/cart/cart.php:57 woocommerce/cart/cart.php:114
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:101
+msgid "Available on backorder"
+msgstr "延期交货"
+
+#: woocommerce/cart/cart.php:143 woocommerce/cart/header-mini-cart.php:55
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr "删除此项目"
+
+#: woocommerce/cart/cart.php:163
+msgid "Coupon code"
+msgstr "优惠券代码"
+
+#: woocommerce/cart/cart.php:164
+msgid "Apply Coupon"
+msgstr "申请优惠券"
+
+#: woocommerce/cart/cart.php:178
+msgid "Continue Shopping"
+msgstr "继续购物"
+
+#: woocommerce/cart/cart.php:180 woocommerce/cart/cart.php:181
+msgid "Update cart"
+msgstr "更新购物车"
+
+#: woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr "You may be interested in&hellip;"
+
+#: woocommerce/cart/header-mini-cart.php:31
+msgid "Your cart"
+msgstr "你的购物车"
+
+#: woocommerce/cart/header-mini-cart.php:100 woocommerce/cart/mini-cart.php:76
+msgid "No products in the cart."
+msgstr "没有任何产品在购物车中。"
+
+#: woocommerce/cart/header-mini-cart.php:115 woocommerce/cart/mini-cart.php:90
+msgid "Checkout"
+msgstr "查看"
+
+#: woocommerce/cart/header-mini-cart.php:121 woocommerce/cart/mini-cart.php:89
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr "进行结算"
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr "计算运费"
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr "Select a country&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "State / county"
+msgstr "州/县"
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select a state&hellip;"
+msgstr "Select a state&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:79
+msgid "City"
+msgstr "市"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Postcode / ZIP"
+msgstr "邮政编码/邮编"
+
+#: woocommerce/cart/shipping-calculator.php:89
+msgid "Update Totals"
+msgstr "更新总计"
+
+#: woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"您购物车中的商品存在一些问题（如上所示）。请在退房前返回购物车页面并解决这些"
+"问题。"
+
+#: woocommerce/checkout/cart-errors.php:25
+msgid "Return To Cart"
+msgstr "回到购物车"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "您必须登录才能结帐。"
+
+#: woocommerce/checkout/form-checkout.php:70
+msgid "Your order"
+msgstr "你的订单"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "回头客？"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "点击此处登录"
+
+#: woocommerce/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+"如果您之前曾与我们一起购物，请在下面输入您的详细信息。如果您是新客户，请前往"
+"结算＆amp;运输部分。"
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr "运送到不同的地址？"
+
+#: woocommerce/checkout/form-shipping.php:63
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "附加信息"
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"对不起，您的州似乎没有可用的付款方式。如果您需要帮助或希望作出其他安排，请与"
+"我们联系。"
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr "请在上面填写您的详细信息，以查看可用的付款方式。"
+
+#: woocommerce/checkout/payment.php:40
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"由于您的浏览器不支持JavaScript，或者已禁用，因此请确保在下订单之前单击<em>更"
+"新总计</em>按钮。如果您没有这样做，您可能会被收取超过上述金额的费用。"
+
+#: woocommerce/checkout/payment.php:41
+msgid "Update totals"
+msgstr "更新总数"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"很遗憾，由于发起银行/商家拒绝了您的交易，您的订单无法处理。请再次尝试购买。"
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Pay"
+msgstr "工资"
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "My account"
+msgstr "我的帐户"
+
+#: woocommerce/checkout/thankyou.php:66 woocommerce/checkout/thankyou.php:108
+msgid "Thank you. Your order has been received."
+msgstr "谢谢。 您的订单已收到。"
+
+#: woocommerce/checkout/thankyou.php:71
+msgid "Order number:"
+msgstr "订单号："
+
+#: woocommerce/checkout/thankyou.php:76
+msgid "Date:"
+msgstr "日期："
+
+#: woocommerce/checkout/thankyou.php:82
+msgid "Email:"
+msgstr "电子邮件："
+
+#: woocommerce/checkout/thankyou.php:88
+msgid "Total:"
+msgstr "总："
+
+#: woocommerce/checkout/thankyou.php:94
+msgid "Payment method:"
+msgstr "付款方法："
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr " %s 数量"
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "数量"
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "显示单一结果"
+
+#: woocommerce/loop/result-count.php:35
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "显示单一结果"
+
+#: woocommerce/loop/sale-flash.php:29
+msgid "Sold Out"
+msgstr "卖光了"
+
+#: woocommerce/loop/sale-flash.php:36
+msgid "Sale!"
+msgstr "销售！"
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s的评论为%2$s"
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr "评测"
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr "还没有评论。"
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr "添加评论"
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "沙发已为阁下备好"
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "发表回复 %s "
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Perfect"
+msgstr "完善"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Good"
+msgstr "好"
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Average"
+msgstr "平均"
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Not that bad"
+msgstr "没那么糟"
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Very poor"
+msgstr "很差"
+
+#: woocommerce/single-product-reviews.php:109
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "需要<a href=\"%s\">登录</a>才能留言。"
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Review"
+msgstr "评论"
+
+#: woocommerce/single-product-reviews.php:127
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有已购买此产品的客户才可以进行审核。"
+
+#: woocommerce/single-product/add-to-cart/variable.php:30
+msgid "This product is currently out of stock and unavailable."
+msgstr "该产品目前无货存在，无法使用。"
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr "明确"
+
+#: woocommerce/single-product/add-to-cart/variation.php:23
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "对不起，此产品不可用。 请选择其他组合。"
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr "N / A"
+
+#: woocommerce/single-product/meta.php:34
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/product-image.php:50
+msgid "Awaiting product image"
+msgstr "等待产品图片"
+
+#: woocommerce/single-product/related.php:31
+msgid "Related Products"
+msgstr "相关产品"
+
+#: woocommerce/single-product/stock.php:26
+msgid "Availability: "
+msgstr "可用性："
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "描述"
+
+#: woocommerce/single-product/up-sells.php:32
+msgid "You may also like&hellip;"
+msgstr "你可能也喜欢＆hellip;"

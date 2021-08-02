@@ -1,0 +1,17 @@
+.vc_shortcodes_container {
+
+	> .vc_controls:not(.bottom-controls) {
+		left: auto;
+		right: 50%;
+		transform: translate(50%, -50%);
+
+
+		.column_move {
+
+			.vc-composer-icon {
+				margin-right: 0;
+				margin-left: 7px;
+			}
+		}
+	}
+}

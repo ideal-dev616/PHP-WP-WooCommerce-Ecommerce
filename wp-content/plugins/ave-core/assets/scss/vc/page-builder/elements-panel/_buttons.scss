@@ -1,0 +1,10 @@
+/* Remove extra field from css editor in button sc */
+[data-vc-shortcode="ra_button"] .vc_col-xs-5.vc_settings,
+[data-vc-shortcode-param-name="ib_css"] .vc_col-xs-5.vc_settings{
+	display: none !important;
+}
+
+[data-vc-shortcode="ra_button"] .vc_layout-onion,
+[data-vc-shortcode-param-name="ib_css"] .vc_layout-onion {
+	margin: 0 auto !important;
+}

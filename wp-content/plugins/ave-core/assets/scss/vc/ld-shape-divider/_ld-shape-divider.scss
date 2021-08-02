@@ -1,0 +1,83 @@
+.wpb_el_type_liquid_shape_divider {
+
+	.liquid-inner-wrap {
+
+		> div {
+			margin-bottom: 30px;
+		}
+	}
+}
+.liquid-shape-divider-tabs {
+	margin-bottom: 20px;
+}
+.liquid_shape_divider_preview {
+	height: 190px;
+	
+	&:before {
+		content: '';
+		display: inline-block;
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		background-color: rgba(#fff, 0.1);
+	}
+	.liquid_shape {
+		width: 100%;
+		height: 100%;
+		position: relative;
+		background: url("../img/pattern-1.jpg");
+		background-size: ceover;
+	}
+	img {
+		visibility: hidden;
+		max-width: 100%;
+	}
+	svg {
+		width: 100%;
+		max-height: 100%;
+		height: auto;
+		top: 0;
+		left: 0;
+		position: absolute;
+	}
+
+	.liquid_shape_divider_settings[data-position=top] & {
+
+		svg {
+			transform: rotate(180deg);
+		}
+	}
+	.liquid_shape_divider_settings[data-position=bottom] & {
+
+		svg {
+			top: auto;
+			bottom: 0;
+		}
+	}
+}
+
+.liquid-shape-divider-heading {
+	display: inline-flex;
+	width: 190px;
+	padding: 15px 0;
+	border: 1px solid #EAEDF0;
+	border-radius: 2px;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 1.5em;
+	white-space: nowrap;
+	justify-content: center;
+	color: #000;
+	cursor: pointer;
+	transition: background 0.3s, border 0.3s;
+
+	+ .liquid-shape-divider-heading {
+		margin-left: 18px;
+	}
+	&.active {
+		background-color: #EEEFFF;
+		border-color: #EEEFFF;
+	}
+}

@@ -1,0 +1,40 @@
+.wp-admin {
+	
+	.redux-main {
+
+		.redux-group-tab {
+
+			> h2 {
+				padding-bottom: 15px;
+				margin-top: 45px;
+				margin-bottom: 35px;
+				font-size: 18px;
+				border-bottom: 3px solid #ECECEC;
+			}
+
+			.form-table {
+
+				th,
+				td {
+					padding-top: 25px;
+					padding-bottom: 25px;
+				}
+			}
+			.redux-field-container {
+				padding: 0;
+			}
+		}
+		.redux_field_th {
+			padding: 0 15px 0 0;
+			font-size: 16px;
+			color: #18191E;
+	
+			.description {
+				margin-top: 14px;
+				font-size: 14px;
+				line-height: 24px;
+				color: #797979;
+			}
+	}
+	}
+}

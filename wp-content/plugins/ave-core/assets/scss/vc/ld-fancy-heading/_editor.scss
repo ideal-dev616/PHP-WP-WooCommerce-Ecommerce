@@ -1,0 +1,60 @@
+[data-vc-shortcode=ra_fancy_heading] {
+
+	#wp-wpb_tinymce_content-wrap {
+
+		#wp-wpb_tinymce_content-media-buttons {
+			display: none;
+		}
+	}
+	.quicktags-toolbar {
+
+		#qt_wpb_tinymce_content_link,
+		#qt_wpb_tinymce_content_block,
+		#qt_wpb_tinymce_content_del,
+		#qt_wpb_tinymce_content_ins,
+		#qt_wpb_tinymce_content_img,
+		#qt_wpb_tinymce_content_code,
+		#qt_wpb_tinymce_content_more {
+			display: none;
+		}
+	}
+	.mce-toolbar {
+		display: inline-block !important;
+		
+		&.mce-first {
+			
+			.mce-wp-dfw {
+				display: none;
+			}
+			.mce-btn {
+
+				&:first-child,
+				&:nth-child(6),
+				&:nth-child(7),
+				&:nth-child(8),
+				&:nth-child(9),
+				&:nth-child(10),
+				&:nth-child(11),
+				&:last-child {
+					display: none;
+				}
+			}
+		}
+		&.mce-last {
+
+			.mce-btn {
+
+				&:first-child,
+				&:nth-child(2),
+				&:nth-child(3),
+				&:nth-child(4),
+				&:nth-child(9),
+				&:nth-child(10),
+				&:nth-child(13),
+				&:last-child {
+					display: none;
+				}
+			}
+		}
+	}
+}

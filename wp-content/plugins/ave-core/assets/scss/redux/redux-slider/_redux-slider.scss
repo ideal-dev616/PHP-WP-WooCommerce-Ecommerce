@@ -1,0 +1,45 @@
+.wp-admin {
+
+	.redux-container {
+
+		.redux-container-slider {
+
+			.noUi-background {
+				background-color: #EDEFF1;
+				box-shadow: none;
+			}
+			.noUi-target {
+				height: 3px;
+				border: none;
+				background: $color-primary !important;
+			}
+			.noUi-base {
+				position: relative;
+	
+				&:before {
+					content: '';
+					display: inline-block;
+					width: 100%;
+					height: 200%;
+					position: absolute;
+					top: -100%;
+					left: 0;
+				}
+			}
+			.noUi-handle {
+				width: 18px;
+				height: 18px;
+				top: -9px;
+				border: none;
+				border-radius: 50em;
+				background-color: $color-primary;
+				box-shadow: 0 0 0 2px #fff;
+
+				&:before,
+				&:after {
+					content: none;
+				}
+			}
+		}
+	}
+}
